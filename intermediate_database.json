@@ -1,0 +1,3050 @@
+{
+    "223": {
+        "fen": "2k3rr/ppp1npb1/2Pp4/P7/1PBP4/2P2QBq/7P/R4RK1 b",
+        "solution": "21...Bxd4+ 22.Kh1 22...Rxg3"
+    },
+    "224": {
+        "fen": "r5r1/pp2kpBQ/3pn3/6q1/8/8/P4PPP/3RR1K1 w",
+        "solution": "23.Rxe6+ Kxe6 24.Qe4+ Kd7 25.Qxb7+ Ke6 26.Re1+ Kf5 27.Qxf7+ 27...Kg4 28.Qf3+ Kh4 29.Qh3#"
+    },
+    "225": {
+        "fen": "8/2R3pk/2N2r1p/1p3p2/1Pb1p2P/8/1r3PP1/R5K1 b",
+        "solution": "33...e3 34.f3 34...Rg6 35.g4 fxg4 36.f4 Bd5 37.Nd4 Ra6 38.Rxa6 Rb1+"
+    },
+    "226": {
+        "fen": "2kr3r/ppp2p1p/2Bb1p2/3P4/6b1/5N2/PPP3PP/RNqQK2R b",
+        "solution": "13...Rde8+ 14.Bxe8 Rxe8+ 15.Kf2 Qe3+ 16.Kf1 Bxf3 17.gxf3 Bc5"
+    },
+    "227": {
+        "fen": "r1b1kb1r/ppp2ppp/2n1p3/6B1/3P2q1/3B1N2/PPP2PPP/R2QK2R w",
+        "solution": "9.h3 Qxg2 10.Rh2 10...Qxh2 11.Nxh2 Nxd4 12.Bb5+"
+    },
+    "228": {
+        "fen": "3r2r1/pbq1kp2/1n2pn1p/2b3p1/B1PN4/4B2P/P2QNPP1/R2R2K1 w",
+        "solution": "21.Nc6+ Qxc6 22.Bxc6 Bxe3 23.Qb4+"
+    },
+    "229": {
+        "fen": "r1q1k2r/ppp2p2/1n3Ppp/3pN3/3Pn1Q1/B1P5/P1P3PP/1R3RK1 w",
+        "solution": "17.Qxg6 17...fxg6 18.f7+ Kd8 19.f8=Q+ Rxf8 20.Rxf8#"
+    },
+    "230": {
+        "fen": "3k4/1b1nb2R/2p5/1p1Ppr2/p7/P1NP1N2/BPP3K1/8 w",
+        "solution": "27.d6 27...Bxd6 28.Be6"
+    },
+    "231": {
+        "fen": "1rbk1bnr/ppNpppp1/7p/1N6/4P3/3q4/P2B1PPP/1R1QK2R w",
+        "solution": "14.Ne6+ 14...Ke8 15.Nbc7#"
+    },
+    "232": {
+        "fen": "5rnr/pp2kpp1/1b1p3p/nBpP2N1/4PN2/8/P4PPP/4RRK1 w",
+        "solution": "19.Nge6 fxe6 20.Ng6+ Kf7 21.Nxh8+ Kf6 22.f4 22...Ne7 23.e5+ Kf5 24.Bd3+"
+    },
+    "233": {
+        "fen": "r1b1k1nr/pp3ppp/2n5/1N6/8/8/qPPQ1PPP/2KR1B1R w",
+        "solution": "14.Nc7+ Kf8 15.Qd6+ 15...Nge7 16.Qd8+ 16...Nxd8 17.Rxd8#"
+    },
+    "234": {
+        "fen": "3r2k1/1p4pp/1qp2p2/p7/3nN3/P3Q3/1P3PPP/3R2K1 w",
+        "solution": "28.Nd6 c5 29.Rxd4"
+    },
+    "235": {
+        "fen": "r1b3n1/ppp2qb1/2kp4/5PB1/3P2PQ/2PB4/PP3K2/4R3 w",
+        "solution": "24.d5+ Kb6 25.Be3+ 25...c5 26.Qd8+ 26...Qc7 27.Qxg8"
+    },
+    "236": {
+        "fen": "r3kbnr/p1pp1p1p/1pn5/1P4pq/3PPp2/5N2/1PP2KPP/R1BQ1B1R b",
+        "solution": "10...Nxd4 11.Bxf4 11...gxf4 12.Nxd4 12...Qh4+ 13.Kg1 Bc5"
+    },
+    "237": {
+        "fen": "r2nrbk1/ppp2pp1/6np/1P1B4/3P2N1/2P5/1P4PP/R1B2RK1 w",
+        "solution": "23.Bxh6 23...gxh6 24.Nf6+ Kh8 25.Nxe8"
+    },
+    "238": {
+        "fen": "3b1rk1/1bq3pp/5pn1/1p2rN2/2p1p3/2P1B2Q/1PB2PPP/R2R2K1 w",
+        "solution": "24.Rd7 24...Qxd7 25.Nh6+ gxh6 26.Qxd7"
+    },
+    "239": {
+        "fen": "6k1/pbB2ppp/4r3/1P6/3P4/5p1q/P1NQ3P/4R1K1 b",
+        "solution": "33...Rg6+ 34.Bg3 Rxg3+ 35.hxg3 f2+ 36.Kxf2 36...Qg2+ 37.Ke3 Qf3#"
+    },
+    "240": {
+        "fen": "r2qkb1r/2p2pp1/p1npb2p/1p6/2P1P3/1BQ1B3/PP3PPP/RN2K2R b",
+        "solution": "12...d5"
+    },
+    "241": {
+        "fen": "5r1k/ppp2pbp/4r3/8/2P3QP/1qPR2B1/1P3RP1/2K5 w",
+        "solution": "25.Rxf7 25...Rxf7 26.Qxe6 26...Rf1+ 27.Be1 Qb6 28.Qxb6 28...axb6 29.Kd2 Kg8 30.Rd8+ Bf8 31.Rd7 31...Bd6 32.Ke2 Rg1 33.Kf2 Rh1 34.Ke2 Rg1"
+    },
+    "242": {
+        "fen": "3r4/pp4pk/4R2p/5p2/3Pbq2/2Q5/P2R1PPP/1r1N2K1 b",
+        "solution": "37...Rc8 38.Rxe4 38...Qxe4"
+    },
+    "243": {
+        "fen": "Q1bk1q1r/1pbp1ppp/2p1n3/4pN2/4P1B1/2P5/P4PPP/R2R2K1 w",
+        "solution": "23.Rxd7+ 23...Kxd7 24.Rd1+ Nd4 25.cxd4"
+    },
+    "244": {
+        "fen": "r3k1nr/pppq1ppp/2n5/1Bb1p3/4P1b1/2NP1N2/PPP3PP/R1BQK2R w",
+        "solution": "8.Nxe5 8...Bxd1 9.Nxd7 Kxd7 10.Kxd1"
+    },
+    "245": {
+        "fen": "4rr1k/1ppb3p/2q1n1p1/p7/3b4/1BP1B3/PP3PP1/2KR1Q1R w",
+        "solution": "23.Rxd4 23...Nxd4 24.Rxh7+ 24...Kxh7 25.Qh1+ Kg7 26.Bh6+ 26...Kf6 27.Qh4+ Ke5 28.Qxd4+"
+    },
+    "246": {
+        "fen": "r2qb1k1/p1pr2bp/1pn2pN1/3NpPpQ/4P3/B7/PPP3PP/R4R1K b",
+        "solution": "20...Rxd5 21.exd5 Nd4 22.Ne7+ 22...Qxe7"
+    },
+    "247": {
+        "fen": "3B2k1/6pp/p1p1q3/1pb5/4Bp2/7P/5PP1/6K1 b",
+        "solution": "29...Nxf2 30.Nxf2 Qe1+ 31.Kh2 31...Bxf2 32.h4 h5"
+    },
+    "248": {
+        "fen": "r1b2rk1/ppp3pp/3b3q/2pP4/2P3B1/2B3P1/5P2/2R2RK1 b",
+        "solution": "19...Bxg3 20.fxg3 Rxf1+ 21.Qxf1 21...Bxg4 22.Qf4 Qxf4 23.gxf4"
+    },
+    "249": {
+        "fen": "r3k2r/1p2bp1p/p3bp2/2pp3Q/8/8/2P2PPP/R1B1R1K1 w",
+        "solution": "17.Rxe6 Qxb5 18.Bh6 18...Kd8 19.Qxf7 Re8 20.Rae1 Qd7 21.Bg7"
+    },
+    "250": {
+        "fen": "r2q1rk1/ppp2pp1/2n1b2p/3n4/2BP4/2P2N2/P1Q2PPP/R1B1R1K1 w",
+        "solution": "13.Bxh6 13...gxh6 14.Rxe6 14...fxe6 15.Qg6+ Kh8 16.Qxh6+ Kg8 17.Qxe6+"
+    },
+    "251": {
+        "fen": "r1b3k1/ppp2pb1/6p1/8/3P2pQ/2PBq1N1/PP4P1/1K5R w",
+        "solution": "25.Qd8+ Bf8 26.Rh8+ Kxh8 27.Qxf8+ Kh7 28.Qxf7+ Kh8 29.Bxg6"
+    },
+    "252": {
+        "fen": "1rrb1n2/3kn1p1/2pp4/1p4BP/3PN1p1/1N6/1P2RP2/4R1K1 w",
+        "solution": "35.Nec5+ 35...dxc5 36.Nxc5+ Kd6 37.Bf4+ 37...Kd5 38.Re5+ Kc4 39.Rc1+ Kxd4 40.Nb3+ Kd3 41.Rc3#"
+    },
+    "253": {
+        "fen": "1r5k/3q2pp/p1b2pn1/P3p3/1BBr4/2Q3P1/1P2RPP1/4R1K1 b",
+        "solution": "35...Bxg2 36.Kxg2 Qc6+ 37.Re4 Rxe4 38.Rxe4 Qxe4+ 39.Kg1"
+    },
+    "254": {
+        "fen": "6r1/p1k3r1/2p4n/5p1p/2P1B2P/1P3RP1/P5K1/4R3 w",
+        "solution": "35.Bxc6 35...f4 36.Rxf4 Rxg3+ 37.Kf2 37...Rh3 38.Bd5"
+    },
+    "255": {
+        "fen": "3rrb1k/1p1b1pp1/2pp2p1/pq5N/1P2P3/P4PQ1/1BP3PP/3RR2K w",
+        "solution": "25.Nf6 gxf6 26.Qh4+ 26...Kg8 27.Bxf6"
+    },
+    "256": {
+        "fen": "r2qkb1r/2p2p1p/p2p4/1p2p1p1/3nP1b1/1BNP1N2/PPP2P1K/R1BQ1R2 w",
+        "solution": "13.Nxe5 13...Bxd1 14.Bxf7+ Ke7 15.Nd5#"
+    },
+    "257": {
+        "fen": "r2r2k1/2p2pp1/6q1/1pp5/5P2/N1Pb1Q2/PP4PP/3RR1K1 w",
+        "solution": "25.Rxd3 Qxd3 26.Re8+"
+    },
+    "258": {
+        "fen": "5r1k/8/2b1pq1p/1p3pNQ/p1pPpP2/P1P1P2P/1P6/6RK w",
+        "solution": "34.Nxe6 Be8 35.Rg6 35...Qxg6 36.Qxg6 Bxg6 37.Nxf8"
+    },
+    "259": {
+        "fen": "r1bq2k1/ppp1b2p/3pp1p1/8/3P1r2/2PB1N2/PPQ2PPP/4RRK1 w",
+        "solution": "16.Bxg6 hxg6 17.Qxg6+ Kh8 18.Qh6+ Kg8 19.Qxf4"
+    },
+    "260": {
+        "fen": "6k1/5pp1/1bQp3p/1p2qP2/1Pp5/2r5/5PPP/1B3RK1 b",
+        "solution": "28...Bxf2+ 29.Kh1"
+    },
+    "261": {
+        "fen": "2rqk2r/pp1bppb1/2np2p1/7n/3NPP2/2N1B3/PPPQB2P/2KR3R b",
+        "solution": "12...Nxf4 13.Bxf4 13...Nxd4"
+    },
+    "262": {
+        "fen": "r1b1k2r/1p2qppp/p4n2/3Pp3/4P3/P2B4/2P3PP/R1BQK2R b",
+        "solution": "14...Nxe4 15.Bxe4 15...Qh4+ 16.Kf1 Qxe4"
+    },
+    "263": {
+        "fen": "2krr3/1pp1qpp1/p1pb2np/8/3NP3/4B1PP/bPPNQP2/2KR3R w",
+        "solution": "16.Nxc6 bxc6 17.Qxa6+ Kd7 18.Qxa2 18...Ra8 19.Qb1"
+    },
+    "264": {
+        "fen": "2k1r2r/1pp2ppp/p2p2q1/8/1PPbP3/N4n2/P1QBRPPP/1R5K b",
+        "solution": "20...Nxh2 21.Kxh2 21...Qh5+ 22.Kg1 Qxe2"
+    },
+    "265": {
+        "fen": "8/pp4pk/4Qb1p/3p4/2qP4/K7/P2R2PP/3R4 b",
+        "solution": "28...Qc3+ 29.Ka4 b5+ 30.Kxb5 Qc4+ 31.Ka5 Bd8+ 32.Qb6 32...Bxb6#"
+    },
+    "266": {
+        "fen": "1r2r1k1/pb3ppp/7P/q1p1RN2/1nQ3P1/7B/1P6/1K3R2 w",
+        "solution": "1.Qxf7+ 1...Kxf7 2.Ne7+ Bf3 3.Rxf3#"
+    },
+    "267": {
+        "fen": "r1bqk1nr/pp1p1pp1/2n4p/2b1p3/2B1P3/5N2/PPP2PPP/RNBQK2R w",
+        "solution": "7.Bxf7+ 7...Kxf7 8.Qd5+ Ke8 9.Qxc5"
+    },
+    "268": {
+        "fen": "2r1k2r/5p2/3pb3/pPnNp1q1/P3Pbn1/5PB1/2B3P1/1R1QRNK1 b",
+        "solution": "31...Rh1+ 32.Kxh1 Bxg3 33.Nxg3 33...Nf2+ 34.Kg1 Nxd1"
+    },
+    "269": {
+        "fen": "2r1k2r/1p3p2/1n1p1p1b/p1pPqN2/4P1Q1/1P1P2P1/P5B1/2R2RK1 w",
+        "solution": "25.d4 25...cxd4 26.Rxc8+ Nxc8 27.Nxh6"
+    },
+    "270": {
+        "fen": "6b1/1p4k1/p2p1p2/3P4/PP1K4/8/4B3/8 w",
+        "solution": "1.Bxa6 bxa6 2.b5 axb5 3.axb5"
+    },
+    "271": {
+        "fen": "r3k2r/1ppq1pbp/p1N1bnp1/3pQ3/B2P1P2/8/PPP3PP/RNB1K2R w",
+        "solution": "12.f5 12...gxf5 13.Bh6 13...00 14.Qg3 14...Ne8 15.Ne7+ Qxe7 16.Bxe8 f6"
+    },
+    "272": {
+        "fen": "3k3r/1pp2p2/p1q1bN1p/4P3/2P4n/1P1r1pP1/PQ5P/R1B2RK1 b",
+        "solution": "22...f2+ 23.Rxf2 23...Rd1+ 24.Rf1 Qh1+ 25.Kf2 25...Qxf1+ 26.Ke3 Qf3#"
+    },
+    "273": {
+        "fen": "1k4rr/ppp2p2/5q2/4p3/1PPpPn2/P2P1Q2/R5NP/5R1K b",
+        "solution": "24...Rxh2+ 25.Kxh2 Qh6+ 26.Kg1 Nh3+ 27.Kh2 27...Ng5+"
+    },
+    "274": {
+        "fen": "5k2/1p4pP/p7/1p1p2K1/2r5/8/6PP/8 b",
+        "solution": "39...Rh4 40.Kxh4 g5+ 41.Kxg5 Kg7"
+    },
+    "275": {
+        "fen": "r1b1kb1r/pp2q2p/2p2p2/1B2p3/3PQ3/8/PPP3PP/R1B1K2R w",
+        "solution": "13.Be213...exd4 14.Qxd4 Qb4+ 15.Qxb4 Bxb4+ 16.c3"
+    },
+    "276": {
+        "fen": "6k1/6p1/3p2rp/pp5r/4Pp2/1PP2PqP/1BP1R1P1/3Q3K b",
+        "solution": "36...Rxh3+ 37.gxh3 Qxf3+ 38.Kh2 Qg3+ 39.Kh1 f3"
+    },
+    "277": {
+        "fen": "rk5r/2p5/p2pP1qp/1p1QnNB1/4P2P/8/PPP3P1/R5K1 w",
+        "solution": "22.Nxd6 22...cxd6 23.Qxd6+ Kb7 24.Qd5+"
+    },
+    "278": {
+        "fen": "2k5/5ppp/1PpPb3/2P5/2BP4/p7/5KPP/8 w",
+        "solution": "1.d5 1...cxd5 2.Ba6+ 2...Kb8 3.c6"
+    },
+    "279": {
+        "fen": "3r1k1r/2N1bppp/8/8/2B1Pp2/8/1Pn3PP/3R1RK1 w",
+        "solution": "23.Ne6+ fxe6 24.Rxf4+ Kg8 25.Bxe6#"
+    },
+    "280": {
+        "fen": "4r1k1/3b1pp1/p1rp2qp/1p6/7R/P4N2/1PPQ1PP1/1K1R4 b",
+        "solution": "23...Rxc2 24.Qxd6 24...Rc1+ 25.Kxc1 Rc8+"
+    },
+    "281": {
+        "fen": "3r1qk1/5ppp/1p1P4/nPn2N2/R3Q3/7P/5PP1/4R1K1 w",
+        "solution": "29.Ne7+ Kh8 30.Qxh7+ Kxh7 31.Rh4#"
+    },
+    "282": {
+        "fen": "2nr2k1/p5pp/2Q5/5b2/8/8/Pq3PPP/R3R1K1 w",
+        "solution": "21.Rad1 Rf8 22.Qd5+ 22...Kh8 23.Qxf5"
+    },
+    "283": {
+        "fen": "7k/p1p3pp/1bB2q2/8/2Q2nb1/1PP5/P5PP/R6K b",
+        "solution": "29...Nh3 30.gxh3 30...Bf3+ 31.Bxf3 Qxf3#"
+    },
+    "284": {
+        "fen": "3rr1k1/p1pqbppp/2pp4/8/4P1n1/1P4N1/PBP2PPP/R2QR1K1 w",
+        "solution": "15.Bxg7 15...Nxf2 16.Qd4"
+    },
+    "285": {
+        "fen": "2kr4/pp3ppp/2b5/6q1/3P4/4r3/PP3PPP/2RQ1RK1 w",
+        "solution": "17.Rxc6+ bxc6 18.Qc1 18...Rxd4 19.fxe3 Rd6 20.Rxf7"
+    },
+    "286": {
+        "fen": "1r2k3/2p2ppp/3pn3/3R4/P3PP2/4R3/Pr2NP1P/6K1 b",
+        "solution": "30...Rxe2 31.Rxe2 Rb1+ 32.Kg2 Nxf4+ 33.Kf3 Nxe2 34.Kxe2 Rb2+ 35.Kf3 Rxa2"
+    },
+    "287": {
+        "fen": "r4nk1/1b2qrp1/2n4R/3pP3/2pP4/4B3/P5RP/1B2QN1K b",
+        "solution": "30...Nxe5 31.dxe5d4"
+    },
+    "288": {
+        "fen": "r2qr1k1/pb1nbppp/4p3/2p5/2P5/2NBB3/PP2QPPP/3R1RK1 w",
+        "solution": "15.Bxh7+ Kxh7 16.Qd3+ Kg8 17.Qxd7"
+    },
+    "289": {
+        "fen": "r1bq1r2/ppp1npk1/1b4pp/3P4/2Q1N1P1/P3BN1P/1P3P2/R4RK1 w",
+        "solution": "19.Qc3+ f6 20.Nxf6 Rxf6 21.Bxh6+ Kxh6 22.Qxf6 22...Bd7 23.Qf7 Qg8 24.g5+"
+    },
+    "290": {
+        "fen": "8/1pK1Pk1p/6pP/P5P1/4b3/B7/8/8 w",
+        "solution": "1.a6 bxa6 2.Kd7"
+    },
+    "291": {
+        "fen": "r3k1nr/pppq1ppp/8/1Nb1P3/2Bp1P2/3P4/PPP4P/R2Q1RK1 w",
+        "solution": "15.e6 fxe6 16.Qh5+ g6 17.Qxc5 17...000 18.Bxe6"
+    },
+    "292": {
+        "fen": "1r4k1/p1b2bpn/2pq1p2/3p1P1p/3P2P1/3B1N1P/P4PN1/2Q1R1K1 b",
+        "solution": "28...Ng5 29.Nxg5 29...Qh2+ 30.Kf1 fxg5"
+    },
+    "293": {
+        "fen": "r3k2r/1pqbbp2/p1npp1p1/5P1n/3NP2p/2N2B2/PPP1Q1PP/3R1RBK b",
+        "solution": "15...Ng3+ 16.hxg3 hxg3+ 17.Bh2 Rxh2+ 18.Kg1"
+    },
+    "294": {
+        "fen": "6k1/2pb1rb1/2pp1p1p/1q3Pp1/2N1P3/1PP3B1/r5PP/3QRR1K w",
+        "solution": "23.Bxd6 cxd6 24.Nxd6"
+    },
+    "295": {
+        "fen": "1rb3kr/pppp1qp1/4pQ2/3nP2p/7P/2PB2R1/P4PP1/R1B1K3 w",
+        "solution": "21.Qd8+ Qf8 22.Rxg7+ Kxg7 23.Qg5+ Kf7 24.Qg6+ Ke7 25.Bg5+ 25...Nf6 26.Bxf6+ Qxf6 27.Qxf6+ Ke8 28.Bg6#"
+    },
+    "296": {
+        "fen": "4rq1k/pp1b1rp1/3p1bQp/2pP1P2/3p4/3B3R/P1PB2PP/4R1K1 w",
+        "solution": "24.Re6"
+    },
+    "297": {
+        "fen": "r1b2r1k/ppp4p/3p1p1q/2b1n1p1/4P3/P2N2BP/1P2QPP1/R2B1R1K b",
+        "solution": "20...Bxh3 21.gxh3 Qxh3+ 22.Kg1 Qxg3+"
+    },
+    "298": {
+        "fen": "8/6p1/4K3/5P2/4k3/8/7P/8 w",
+        "solution": "47.h4 47...Kf4 48.h5 Kg5 49.Kf7"
+    },
+    "299": {
+        "fen": "kr2r3/pRp3pp/Q1P5/5R2/Pp1q4/3pp2P/6PK/8 w",
+        "solution": "32.Rxa7+ Qxa7 33.Ra5 33...Qxa6 34.Rxa6"
+    },
+    "300": {
+        "fen": "2k3r1/ppp1qp2/4bQ2/8/3P2r1/N1P5/PP3RP1/R1B3K1 b",
+        "solution": "24...Rxg2+ 25.Kf1 25...Bc4+ 26.Nxc4 Rg1#"
+    },
+    "301": {
+        "fen": "r2q1rk1/ppp2ppp/5n2/2b1P1B1/Q3P1b1/2P5/PP4PP/RN2KB1R b",
+        "solution": "10...Nxe4 11.Bxd8 Bf2#"
+    },
+    "302": {
+        "fen": "7k/5pp1/8/8/p6P/P1b1N1P1/3p1PK1/3Rr3 b",
+        "solution": "37...Bb4 38.axb4 Rxd1 39.Nxd1 a3"
+    },
+    "303": {
+        "fen": "2k3nr/ppp2Npp/2p5/2b5/8/2Pr4/PP1P2PP/RNB4K b",
+        "solution": "17...Rd7 18.Nxh8 Re7 19.g3 Re1+ 20.Kg2 Rxc1 21.d4 Bd6 22.Nf7 h6 23.Nxd6+ cxd6 24.Kf2"
+    },
+    "304": {
+        "fen": "r2qk2r/ppp1nppp/3p4/b2Nn3/2B1P1b1/5N2/PPP2PPP/R1BQ1RK1 w",
+        "solution": "9.Nxe5 9...Bxd1 10.Nf6+ Kf8 11.Ned7+ 11...Qxd7 12.Nxd7+ Ke8 13.Rxd1 Kxd7 14.Bxf7"
+    },
+    "305": {
+        "fen": "r1b3r1/pp1k3q/2n2pN1/3p1N2/3P4/5Q2/5PPP/5RK1 w",
+        "solution": "27.Qxd5+ Kc7 28.Qd6+ 28...Kb6 29.Rb1+ 29...Ka6 30.Qa3+ 30...Na5 31.Qd3+"
+    },
+    "306": {
+        "fen": "1k5r/1p1Qnp2/p3p3/2b5/4pq2/P7/1PPNBPP1/1K1R4 w",
+        "solution": "25.Nxe4 25...Qxe4 26.Bf3"
+    },
+    "307": {
+        "fen": "5rk1/pb1p2p1/1p1pp2p/6r1/2PPp2q/P3P1N1/1P2BP2/R3QRK1 b",
+        "solution": "21...Qh3"
+    },
+    "308": {
+        "fen": "r2qrnk1/1b2bppp/pp6/2ppN1B1/3PnP2/2PB1N1Q/PP4PP/4RRK1 w",
+        "solution": "17.Nxf7 Kxf7 18.Rxe4 dxe4 19.Bc4+ Bd5 20.Qf5+ Kg8 21.Bxd5+ 21...Kh8 22.Ne5"
+    },
+    "309": {
+        "fen": "2r3rk/3q1p1p/5p2/1p1p1b2/2pN3R/P1P1R3/1P3PPP/3Q2K1 w",
+        "solution": "26.Re7 Qxe7 27.Nxf5"
+    },
+    "310": {
+        "fen": "4r1k1/ppp2ppp/2b5/2b2P2/3r4/3B3P/PPPB2P1/R2R3K b",
+        "solution": "22...Rxd3 23.cxd3 Re2 24.d4 Bxg2+ 25.Kh2 Bc6+ 26.Kg1 26...Bxd4+ 27.Kf1 Bb5 28.Bc3 Rxb2+"
+    },
+    "311": {
+        "fen": "7k/ppq1b1pp/8/2P5/1P2R1Q1/2P5/P4rPp/2B4K w",
+        "solution": "28.Bf4 28...Qd8 29.Rxe7 29...Qf8 30.Qxg7+"
+    },
+    "312": {
+        "fen": "r4r1k/ppp2Bpp/5q2/4NQ2/8/8/PP3PPP/n4RK1 w",
+        "solution": "17.Ng6+ Qxg6 18.Bxg6 Rxf5 19.Bxf5 19...g6 20.Be4"
+    },
+    "313": {
+        "fen": "4r3/pp3kpR/1qpp1rp1/8/2P1P3/2P4Q/P1P3PP/1R5K w",
+        "solution": "25.Qd7+ Re7 26.Rxg7+ Kxg7 27.Qxe7+ Kh6 28.Rg1"
+    },
+    "314": {
+        "fen": "r2qk2r/pp3ppp/1npbp1b1/8/3P1Pn1/1B2B1N1/PPPQN1PP/R4RK1 b",
+        "solution": "12...Bxc2 13.Bxc2 Nc4"
+    },
+    "315": {
+        "fen": "rn2r1k1/pp3ppp/5n2/q2p4/1bpP4/2N1BP1P/PPPQBP2/2K3RR w",
+        "solution": "14.Rxg7+ Kxg7 15.Bh6+ Kh8 16.Qg5 Nh5 17.Rg1"
+    },
+    "316": {
+        "fen": "r1bqr1k1/pp1nbppp/2pp1n2/4p1B1/3PP3/2PQ1N2/PP2BPPP/R3KN1R b",
+        "solution": "9...exd4 10.cxd4 10...Nxe4"
+    },
+    "317": {
+        "fen": "r3k3/pppq1pp1/4p1b1/bN2N2r/1n1P3P/8/P2BQPB1/R3K2R b",
+        "solution": "18...Rxe5 19.dxe5 19...Bd3"
+    },
+    "318": {
+        "fen": "5rk1/2pqb2p/4p1p1/3p3Q/1Pn5/2P5/2B2PPP/2B1R1K1 w",
+        "solution": "24.Bxg6 hxg6 25.Qxg6+ Kh8 26.Rxe6"
+    },
+    "319": {
+        "fen": "3r4/1p6/2p4p/4pk2/Pp5r/1P1P1K2/1P1R3P/6R1 b",
+        "solution": "35...Rxd3+ 36.Rxd3 e4+ 37.Ke3 37...Rh3+ 38.Rg3 38...Rxg3+ 39.hxg3 exd3 40.Kxd3 Kg4 41.Kc4 Kxg3 42.Kc5 h5 43.Kb6 h4 44.Kxb7 h3 45.a5 h2 46.a6 h1=Q 47.a7 c5+ 48.Kb8 Qh8+ 49.Kb7"
+    },
+    "320": {
+        "fen": "5rk1/1q2bp1p/3pP1p1/1p1P4/nP1p4/3B1QNP/5PP1/R5K1 w",
+        "solution": "28.Nf5 fxe6 29.dxe6 Qc7 30.Qc6"
+    },
+    "321": {
+        "fen": "5k2/5pp1/pP1p3p/3b4/r7/4BP2/6PP/2R3K1 w",
+        "solution": "33.Rc8+ Ke7 34.b7 Bxb7 35.Rc7+ Ke6 36.Rxb7"
+    },
+    "322": {
+        "fen": "r4rk1/2pq2pp/pbn1b3/1p1p2B1/4n3/1NPQ1N2/PPB2PPP/3R1RK1 b",
+        "solution": "16...Rxf3 17.Qxf3 Nxg5"
+    },
+    "323": {
+        "fen": "r1bq1n1r/pp3QpB/2pkpb2/3pN3/3P4/2N5/PPP3PP/R4RK1 w",
+        "solution": "14.Nc4+ 14...dxc4 15.Ne4+ 15...Kd5 16.Rf5+ 16...Kxe4 17.Re1+ Kxd4 18.c3+ Kd3 19.Rd5#"
+    },
+    "324": {
+        "fen": "rq1n2k1/6b1/p5R1/1p1pP2r/2pP1P2/2P4P/P1QB3K/1R6 w",
+        "solution": "28.Rxg7+ Kxg7 29.Rg1+ Kf8 30.Qg6"
+    },
+    "325": {
+        "fen": "8/2NPk3/p5pp/P7/1P3p2/3b3P/6P1/6K1 w",
+        "solution": "37.Ne6 Kxd7 38.Nc5+ Kc6 39.Nxd3"
+    },
+    "326": {
+        "fen": "Qnk5/p2q2pp/3p4/p1pB4/2P5/K1P1r3/4r2P/1R2B3 b",
+        "solution": "35...Ra2+ 36.Kxa2 Qa4+ 37.Kb2 Re2+ 38.Kc1 Qc2#"
+    },
+    "327": {
+        "fen": "6r1/p1bR4/4pkrp/5q2/B1p5/5Q2/1P3PP1/4R1K1 w",
+        "solution": "33.Rxe6+ 33...Kxe6 34.Qc6+ 34...Ke5 35.Rd5+"
+    },
+    "328": {
+        "fen": "6k1/p1p1qp2/1rp1r1pp/2Rp2b1/3P4/1PN1P1QP/P4PP1/2R3K1 b",
+        "solution": "22...Rxe3 23.fxe3 Bxe3+ 24.Kh1 Bxc1 25.Nxd5 cxd5 26.Rxc1"
+    },
+    "329": {
+        "fen": "1k1r4/1p5p/5p2/4n1p1/3q4/8/3r1PPP/R1QB1RK1 b",
+        "solution": "31...Rxf2 32.Rxf2 Nd3 33.Qd2 Qxa1 34.Re2 Qd4+"
+    },
+    "330": {
+        "fen": "r1b1r1k1/p1q2pp1/2pb3p/n7/2PP2n1/2NQ1N2/PP2B1PP/R1B1K2R b",
+        "solution": "16...Bg3+ 17.hxg3 17...Qxg3+ 18.Kd2 Nf2"
+    },
+    "331": {
+        "fen": "5rk1/ppq2ppp/2p5/4bN2/4P3/6Q1/PPP2PPP/3R2K1 w",
+        "solution": "20.Nh6+ Kh8 21.Qxe5 Qxe5 22.Nxf7+"
+    },
+    "332": {
+        "fen": "1k5r/pp2b3/2p2p1N/qr3p1P/2nP4/PRN5/1PP5/1KQ4R b",
+        "solution": "32...Nxa3+ 33.Rxa3 33...Rxb2+ 34.Qxb2 Bxa3 35.Qb3 Rxh6 36.Qg8+ Kc7 37.Qg7+ Kb6 38.Qxh6 Qb4+ 39.Ka2 Qb2#"
+    },
+    "333": {
+        "fen": "2b1r1k1/p1p2pp1/2pp4/2n1qPB1/4P3/1PN2Q2/P5RP/6K1 b",
+        "solution": "29...Bxf5 30.Qxf5 30...Qxc3"
+    },
+    "334": {
+        "fen": "5r1k/p2q2p1/2n5/3r3p/1bQ2B2/1P3P2/P3R1PP/4RN1K w",
+        "solution": "29.Re8 Rd4 30.Rxf8+ 30...Bxf8 31.Qe6"
+    },
+    "335": {
+        "fen": "3rrbk1/pp1q1ppp/2pp2n1/5N2/3QnP2/1PN5/PBP3PP/3R1RK1 w",
+        "solution": "17.Nh6+ gxh6 18.Nxe4 18...Rxe4 19.Qxe4"
+    },
+    "336": {
+        "fen": "r2qr1k1/pbpnbppp/1p2pn2/6N1/3P4/3B1N2/PPP1QPPP/R1B1R1K1 w",
+        "solution": "12.Nxf7 12...Bxf3 13.gxf3 13...Kxf7 14.Qxe6+ Kf8 15.Bc4"
+    },
+    "337": {
+        "fen": "q5k1/2p2ppp/rr6/3p4/1p1P3P/1Q2PP2/PP1B1P2/K3R3 b",
+        "solution": "26...Rxa2+ 27.Qxa2 Ra6 28.Qxa6 Qxa6+ 29.Kb1 Qd3+"
+    },
+    "338": {
+        "fen": "r2qr1k1/pp1nbpp1/2p1pn1p/6N1/3P1P2/2PB4/PP1BQ1PP/4RRK1 w",
+        "solution": "16.Nxf7 Kxf7 17.Qxe6+ Kf8 18.Bg6"
+    },
+    "339": {
+        "fen": "2kr4/ppnq1p2/5r1p/N1pbp2P/P3NB2/1PPP1Q2/2K1B3/3R4 w",
+        "solution": "25.Nxf6 Bxf3 26.Bxf3 26...Qd6 27.Bxe5 27...Qb6 28.Nxb7 28...c4 29.d4 Qxb3+ 30.Kd2 Qb2+ 31.Ke3 Qxc3+ 32.Kf2"
+    },
+    "340": {
+        "fen": "2kr3r/1pp1b3/p1n1b3/4pp2/6p1/P1NPB1P1/1PPNKP2/R6R b",
+        "solution": "20...f4 21.Rxh8 21...Rxh8 22.gxf4 22...exf4 23.Bxf4 Nd4+"
+    },
+    "341": {
+        "fen": "2r3k1/q4ppp/p3p3/pnNp4/2rP4/2P2P2/4R1PP/2R1Q1K1 b",
+        "solution": "31...Nxd4 32.cxd4 R8xc5"
+    },
+    "342": {
+        "fen": "1k6/pp4p1/2nb1p2/4r3/P7/2PQ4/1P4PP/4rR1K b",
+        "solution": "31...Rd5 32.Qf3 32...Ne5 33.Qf2 Rxf1+ 34.Qxf1 Ng4"
+    },
+    "343": {
+        "fen": "3r3k/pb1p1rp1/1pn2pp1/2qNp1B1/2B1P3/3R4/PPP2PPP/3R2K1 w",
+        "solution": "20.Rh3+ Kg8 21.Nxf6+ Kf8 22.Rh8+ Ke7 23.Re8+ 23...Rxe8 24.Rxd7+ Kf8 25.Rxf7#"
+    },
+    "344": {
+        "fen": "2k4r/pppqb3/2n2p2/3bp2p/Q4PrN/P2PB1P1/1P2P1BK/2R2R2 b",
+        "solution": "17...Rxh4+ 18.gxh4 Bxg2 19.Kxg2 19...Qg4+ 20.Kf2 Qxh4+ 21.Kf3 21...Nd4+ 22.Ke4 f5+ 23.Kd5 Qf6"
+    },
+    "345": {
+        "fen": "5r2/6k1/p1r3p1/5PQ1/2q1PN2/1p6/P6P/5R1K w",
+        "solution": "37.f6+ 37...Rfxf6 38.Nh5+ Kh7 39.Nxf6+ 39...Kg7 40.Nh5+ Kh7 41.Qe7+ Kh6 42.Ng3"
+    },
+    "346": {
+        "fen": "r1br1qk1/pp1n1p2/2p2npp/4pN2/2BPP3/5N2/PP3PPP/2RQR1K1 w",
+        "solution": "17.Bxf7+ Kh7 18.Bxg6+ Kxg6 19.dxe5"
+    },
+    "347": {
+        "fen": "2rr1nk1/pbq2ppp/8/1Bp1P3/4p3/P7/QP1N1PPP/3RR1K1 b",
+        "solution": "24...Qa5 25.Nc4 Rxd1 26.Rxd1 26...Qxb5 27.Nd6 Qd7"
+    },
+    "348": {
+        "fen": "r1b2rk1/pp1n2pp/4p3/6q1/2NPQn2/3B4/PP4PP/2R2RK1 w",
+        "solution": "19.Qxh7+ 19...Kf7 20.Rxf4+ Qxf4 21.Rf1 Qxf1+ 22.Bxf1"
+    },
+    "349": {
+        "fen": "4k3/rp3ppb/1np1p2p/N7/1PP5/6P1/4PPBP/3R2K1 w",
+        "solution": "35.Nxb7 Rxb7 36.Bxc6+ Rd7 37.c5"
+    },
+    "350": {
+        "fen": "r2q1r1k/1p2pp1p/p4n2/2pp2Q1/4p3/2NP2P1/PPP2PK1/R6R w",
+        "solution": "18.Nxd5 Qxd5 19.Rxh7+ Nxh7 20.Qxd5"
+    },
+    "351": {
+        "fen": "1rbq1r2/4bpk1/p3p1p1/1p2P1P1/2pPBP2/2P5/PP2Q1P1/2KR3R w",
+        "solution": "21.Rh7+ Kxh7 22.Qh5+ Kg8 23.Bxg6 23...fxg6 24.Qxg6+ Kh8 25.Rh1#"
+    },
+    "352": {
+        "fen": "3qr1k1/pp3ppp/3b4/8/1nrN3P/P1N1P3/1P1K1PP1/1Q3R1R b",
+        "solution": "19...Rxd4+ 20.exd4 Bf4+ 21.Kd1 Qxd4+ 22.Qd3 Qxd3#"
+    },
+    "353": {
+        "fen": "r2qk2r/2p2p2/p1np3p/1pb1p1pb/4P3/1B1P1NPP/PPP3P1/RN1Q1R1K w",
+        "solution": "14.Nxe5 Bxd1 15.Bxf7+ Kf8 16.Nxc6 16...Qd7 17.Be6+"
+    },
+    "354": {
+        "fen": "2k1r3/ppp2p1p/8/7q/5Bn1/Q1P3pN/PP4P1/R4K2 b",
+        "solution": "27...Nf2 28.Kg1 28...Nxh3+ 29.gxh3 Qxh3"
+    },
+    "355": {
+        "fen": "1rb1q2k/ppp1r2p/4p1p1/4PpN1/P6R/2Q5/5PPP/3R2K1 w",
+        "solution": "25.Nxh7 25...Rxh7 26.Rxh7+ Kxh7 27.Qxc7+ Kh6 28.Rd8"
+    },
+    "356": {
+        "fen": "r3rnk1/1pqnb3/p3p1p1/3p2P1/7B/2NB4/PPP1Q2P/5RRK w",
+        "solution": "23.Bxg6 Nxg6 24.Qxe6+ Kh8 25.Qxg6 25...Qc6 26.Qh5+ Kg8 27.Qf7+ Kh8 28.g6 d4+ 29.Nd5"
+    },
+    "357": {
+        "fen": "r1b2r1k/ppp3pp/3b4/4Npq1/2B5/8/PPP2PPP/R2QR1K1 w",
+        "solution": "16.Qxd6 16...cxd6 17.Nf7+ Rxf7 18.Re8+ Rf8 19.Rxf8#"
+    },
+    "358": {
+        "fen": "5r2/2p3k1/1p1p1rBp/p1nPpP2/6q1/2P1R1Pp/P1P4K/4QR2 b",
+        "solution": "34...Qxg6 35.fxg6 Rxf1"
+    },
+    "359": {
+        "fen": "5r2/p1ppk1r1/1pn1p2p/8/2PP1N2/2P5/P2K2PP/R4R2 w",
+        "solution": "21.Nd5+ Ke8 22.Nxc7+ Ke7 23.Nd5+ Ke8"
+    },
+    "360": {
+        "fen": "2kr3r/pppq1p2/3p4/3Nb1p1/2B1P1nP/2P3P1/PP2Q1K1/R4R2 w",
+        "solution": "20.Rxf7 Qxf7 21.Nb6+ axb6 22.Bxf7 22...Nf6 23.hxg5"
+    },
+    "361": {
+        "fen": "r2q1rk1/pp1nbppp/2pnb3/3p2BN/3P1Q1P/2NB4/PPP2PP1/2KR3R w",
+        "solution": "14.Bh6 14...Ne8 15.Bxg7 15...Nxg7 16.Qh6"
+    },
+    "362": {
+        "fen": "br1q1rk1/p3p1bp/6p1/1p1n2B1/2pPB3/P1P4P/2Q2PP1/1R1R1NK1 b",
+        "solution": "21...Nxc3 22.Bxg6 22...Qd5 23.Bxh7+ Kh8 24.f4 Nxb1 25.Rxb1 Qxd4+"
+    },
+    "363": {
+        "fen": "5k1r/p2p4/bpqP2p1/5p2/2P1rP2/2QR1B2/P4b2/5KR1 b",
+        "solution": "34...Bd4 35.Rxd4 Bxc4+ 36.Kf2 36...Rh2+ 37.Kg3 37...Rh3+ 38.Kxh3 Bf1+ 39.Rxf1 Qxc3"
+    },
+    "364": {
+        "fen": "2r1k2r/p2nbppp/q3pn2/1Np5/PpNP1P2/4P3/1P1BQ1PP/R4RK1 w",
+        "solution": "16.Ncd6+ 16...Bxd6 17.Nc7+ Rxc7 18.Qxa6"
+    },
+    "365": {
+        "fen": "4r1k1/1pp2ppp/p1b5/6Q1/5q1P/1BN5/PP1r1PP1/5RKR b",
+        "solution": "21...Rxf2 22.Bxf7+ 22...Kh8 23.Rd1 Qxf7"
+    },
+    "366": {
+        "fen": "1kr4r/pb1q2pp/1p6/4bp2/1Q3N1P/3pPP2/PP1N1P2/1KR4R b",
+        "solution": "23...Rc2 24.Rxc2 24...dxc2+ 25.Kxc2 25...Rc8+ 26.Kb1 26...a5"
+    },
+    "367": {
+        "fen": "2r2r1k/6R1/p2b3p/3P3q/1pPppB2/1P1Q1P1P/P6K/6R1 w",
+        "solution": "40.Rg8+ 40...Rxg8 41.Qxd4+ Kh7 42.Qxe4+ Rg6 43.Bxd6"
+    },
+    "368": {
+        "fen": "6rr/1b1k1p2/p3p2b/1pQpP3/5P1q/3B4/PP4N1/2R1R1K1 b",
+        "solution": "28...Rxg2+ 29.Kxg2 d4+ 30.Be4 30...Rg8+ 31.Kf1 Qxf4+ 32.Ke2 Qxe4+ 33.Kd1 Qd3#"
+    },
+    "369": {
+        "fen": "r2qr1k1/pb1nb1pp/1p2pn2/2p1Np2/2PP1B2/3B1N2/PP2QPPP/R4RK1 w",
+        "solution": "15.Nf7 15...Kxf7 16.Qxe6+ Kg6 17.g4 17...Be4 18.Nh4#"
+    },
+    "370": {
+        "fen": "3rk2r/pbqnbppp/1pp1pn2/4N3/3P4/3B2N1/PPPBQPPP/4RRK1 w",
+        "solution": "14.Nxf7 14...Kxf7 15.Qxe6+ Kf8 16.Qxe7+"
+    },
+    "371": {
+        "fen": "4r1k1/p1p2rp1/2p2n2/5PBq/4p1P1/4Q3/PPP4R/4R1K1 b",
+        "solution": "27...Qxh2+ 28.Kxh2 Nxg4+ 29.Kg3 Nxe3"
+    },
+    "372": {
+        "fen": "5k1r/pp2nppp/2p1b3/4N3/3r1P2/1B2R3/PP4PP/4R1K1 w",
+        "solution": "23.Nxf7 Kxf7 24.Rxe6 24...Nd5 25.Re7+"
+    },
+    "373": {
+        "fen": "r4rk1/p1pp2pp/1p2p3/n6q/Q1PPR3/2P2P2/P2B2PP/5RK1 b",
+        "solution": "17...Nxc4 18.Qxc4 d5 19.Qb5 a6"
+    },
+    "374": {
+        "fen": "3r4/4kp2/1RQ4p/p2rP1p1/P7/3q3P/5BP1/6K1 w",
+        "solution": "35.Qf6+ Ke8 36.e6 36...Qf5 37.exf7+ Kf8 38.Bc5+ Rxc5 39.Qxd8+ Kxf7 40.Rb7+"
+    },
+    "375": {
+        "fen": "3r1r1k/1b4p1/pb5p/4Pp1q/2pBnP2/5N1N/PPQ3PP/3R1R1K b",
+        "solution": "26...Bxd4 27.Rxd4 27...Rxd4 28.Nxd4 Qxh3 29.gxh3 Nf2+ 30.Kg1 Nxh3#"
+    },
+    "376": {
+        "fen": "2r1k3/p4R1Q/1p4Bp/3pP3/6P1/P4K2/1P4P1/2r1q3 b",
+        "solution": "38...R8c3+ 39.bxc3 Rxc3+ 40.Bd3 Qf1+ 41.Ke3 Rxd3+ 42.Qxd3 Qxd3+ 43.Kxd3 Kxf7"
+    },
+    "377": {
+        "fen": "2rq1bk1/3b1ppp/p1p5/3p4/3Nr3/1P2PQ1P/PB3PP1/2RR2K1 w",
+        "solution": "18.Nxc6 18...Bxc6 19.Rxc6 Rxc6 20.Qxe4 dxe4 21.Rxd8"
+    },
+    "378": {
+        "fen": "6k1/3nrppp/2B5/p1b2P2/5Q2/1P5P/Pr6/5R1K w",
+        "solution": "32.f6 32...gxf6 33.Bxd7 Rxd7 34.Qg4+"
+    },
+    "379": {
+        "fen": "3r1r1k/pb4pp/3b4/1Pp2nq1/2Q1p3/1P1pP2P/PB3PPN/R2NR2K b",
+        "solution": "24...Ng3+ 25.Kg1 25...Bd5"
+    },
+    "380": {
+        "fen": "3q1kr1/3npp1p/1p1Pn1p1/1p6/rP1Q4/P4N2/3N1PPP/R3R1K1 w",
+        "solution": "22.Rxe6 fxe6 23.Ng5 23...Nc5"
+    },
+    "381": {
+        "fen": "3qr1k1/p4rpp/1pRbp3/1Q1p4/1P1Bn3/4P1PB/P4P1P/5RK1 w",
+        "solution": "23.f3 23...Nd2 24.Rxd6 Qxd6 25.Qxe8+"
+    },
+    "382": {
+        "fen": "1k1r3r/pp1q2p1/4pp2/1P6/2RP1P2/1Q2P2p/6PP/R5K1 w",
+        "solution": "26.Rxa7 Qd5 27.Qa2 27...Qxg2+ 28.Qxg2 hxg2 29.b6 Rc8 30.Rca4"
+    },
+    "383": {
+        "fen": "r2qnrk1/2p2ppp/p1QN4/4p3/8/8/PPP2PPP/R1BR2K1 w",
+        "solution": "17.Bg5 17...Qxg5 18.Ne4 18...Qf4 19.Qxa8 Nd6"
+    },
+    "384": {
+        "fen": "6k1/1Qn3pp/1B2pr2/1q1nNp2/3P4/1P6/5PPP/R5K1 w",
+        "solution": "29.Ra8+ Nxa8 30.Qc8+ 30...Rf8 31.Qxe6+ Kh8 32.Nf7+ Kg8 33.Nh6+ 33...Kh8 34.Qg8+ Rxg8 35.Nf7#"
+    },
+    "385": {
+        "fen": "3r2k1/pp2qppp/2b1p3/3p4/5P2/b2BPR2/1B1N2PP/3Q2K1 w",
+        "solution": "20.Bxh7+ Kxh7 21.Rh3+ Kg8 22.Qh5 22...f6 23.Bxa3 Qxa3 24.Qh8+ Kf7 25.Qxd8 Qc1+ 26.Nf1"
+    },
+    "386": {
+        "fen": "4Q3/3N1pkp/3q2pb/p7/Pp1p2P1/1P6/2r2P1P/3R2K1 b",
+        "solution": "34...Be3 35.fxe3 35...Qxh2+ 36.Kf1 Qh1#"
+    },
+    "387": {
+        "fen": "5rk1/1p5p/4p1p1/1P1pn2r/1P1R1P2/6P1/6KP/4RB2 b",
+        "solution": "33...Rxh2+ 34.Kxh2 Nf3+ 35.Kg2 Nxd4"
+    },
+    "388": {
+        "fen": "3rkb1r/pp3p1p/1q4p1/4nN2/4N3/8/PP2QPPP/R4RK1 w",
+        "solution": "16.Qb5+ Nd7 17.Rfe1"
+    },
+    "389": {
+        "fen": "r3nr1k/pppq1ppp/3p1R2/3Nn1BQ/2B1P3/3P3P/PPP3P1/7K w",
+        "solution": "19.Rh6 gxh6 20.Bf6+ 20...Nxf6 21.Nxf6 Qe7 22.Qxh6 Qxf6 23.Qxf6+ Kg8"
+    },
+    "390": {
+        "fen": "2k1r2r/pp1n1q2/2pb3p/3pnB1Q/5B2/2N5/PPP3PP/4RRK1 w",
+        "solution": "20.Rxe5 20...Qxh5 21.Bxd7+ Kxd7 22.Rxh5"
+    },
+    "391": {
+        "fen": "5r2/pb2qp1k/1pnr2pp/7Q/4B3/4P1N1/P4PPP/2R2RK1 w",
+        "solution": "21.Nf5 gxh5 22.Nxe7+ f523.Bxc6"
+    },
+    "392": {
+        "fen": "6k1/p3Qpp1/Pp5p/4P3/4q3/5N1P/5nPK/8 b",
+        "solution": "30...Qf4+ 31.Kg1 Nxh3+ 32.gxh3 Qg3+ 33.Kh1 Qxf3+"
+    },
+    "393": {
+        "fen": "r1b3k1/pp3p1p/1qp3p1/8/3rPP2/PP6/1BQ2PBP/5RK1 w",
+        "solution": "19.Qc3 19...c5 20.b4 20...f6 21.bxc5"
+    },
+    "394": {
+        "fen": "r1b2rk1/pp4pp/8/3Pqp2/2B1nN2/5R2/PP1Q2PP/R5K1 w",
+        "solution": "19.d6+ Kh8 20.Ng6+ hxg6 21.Rh3#"
+    },
+    "395": {
+        "fen": "4n1k1/pbrq2p1/4rB1Q/4P3/4p3/6RP/PP4P1/5RK1 w",
+        "solution": "33.Bxg7 Nxg7 34.Rf8+ 34...Kxf8 35.Qh8+ Ke7 36.Rxg7#"
+    },
+    "396": {
+        "fen": "r5k1/2Bn1ppp/2p1pb2/2Pp4/3P1P2/r1NqP3/3Q2PP/2R1K2R b",
+        "solution": "22...Nxc5 23.dxc5 23...Bxc3"
+    },
+    "397": {
+        "fen": "r3r1k1/pppqnppp/2n3b1/3p3N/3P4/P1PB2Q1/2PB1PPP/R3R1K1 w",
+        "solution": "16.Bh6 Nf5 17.Bxf5 Rxe1+ 18.Rxe1 Qxf5 19.Nxg7 Qxc2"
+    },
+    "398": {
+        "fen": "4r1k1/Q5pp/p1p2r2/1p1p1PN1/6P1/4n2P/PPP2K2/8 b",
+        "solution": "32...Nxf5 33.Nxh7 33...Rf7"
+    },
+    "399": {
+        "fen": "3r2k1/p2r1pp1/1pQ3p1/3P2q1/P7/6P1/5P1P/2R1R1K1 w",
+        "solution": "30.Qxd7 Rxd7 31.Re8+ 31...Kh7 32.Rcc8"
+    },
+    "400": {
+        "fen": "3r3r/p1p2kpp/1pn1pp2/1Q1q1n2/2NP4/4PN2/PP3PPP/2RR2K1 w",
+        "solution": "16.Qxc6 Qxc6 17.Nce5+ fxe5 18.Nxe5+ Kf6 19.Rxc6"
+    },
+    "401": {
+        "fen": "r3k2r/p2q1ppp/R3b3/1ppN4/8/1P6/1PP2PPP/3QR1K1 w",
+        "solution": "21.Rexe6+ 21...fxe6 22.Rxe6+ Kf7 23.Re7+ Qxe7 24.Nxe7 Kxe7"
+    },
+    "402": {
+        "fen": "r1b2r2/pp2nq1k/6pp/2pp4/4BPPN/2P5/P1Q3KP/4RR2 w",
+        "solution": "25.Bxg6+ 25...Nxg6 26.Nxg6 Kg8 27.Nxf8"
+    },
+    "403": {
+        "fen": "1r4k1/p4pp1/3p4/6P1/q1p5/2Qn1N2/PP1R1PP1/1K6 b",
+        "solution": "28...Rxb2+ 29.Qxb2 29...Nxb2"
+    },
+    "404": {
+        "fen": "2q1r1k1/5p1p/1p1P2p1/2p5/PpNbr2P/1P1Q2P1/3R4/5R1K b",
+        "solution": "30...Re2 31.Rxe2 Rxe2 32.Qxe2 32...Qh3+ 33.Qh2 Qxf1+ 34.Qg1 Qxg1#"
+    },
+    "405": {
+        "fen": "r2qkb1r/1b3ppp/pn2p3/4N3/2pP4/2N1B3/PP3PPP/R2Q1RK1 w",
+        "solution": "14.d5"
+    },
+    "406": {
+        "fen": "r1b2r2/p1q1bpk1/1np1pn1p/1p6/3P3P/3B1N2/PPPBQPP1/2KRR3 w",
+        "solution": "16.Bxh6+ Kg8 17.Ne5"
+    },
+    "407": {
+        "fen": "2r2rk1/1p4p1/pq2pnQp/3p4/4P3/2N4P/PP1R1PP1/3R2K1 b",
+        "solution": "23...Rxc3 24.bxc3 Nxe4 25.Rd4 25...Rxf2"
+    },
+    "408": {
+        "fen": "r4k2/pb3rpp/1p3p2/1Bn1pq2/3R2NP/6Q1/P1P2PP1/3R2K1 w",
+        "solution": "24.Rd8+ 24...Rxd8 25.Rxd8+ Ke7 26.Nh6 gxh6 27.Qg8"
+    },
+    "409": {
+        "fen": "2k1r3/p2nrp2/1pb1q1pp/2p1p2n/2P5/2QNPPB1/PPBR2PP/2KR4 w",
+        "solution": "22.Nxc5 22...Nxc5 23.Rd6"
+    },
+    "410": {
+        "fen": "r3r1k1/pp3ppp/1q2pn2/1Nb1n3/2P5/1P1BB3/P4PPP/R2QR1K1 w",
+        "solution": "19.Bxc5 Qxc5 20.b4 20...Qxb4 21.Rxe5"
+    },
+    "411": {
+        "fen": "2r2bk1/1p3pp1/7p/1P1Pp3/B7/P2q4/Q4PPP/4R1K1 b",
+        "solution": "31...Qe4 32.Rxe4 Rc1+ 33.Re1 Rxe1#"
+    },
+    "412": {
+        "fen": "3r4/1kbQ4/1q2p3/3p4/3P2p1/pP1N4/P6P/1KR5 w",
+        "solution": "37.Rxc7+ 37...Qxc7 38.Nc5+ Kb6 39.Qxc7+ Kxc7 40.Nxe6+ Kd7 41.Nxd8 Kxd8"
+    },
+    "413": {
+        "fen": "2rq1rk1/p5b1/4p2p/1pN1Pn2/2pP2pp/2P5/PPB4Q/4RRK1 b",
+        "solution": "28...Nxd4 29.cxd4 29...Qxd4+"
+    },
+    "414": {
+        "fen": "3r2k1/7p/bq2ppp1/p1R5/Pp2P2P/4QB2/1P3PP1/6K1 w",
+        "solution": "28.e5 28...f5 29.Rc8 29...Qxe3 30.Rxd8+ Kf7 31.fxe3"
+    },
+    "415": {
+        "fen": "r3r1k1/pb1q2p1/1p1np1Qp/5p2/1BP2P2/3BR3/P5PP/4R1K1 w",
+        "solution": "31.Bxd6 Qxd6 32.Bxf5"
+    },
+    "416": {
+        "fen": "2r1k1r1/1b2bp1p/4pn2/p2q4/Pp6/1P1NQPB1/N1P3PP/2R2R1K b",
+        "solution": "25...Rxg3 26.hxg3 Ng4 27.Nf4 27...Nxe3"
+    },
+    "417": {
+        "fen": "r4rk1/p1p2ppp/2Q1pq2/3P4/3Pn1b1/2P1PP2/P5PP/R1B1KB1R b",
+        "solution": "12...Bxf3 13.gxf3 Qxf3 14.Rg1 14...Qf2+ 15.Kd1 Qxg1"
+    },
+    "418": {
+        "fen": "3r4/4q1n1/3p4/4nP1p/4PB1b/4Q3/6bP/6R1 b",
+        "solution": "28...Nxf5 29.exf5 Bxd5"
+    },
+    "419": {
+        "fen": "4r2k/6p1/4Qn1p/8/5P1N/8/6PP/5RK1 w",
+        "solution": "21.Ng6+ Kh7 22.Ne5+ Kh8 23.Nf7+ Kg8 24.Nxh6+ Kh8 25.Qg8+ Nxg8 26.Nf7#"
+    },
+    "420": {
+        "fen": "3r3r/4bppp/4pnb1/4N3/5PP1/7P/4Q3/7R w",
+        "solution": "14.f5 14...exf5 15.Nxg6 fxg6 16.Qxe7"
+    },
+    "421": {
+        "fen": "2rqkb1r/3n1pp1/2p1pn1p/4N3/3P4/3BPN2/3B1PPP/4K2R w",
+        "solution": "12.Bg6 fxg6 13.Qxg6+ Ke7 14.Bb4+ 14...c5 15.dxc5 15...Nxc5 16.Qf7+ Kd6 17.Qxb7"
+    },
+    "422": {
+        "fen": "5rk1/2p3p1/2bpq3/5pPR/3Qn3/5N2/5PP1/7R w",
+        "solution": "16.Ne5 16...dxe5 17.g6 17...Qxg6 18.Qc4+ Rf7 19.Rh8#"
+    },
+    "423": {
+        "fen": "6k1/5pp1/4p3/6Pp/3P4/5P2/2r1N2P/3QK2R b",
+        "solution": "37...Rxc1 38.Nxc1 38...Qg2"
+    },
+    "424": {
+        "fen": "6k1/6pp/8/4rp2/3p4/3B2qP/4Q1P1/4R1K1 w",
+        "solution": "29.Rc8+ Kf7 30.Qh5+"
+    },
+    "425": {
+        "fen": "6r1/3r2N1/2p4p/3bPN2/2p1n3/6P1/7K/3R1R2 w",
+        "solution": "30.e6 Rdxg7 31.Nxg7 Rxg7 32.Rxd5 32...cxd5 33.Rf8+ Kc7 34.Rf7+ 34...Rxf7 35.exf7"
+    },
+    "426": {
+        "fen": "2kr3r/pp3bpp/1qp5/3n1p2/P1PPpP2/B3P1P1/2Q1BKP1/R6R b",
+        "solution": "19...Nxe3 20.Qc3 20...Ng4+ 21.Bxg4 fxg4"
+    },
+    "427": {
+        "fen": "r1r3k1/pp3p2/4pp1p/2q5/b1nN4/3BP3/P3QPPP/1R3RK1 w",
+        "solution": "22.Nxe6 22...fxe6 23.Qg4+ Kh8 24.Rxb7 24...Rc7 25.Rxc7 Qxc7 26.Bxc4"
+    },
+    "428": {
+        "fen": "2k1q3/ppp1r3/3brpp1/n2p1n2/3P1PNp/1PP2Q1P/P2BN1P1/3KRR2 b",
+        "solution": "26...Nc4 27.bxc4 Qa4+ 28.Kc1 Ba3+ 29.Kb1 Rb6+"
+    },
+    "429": {
+        "fen": "1r3rk1/pbpn2qp/1p1p1np1/3P1p2/1P5N/5PPB/PB5P/2QR1RK1 w",
+        "solution": "22.Bxf5 gxf5 23.Nxf5 Qh8 24.Nh6+ 24...Kg7 25.Qg5#"
+    },
+    "430": {
+        "fen": "6k1/p6p/2p5/6pq/2P2rn1/2B5/PP4Q1/4R1K1 b",
+        "solution": "29...Nh2 30.Qxh2 Rg4+ 31.Kh1 Rh4"
+    },
+    "431": {
+        "fen": "rnb2rk1/2qpbpp1/p6p/2pPp3/Q3P3/2P1NN2/1P3PPP/3RKB1R w",
+        "solution": "14.d6 Bxd6 15.Nf5"
+    },
+    "432": {
+        "fen": "Rnk5/1p4pp/1Pp2pq1/2B1r3/1P6/7P/3r2PQ/5RK1 w",
+        "solution": "35.Rxb8+ Kxb8 36.Qxe5+"
+    },
+    "433": {
+        "fen": "3Rnrk1/6pp/2r5/pR3p2/2q1pP2/Q1P3P1/P3P1BP/7K w",
+        "solution": "34.Rxf5 Rxf5 35.Rxe8+ 35...Kf7 36.Qe7+ Kg6 37.Bxe4"
+    },
+    "434": {
+        "fen": "5rk1/p2q2pp/3p2r1/1ppPp3/2n1P3/P1P2P2/6PP/1QBRR2K b",
+        "solution": "25...Rxf3 26.gxf3 Qh3 27.Rg1 Qxf3+ 28.Rg2 Qxg2#"
+    },
+    "435": {
+        "fen": "1n5r/R5pp/2rNpp2/2k5/8/4P3/1P2P1KP/3R4 w",
+        "solution": "31.b4+ Kxb4 32.Rb7+ 32...Kc3 33.Ne4+ Kc2 34.Rbb1"
+    },
+    "436": {
+        "fen": "1r2r1k1/ppp2ppp/8/q1PP3b/5P2/4R1P1/P1Q3BP/1R4K1 w",
+        "solution": "22.Rxb7"
+    },
+    "437": {
+        "fen": "r2qkb1r/1pp1npp1/p1np3p/4p2b/4P3/1BNP1N1P/PPP2PP1/R1BQK2R w",
+        "solution": "9.Nxe5 Nxe5 10.Qxh5"
+    },
+    "438": {
+        "fen": "5rk1/pp1q2pp/1np5/5pQ1/3P4/1P1N2RP/1P3PP1/6K1 w",
+        "solution": "28.Nc5 Qf7 29.Ne6"
+    },
+    "439": {
+        "fen": "4r1k1/pp3pp1/2p3p1/5p1q/3P4/2PRNnPP/PP3PQ1/5K2 b",
+        "solution": "30...f4 31.gxf4 31...Qb5 32.c4 32...Qxc4"
+    },
+    "440": {
+        "fen": "2r5/p3p1kp/q1n2pp1/8/1p6/1P2PP2/PN4PP/Q3K2R b",
+        "solution": "22...Nd4 23.exd4 23...Rc2 24.Nc4 24...Rxa2 25.Qd1 Ra1"
+    },
+    "441": {
+        "fen": "5r1k/pb4pp/1pnrp3/1Q3pq1/8/P1N2B2/1P3PPP/R3R1K1 w",
+        "solution": "20.Ne4 20...Qg6 21.Nxd6 21...Nd4 22.Bxb7 22...Nxb5 23.Nxb5"
+    },
+    "442": {
+        "fen": "3r1rk1/2q2p1p/1n5Q/1pp1pp2/8/1BP4P/1P3PP1/R2R2K1 w",
+        "solution": "26.Bxf7+ 26...Qxf7 27.Rxd8 Rxd8 28.Qg5+"
+    },
+    "443": {
+        "fen": "r1b3k1/pp2q1pp/1b3p2/3rp3/3N4/4P1P1/PP3P1P/R1BQ1RK1 w",
+        "solution": "17.Nf5 Bxf5 18.Qxd5+"
+    },
+    "444": {
+        "fen": "2brq1k1/1pRn1r1p/p3p1p1/3nP1P1/4NP2/BP2Q1P1/P2R2B1/6K1 w",
+        "solution": "28.Rxd5 exd5 29.Nd6"
+    },
+    "445": {
+        "fen": "1r3rk1/p1p3b1/2Pp2Qp/2pP2pP/5q2/2N5/PP1RR1P1/2K5 b",
+        "solution": "30...Rxb2 31.Kxb2 31...Qb4+ 32.Kc1 Qxc3+ 33.Qc2 Qa1+ 34.Qb1 Rf1+"
+    },
+    "446": {
+        "fen": "8/6k1/1N2p3/p2b1p2/3P3p/2BK1P2/6P1/6b1 b",
+        "solution": "37...Bxf3 38.Be1 38...Bxg2 39.Bxh4 39...e5"
+    },
+    "447": {
+        "fen": "Q7/ppp2kpp/8/2b5/4RP1q/7b/PPP3PP/3R3K b",
+        "solution": "19...Bxg2+ 20.Kxg2 Qg4+ 21.Kf1 Qf3+ 22.Ke1 Qf2#"
+    },
+    "448": {
+        "fen": "4r1k1/ppp2qpp/2r5/3N1P2/4p2n/1Q6/PPP3PP/3RR1K1 w",
+        "solution": "22.Ne7+ Rxe7 23.Rd8+ Re8 24.Rxe8#"
+    },
+    "449": {
+        "fen": "r5k1/p2b3p/2pb2p1/7R/2P5/1P4P1/PB6/6KB w",
+        "solution": "28.Bd5+ cxd5 29.Rxd5 29...Bf5 30.Rxd6 Bb1"
+    },
+    "450": {
+        "fen": "r4rk1/ppp1qpb1/2n1b2p/3p1p2/3P3N/2N1Q1PB/PPP2P1P/2KR3R b",
+        "solution": "15...f4 16.gxf4 16...Qxh4 17.f5"
+    },
+    "451": {
+        "fen": "r3r3/pp3k2/q3bppB/2pQ4/1b1p2PP/8/1PP1N3/1NKR1R2 w",
+        "solution": "23.Rxf6+ 23...Kxf6 24.Rf1+ 24...Bf5 25.Qd7"
+    },
+    "452": {
+        "fen": "7r/pp1br2B/8/2k1Pp2/2p5/7R/PPP3P1/2K4R w",
+        "solution": "25.Bxf5 Rxh3 26.Bxh3"
+    },
+    "453": {
+        "fen": "4kb1Q/1p3p2/2n1q3/5p2/3prBp1/3R2K1/PP4PP/5R2 b",
+        "solution": "24...Rxf4 25.Kxf4 25...Ne5"
+    },
+    "454": {
+        "fen": "2b3k1/2p2rbp/1p1p2p1/p2Pq3/P1PNpr2/1P4PP/2BQRP2/1K1R4 b",
+        "solution": "24...Rxf2 25.Rxf2 25...e3 26.Re2 exd2 27.Rxe5"
+    },
+    "455": {
+        "fen": "r3rbk1/pbq2ppp/1p3n2/2pPN3/5P2/1P4P1/PB4BP/R2Q1RK1 w",
+        "solution": "18.d6 Qb8 19.d7 Rd8 20.Nc6"
+    },
+    "456": {
+        "fen": "2kr3r/pppqp1bp/6p1/n4p2/1P1PpP2/4P2P/P1PN2P1/R1BQ1RK1 b",
+        "solution": "13...Bxd4 14.exd4 Qxd4+ 15.Kh2 Qxa1 16.bxa5 16...e3"
+    },
+    "457": {
+        "fen": "r3kb1r/ppp2ppp/2nqb3/3n2N1/2Bp4/8/PPP2PPP/RNBQR1K1 w",
+        "solution": "9.Nxf7 Kxf7 10.Qf3+ 10...Ke7 11.Bxd5 11...Ne5 12.Qh5 Qxd5 13.Rxe5 Qc6"
+    },
+    "458": {
+        "fen": "2r5/qpBnrkpb/p2Qpp2/3p3p/6nN/1P1P2P1/P3PPBP/2R2RK1 w",
+        "solution": "25.Bxd5 exd5 26.Qxd5+ Kf8 27.Qxh5 27...Nh6 28.Bd6"
+    },
+    "459": {
+        "fen": "5rk1/ppQ2ppp/6q1/3rP3/3p1R2/P7/1P4PP/5RK1 w",
+        "solution": "26.Rxf7 Re8"
+    },
+    "460": {
+        "fen": "6k1/5pb1/1p1N3p/p5p1/5q2/Q6P/PPr5/3RR2K w",
+        "solution": "34.Re8+ Bf8 35.Rxf8+ Kxf8 36.Nf5+ 36...Kg8 37.Qf8+ 37...Kxf8 38.Rd8#"
+    },
+    "461": {
+        "fen": "1k6/1p5p/p2b4/3p1p2/P1pP1P1q/2PrB1rP/1P2RQP1/4R2K b",
+        "solution": "33...Rdxe3 34.Rxe3 Rxh3+ 35.Rxh3 Qxf2"
+    },
+    "462": {
+        "fen": "3r2k1/1p2Qb1p/1q3pp1/pP1p4/P2N3P/2P5/5PP1/4R1K1 w",
+        "solution": "34.Re6 Bxe6 35.Nxe6"
+    },
+    "463": {
+        "fen": "r3qrk1/2R1b1pp/1p2p3/3b1p2/1P1Nn3/P3B1P1/5PBP/1Q1R2K1 w",
+        "solution": "26.Nxf5 26...exf5 27.Rxd5"
+    },
+    "464": {
+        "fen": "5rk1/1Q3pp1/1N1Bp2p/p2p4/3P4/2nqP3/P2b1PPP/5RK1 b",
+        "solution": "29...Ne2+ 30.Kh1 Ng3+ 31.hxg3 Qxf1+ 32.Kh2 Qxf2 33.Bxf8 Bxe3 34.Qb8 Qg1+ 35.Kh3 Qh1+ 36.Kg4 Qd1+ 37.Kh4 g5+ 38.Kh3 Qh5#"
+    },
+    "465": {
+        "fen": "3r1rk1/pp3ppp/2p5/8/4qP2/2RBP2b/PP2Q1PP/5R1K b",
+        "solution": "18...Rxd3 19.Rxd3 19...Bxg2+ 20.Kg1 20...Bxf1 21.Qxf1"
+    },
+    "466": {
+        "fen": "1r2kb1r/p2n1ppp/2Q1pn2/8/3R4/2B5/qPP1NPPP/2KR4 b",
+        "solution": "16...Ba3 17.bxa3 17...00"
+    },
+    "467": {
+        "fen": "2nq2k1/2r3pp/p1p1rp2/PpQ1N3/1P1PR3/8/5PPP/2R3K1 w",
+        "solution": "31.Nf7 Qe8 32.Rxe6 Qxe6 33.Nd8"
+    },
+    "468": {
+        "fen": "rnbq1rk1/pp2p1bp/2p2pp1/3p4/2PP4/2NBP1P1/PP3PP1/R2QK1NR w",
+        "solution": "10.Rxh7 Kxh7 11.Qh5+ Kg8 12.Bxg6"
+    },
+    "469": {
+        "fen": "3r2k1/q5pp/4bp2/prb1p3/8/3P2P1/n1RNPPBP/B2Q1RK1 w",
+        "solution": "37.Rxa2 Bxa2 38.Qa4"
+    },
+    "470": {
+        "fen": "rn1r2k1/1b2bppp/p7/2pp2B1/4q3/1B2PN2/PP2QPPP/2RR2K1 w",
+        "solution": "17.Rxc5 17...Bxg5 18.Nxg5 18...Qe7 19.Bxd5 19...Bxd5 20.Rcxd5"
+    },
+    "471": {
+        "fen": "6k1/1p3p2/5Qp1/2q1p1p1/P3P1P1/1r5P/3R2K1/8 b",
+        "solution": "36...Rg3+ 37.Kxg3 Qe3+ 38.Qf3 Qxd2"
+    },
+    "472": {
+        "fen": "rnbqkbnr/p4ppp/2p5/1p6/2BpP3/2N2N2/PP3PPP/R1BQK2R w",
+        "solution": "7.Nxb5 Ba6 8.Qb3 8...Bxb5 9.Bxf7+ Kd7"
+    },
+    "473": {
+        "fen": "r4r2/n1q1k1pb/1p2P2p/p1p1P3/P4QP1/B1P5/B6P/2R2RK1 w",
+        "solution": "30.Qf7+ Rxf7 31.Rxf7+ Kd8 32.Rd1+ Kc8 33.Rxc7+ Kxc7 34.Rd7+"
+    },
+    "474": {
+        "fen": "2r5/1p3Qpk/3q1n1p/2p1N3/1n6/6P1/5PBP/R5K1 w",
+        "solution": "30.Be4+ Kh8 31.Ng6+ 31...Kh7 32.Ne7+"
+    },
+    "475": {
+        "fen": "r1bq1rk1/ppp1b1pp/8/3nnp2/8/4P1PN/PP1N1PBP/R1BQ1RK1 w",
+        "solution": "11.Nc4"
+    },
+    "476": {
+        "fen": "4r1k1/2q2p1p/p5pB/1pb2PPn/3Q4/1B5P/PP3P2/R5K1 w",
+        "solution": "27.Bxf7+ 27...Qxf7 28.Qxc5"
+    },
+    "477": {
+        "fen": "r4rk1/6pp/p1p5/1p1pP3/3P2b1/1B2BPp1/PPR3Pq/3QRK2 b",
+        "solution": "23...Rxf3+ 24.Qxf3 24...Qh1+ 25.Ke2 Qxg2+ 26.Kd3 Qxf3"
+    },
+    "478": {
+        "fen": "2kr4/ppbr1ppp/2p1p3/2P2nP1/3PBP2/P1P4P/4N3/2KR3R b",
+        "solution": "25...Ng3 26.Nxg3 Bxf4+ 27.Kc2 Bxg3 28.Bxh7 g6"
+    },
+    "479": {
+        "fen": "3r2k1/pp2qppp/2pb1n2/5PQ1/6P1/8/PB1r1PBP/1R3RK1 b",
+        "solution": "22...Rxb2 23.Rxb2 Qe5 24.Rfb1 Qxh2+ 25.Kf1 Bf4"
+    },
+    "480": {
+        "fen": "8/pb3k2/1p6/2ppqBQ1/8/2P5/P5PP/6K1 w",
+        "solution": "38.Bg6+ Ke6 39.Bf7+ Kd6 40.Qd8+ 40...Kc6 41.Be8+"
+    },
+    "481": {
+        "fen": "8/B4kpp/2pp4/P7/4P3/8/1Pb3PP/6K1 w",
+        "solution": "28.Bc5 28...Bd3 29.Bxd6"
+    },
+    "482": {
+        "fen": "3r3k/pp3rp1/1bp4p/4Q3/4PqP1/2PP1N2/P4PP1/R3R1K1 b",
+        "solution": "21...Bxf2+ 22.Kf1 22...Bxe1 23.Qxf4 Rxf4"
+    },
+    "483": {
+        "fen": "8/6pk/7p/2r2p2/5Pqn/1P6/P2Q2PP/2B2RK1 b",
+        "solution": "38...Rxc1 39.h3 39...Nf3+"
+    },
+    "484": {
+        "fen": "r2qkb1r/1p3ppp/p7/3npP2/3n4/2N1B3/PP3PPP/R2QKB1R w",
+        "solution": "11.Bxd4 exd4 12.Qa4+ b5 13.Bxb5+ axb5 14.Qxb5+ Qd7 15.Nxd5 15...Qxb5 16.Nc7+ Kd7 17.Nxb5 Re8+ 18.Kd2 Re519.Nxd4"
+    },
+    "485": {
+        "fen": "6k1/6pp/3n4/1n1p1P2/p1pP1NP1/PpP1K3/1B5P/8 b",
+        "solution": "36...Nxa3 37.Bxa3 Nb5 38.Bc1 Nxc3"
+    },
+    "486": {
+        "fen": "1r4k1/q3pp2/3nb1p1/1pbN2p1/8/3Q2P1/P4PBP/3RR1K1 w",
+        "solution": "25.Rxe6 fxe6 26.Qxg6+ 26...Kf8 27.Rd3"
+    },
+    "487": {
+        "fen": "r3k2r/pp2p1bp/2bpPpp1/q7/6Q1/P1PB4/1P4PP/R1B2R1K w",
+        "solution": "17.Bxg6+ hxg6 18.Qxg6+ Kd8 19.Qxg7 19...Qh5 20.Bf4"
+    },
+    "488": {
+        "fen": "r1b4k/4q1pp/p1r5/2Np1p2/Pp1Pp3/4P1P1/1PR1QP1P/2R3K1 w",
+        "solution": "27.Nxe4 Rxc2 28.Qxc2 28...fxe4 29.Qxc8+ Rxc8 30.Rxc8+"
+    },
+    "489": {
+        "fen": "r4rk1/pp1b2pp/2p3q1/3pP3/1bP1pB1P/1PN2PP1/P1Q1P3/3R1K1R b",
+        "solution": "21...Rxf4 22.gxf4 Qg3 23.Nxe4 23...dxe4 24.Rxd7 Bc5"
+    },
+    "490": {
+        "fen": "r4rk1/2qbbp1p/p2p1np1/1pnPp1B1/2p1P2N/2P3NP/PPB1QPP1/R3R1K1 b",
+        "solution": "19...Nxd5 20.Bxe7 Nxe7"
+    },
+    "491": {
+        "fen": "4qr1k/2Rr1npp/p3b3/1p2Pp2/1Q3B2/P4N2/5PPP/4R1K1 w",
+        "solution": "28.Rxd7 Bxd7 29.e6 29...Bxe6 30.Rxe6 Qxe6 31.Qxf8#"
+    },
+    "492": {
+        "fen": "r4rk1/1n2qpbp/2bp1npB/1p2p2P/1P2P1P1/2N2PN1/P2Q2B1/2R1K2R w",
+        "solution": "23.Nf5"
+    },
+    "493": {
+        "fen": "r4rk1/p1pqn1b1/1p1p2p1/3Pp1Pn/2P1P1bR/1P2B1N1/P2QN1B1/2K4R w",
+        "solution": "24.Rxg4 Qxg4 25.Bh3 Qf3 26.Rf1 26...Nxg3 27.Rxf3 Rxf3 28.Nxg3 Rxg3 29.Be6+"
+    },
+    "494": {
+        "fen": "rn1qr3/1b1n2kp/ppp3p1/3pNp2/N2P4/1Q2P2B/PP3PPP/2RR2K1 w",
+        "solution": "21.e4 21...Nxe5 22.dxe5 fxe4 23.Nxb6 Ra7 24.Qe3"
+    },
+    "495": {
+        "fen": "r1b2r2/1p1nq1bk/1np1p1pp/p7/3PN2N/1P2B3/2Q1BPPP/2RR2K1 w",
+        "solution": "22.Nxg6 22...Kxg6 23.Bh5+"
+    },
+    "496": {
+        "fen": "r1r2bk1/5p1p/pn4p1/N2b4/3Pp3/B3P3/2q1BPPP/RQ3RK1 b",
+        "solution": "24...Bxa3 25.Rxa3 Qxe2 26.Qxb6 Rab8 27.Qd6 Qxf1+ 28.Kxf1 Rb1+"
+    },
+    "497": {
+        "fen": "1q1r1nk1/rb2b1p1/pp3nP1/5B2/2PP4/7Q/PB4PP/R4RK1 w",
+        "solution": "29.Be6+ Nxe6 30.Qxe6+ Kh8 31.Qh3+ 31...Kg8 32.Rxf6 Bxf6 33.Qh7+ 33...Kf8 34.Re1"
+    },
+    "498": {
+        "fen": "5rk1/1b3pbp/1p2p1pq/8/PNB3QP/1P4P1/3r1P2/2R2RK1 b",
+        "solution": "25...Rxf2 26.Rxf2 26...Qxc1+"
+    },
+    "499": {
+        "fen": "4r3/1p4pk/2b2pq1/7p/3B1P2/7P/4RQP1/7K b",
+        "solution": "37...Qxg2+ 38.Qxg2 Rxe2"
+    },
+    "500": {
+        "fen": "3R1nk1/p4qpp/8/4QP2/2rB4/P7/3r3P/4R1K1 w",
+        "solution": "40.Rxf8+ Qxf8 41.Qd5+ Kh8 42.Qxc4"
+    },
+    "501": {
+        "fen": "8/5pkp/4pbp1/3q4/3p1P2/1P1B2PK/4Q2P/3R2r1 b",
+        "solution": "39...Rg2 40.Qe4 40...Rxh2+ 41.Kxh2 Qh5+ 42.Kg2 Qxd1"
+    },
+    "502": {
+        "fen": "2r2rk1/pQ2bppp/2n1pn2/1B1p4/q2P1B2/P3PP2/1P2KP1P/2R4R b",
+        "solution": "17...Nxd4+ 18.exd4 Rc2+ 19.Bd2 19...Rxb2 20.Bxa4 Rxb7"
+    },
+    "503": {
+        "fen": "2kr3r/pb1n1p2/3qpP2/2b3B1/PpB2Q2/3p1PN1/1P4PP/R4R1K b",
+        "solution": "22...Rxh2+ 23.Kxh2 Rh8+"
+    },
+    "504": {
+        "fen": "4r1k1/p2b1p2/1p1q1n1p/3p2p1/P1pP2P1/2P1rPNP/3Q1K2/R3RB2 b",
+        "solution": "23...Qxg3+ 24.Kxg3 Ne4+"
+    },
+    "505": {
+        "fen": "5rk1/pp1qrp1p/3Nn1p1/3pP3/3P3Q/2R5/PP4PP/5R1K w",
+        "solution": "30.Nf5 Ree8 31.Nh6+ Kh8 32.Qf6+ Ng7 33.Nxf7+"
+    },
+    "506": {
+        "fen": "3r3k/r1pn1ppp/1n2p3/pB2P3/Pp2PP1q/1Q6/1P1B1P1P/2R1K2R b",
+        "solution": "24...Nxe5 25.fxe5 Qxe4+"
+    },
+    "507": {
+        "fen": "6k1/pp1r2p1/2q2P2/3p1PQ1/P3n3/8/BP5P/6RK w",
+        "solution": "31.f7+ Rxf7 32.Qd8+ Kh7 33.Bxd5 33...Nf2+ 34.Kg2 Qf6 35.Qxf6 Rxf6 36.Kxf2 Rxf5+ 37.Bf3 Rf4 38.Rg410"
+    },
+    "508": {
+        "fen": "r3kbnr/ppp2ppp/8/n2qp3/2BP4/1QP2b2/PP1N1PPP/R1B1K2R w",
+        "solution": "9.Qa4+ 9...Qd7 10.Bxf7+ Kd8 11.Qxd7+ Kxd7 12.Nxf3"
+    },
+    "509": {
+        "fen": "3r4/p1n1q1kp/1p3pp1/2p5/4N2P/1P4P1/PQ2PPK1/3R4 w",
+        "solution": "23.Nxf6 Kf7 24.Rxd8 Qxd8 25.Nxh7"
+    },
+    "510": {
+        "fen": "3r4/k2r4/pq4pp/3B2b1/8/1N1R1Q2/PP4PP/1K6 b",
+        "solution": "35...Rxd5 36.Rxd5 Qg1+ 37.Kc2 37...Rc8+ 38.Kd3 Qb1+ 39.Kd4 Qxb2+"
+    },
+    "511": {
+        "fen": "2r5/kp1r1pp1/pR2pnp1/2Pq4/3P4/1Q6/4N1PP/1R4K1 w",
+        "solution": "40.Rxa6+ bxa6 41.Qb6+ Ka8 42.Qxa6+ Ra7 43.Qxc8#"
+    },
+    "512": {
+        "fen": "2r5/1q2bpk1/r3p1p1/3pNn2/ppPP1P1p/3Q3P/PP2R1P1/2R1B1K1 b",
+        "solution": "32...Nxd4 33.Qxd4 33...Bc5"
+    },
+    "513": {
+        "fen": "5r1k/p3N1bp/6p1/pR6/2P1R3/3p2q1/8/4Q2K b",
+        "solution": "33...Qh3+ 34.Kg1 d2 35.Nxg6+ 35...hxg6 36.Qh4+ Kg8"
+    },
+    "514": {
+        "fen": "rn1qrbk1/2R2ppp/2p5/p3p3/Q7/P2PBNP1/1P2PPBP/6K1 w",
+        "solution": "18.Rxf7 Kxf7 19.Qc4+ 19...Kg6 20.Qg4+ 20...Kf7 21.Ng5+"
+    },
+    "515": {
+        "fen": "b2r2k1/p4ppn/2qN2np/1p2P3/2p2PP1/1P2Q2P/PB5K/4RB2 b",
+        "solution": "31...Nxf4 32.Qxf4 32...Qh1+ 33.Kg3 Qg1+ 34.Kh4 g5+"
+    },
+    "516": {
+        "fen": "r3kb1r/3n1ppp/p1ppq3/1p4B1/4P3/1PN5/1PQ2PPP/R4RK1 w",
+        "solution": "16.Rxa6 Rxa6 17.Nxb5 17...cxb5 18.Qc8#"
+    },
+    "517": {
+        "fen": "q4rk1/2r2ppp/1p2p3/3n4/2BP1b2/1Q4P1/PB3P1P/1R1R2K1 b",
+        "solution": "23...Rxc4 24.Qxc4 Ne3 25.Qf1 25...Nxf1"
+    },
+    "518": {
+        "fen": "2r3k1/p4pp1/1q2pn1p/1Pb5/4P3/PQ3NPP/3pRP2/5BK1 b",
+        "solution": "30...Bxf2+ 31.Rxf2 31...Nxe4"
+    },
+    "519": {
+        "fen": "8/1p1b3p/4npp1/PPPk1p2/5P2/3BB1P1/7P/6K1 w",
+        "solution": "39.c6 bxc6 40.b6 Bc8 41.a6 41...Nd8 42.Bf1"
+    },
+    "520": {
+        "fen": "1r3rk1/1PQ3pp/p3pn2/1p2p3/4P3/5N1P/1b3PP1/q1B1RNK1 b",
+        "solution": "25...Bxc1 26.Rxc1 26...Rxb7"
+    },
+    "521": {
+        "fen": "1q2kb1r/1r1n1ppp/2Qpp3/8/N7/8/1PP2PPP/R1BR2K1 w",
+        "solution": "18.Nc5 dxc5 19.Bf4 19...Qxf4 20.Qxb7"
+    },
+    "522": {
+        "fen": "r1b1r1kb/1pqn1p1p/2pp1npB/8/2PNP3/1PN3PP/3Q1PB1/3RR1K1 w",
+        "solution": "18.Nf5 18...gxf5 19.Qg5+ Bg7 20.Qxg7"
+    },
+    "523": {
+        "fen": "R6r/4kpp1/1q1bp2p/3n4/1p5P/6Q1/PP1B1PP1/1K2R3 w",
+        "solution": "28.Rxe6+ Kxe6 29.Qg4+"
+    },
+    "524": {
+        "fen": "r3r1k1/pp1n1pp1/2p4p/q2p1P2/3b2n1/1PNP2PP/PB1Q1PB1/3R1RK1 b",
+        "solution": "18...Ne3 19.fxe3 19...Bxe3+"
+    },
+    "525": {
+        "fen": "r5k1/p7/4Nnp1/3q4/8/4Q2R/PP2KP1P/8 w",
+        "solution": "32.Rh8+ Kf7 33.Ng5+ 33...Kg7 34.Rxa8"
+    },
+    "526": {
+        "fen": "4r2k/p5qp/bp2B1p1/3P1p2/2n2N2/2R5/PQ3PPP/6K1 w",
+        "solution": "30.Nxg6+ Qxg6 31.Rxc4+ Qg7 32.Qxg7+ Kxg7 33.Rc7+"
+    },
+    "527": {
+        "fen": "2r2rk1/1p3pp1/4n3/1P1Rn1q1/4P2p/7P/2P2QN1/R4BK1 b",
+        "solution": "32...Rxc2 33.Qxc2 33...Nf3+ 34.Kf2 34...Qg3+ 35.Ke2 Nfd4+ 36.Kd1 Nxc2"
+    },
+    "528": {
+        "fen": "bq3rk1/2pnnppp/3p1b2/1p1Pp3/4P3/NBP2N1P/1P3PP1/2BQR1K1 w",
+        "solution": "16.Nxb5 Qxb5 17.Ba4"
+    },
+    "529": {
+        "fen": "8/1q4kp/2np1p2/4p3/2PpP2P/6P1/r1PQ2BK/5R2 w",
+        "solution": "31.Rxf6 Kxf6 32.Qh6+ Kf7 33.Qxh7+ Kf6 34.Qxb7"
+    },
+    "530": {
+        "fen": "8/pR6/4p1k1/2p1P1rn/P3R3/4N1P1/4r2P/6K1 b",
+        "solution": "36...Nxg3 37.hxg3 37...Rxg3+ 38.Kf1 Rexe3 39.Rxe3 Rxe3 40.Rxa7 40...Kf5"
+    },
+    "531": {
+        "fen": "2r3k1/pppqrpb1/3n1npp/3Pp3/P3P3/BP3NP1/2R1QPBP/2R3K1 w",
+        "solution": "25.Bh3 Qxh3 26.Bxd6"
+    },
+    "532": {
+        "fen": "3n4/pp3p2/4k2p/1PP1p3/4NP2/Pb2K3/6BP/8 w",
+        "solution": "35.c6 35...exf4+ 36.Kxf4 bxc6 37.Nc5+ Kd6 38.Nxb3"
+    },
+    "533": {
+        "fen": "3r2k1/2R2pp1/7B/p3p3/qb4Q1/7P/1P3PPK/2r5 b",
+        "solution": "31...Rh1+ 32.Kxh1 32...Qd1+ 33.Kh2 Qxg4 34.hxg4 gxh6"
+    },
+    "534": {
+        "fen": "2r3k1/p1r1qp1p/1p3np1/nP2p1N1/7Q/3N2P1/P3PPKP/2RR4 w",
+        "solution": "27.Nxh7 27...Nxh7 28.Qxe7 Rxe7 29.Rxc8+"
+    },
+    "535": {
+        "fen": "r1bb1r1k/p4ppp/2p2n1N/7Q/2p5/2B2N2/qPP2PPP/2KR3R w",
+        "solution": "19.Qxf7 19...Qa1+ 20.Kd2 Rxf7 21.Nxf7+ Kg8 22.Rxa1"
+    },
+    "536": {
+        "fen": "1r4k1/3q1p2/p4P1p/2r1p1bQ/4p3/2P3R1/P5PP/5R1K b",
+        "solution": "32...Qf5 33.Kg1 33...Qg6 34.Qe2 Rc6 35.h4 Rxf6"
+    },
+    "537": {
+        "fen": "3r4/1q5k/p3p1pp/2p1Rp1n/2P2P2/P4b1P/1PB4K/2B3Q1 b",
+        "solution": "39...Qxb2 40.Bxb2 Rd2+"
+    },
+    "538": {
+        "fen": "4b3/r4kp1/4Rn1p/p4p2/P4N2/6P1/P1r3BP/4R1K1 w",
+        "solution": "33.Rxf6+ Kxf6 34.Rxe8"
+    },
+    "539": {
+        "fen": "7k/p6p/2P1nNp1/4rbP1/3p3P/P3P3/3KB3/7R w",
+        "solution": "37.e4 37...Bxe4 38.Nxe4 Rxe4 39.Rb1 Re3 40.Rb8+ Kg7 41.Bc4"
+    },
+    "540": {
+        "fen": "2r5/5pk1/4pqp1/p4p2/5P2/QPr3PP/P2R3K/4R3 b",
+        "solution": "37...Rxg3 38.Kxg3 38...Qc3+ 39.Kf2 Qxd2+"
+    },
+    "541": {
+        "fen": "3r1rk1/1p4p1/p1p1qpQ1/8/1P3Pp1/P2R2Pn/1B2P2P/3R1K2 b",
+        "solution": "37...Qe3 38.Ke1 38...Qg1+ 39.Kd2 Rxd3+ 40.exd3 40...Qxh2+ 41.Kc3 Qxg3"
+    },
+    "542": {
+        "fen": "r3r1k1/p3q3/1pn1b1pB/2p1PpN1/5P1Q/7R/P1p3PP/4R1K1 w",
+        "solution": "32.Bf8 32...Kxf8 33.Qh8+ Bg8 34.Rh7"
+    },
+    "543": {
+        "fen": "5n2/3bp1r1/1r1p3k/p1p2pNp/1nP2P1P/1PN1PB1K/P5R1/6R1 w",
+        "solution": "34.Nf7+ Rxf7 35.Rg5"
+    },
+    "544": {
+        "fen": "1br4k/pp4pp/8/2n1q2b/P7/6PP/1P1NnPBK/R1B1NQ2 b",
+        "solution": "24...Nxg3 25.fxg3 Qxg3+ 26.Kg1 Qh2+ 27.Kf2 Bg3+ 28.Ke3 Bxe1"
+    },
+    "545": {
+        "fen": "5rk1/R5pp/4p1q1/1p2Q3/2p2nN1/2Pr3P/1P3PP1/R5K1 b",
+        "solution": "33...Nxh3+ 34.gxh3 Rxh3 35.Qd4 Rd3"
+    },
+    "546": {
+        "fen": "4k1r1/pQ1n1p1R/1pq5/5P2/2r5/P7/5PB1/3R2K1 w",
+        "solution": "28.Rh8 28...Qxb7 29.Rxg8+ Ke7 30.Bxb7"
+    },
+    "547": {
+        "fen": "rqr3k1/1b1nbppp/ppnpp3/8/N1PNP3/1P4P1/PB2QPBP/2RR2K1 w",
+        "solution": "17.Nxe6 fxe6 18.Qg4 18...Nf6 19.Qxe6+ Kh8 20.Nxb6"
+    },
+    "548": {
+        "fen": "1rbq1rk1/4ppbp/3pn1p1/1p1Nn3/1P6/2N3P1/P2BPPBP/2RQ1RK1 w",
+        "solution": "16.Nxb5 Rxb5 17.Rxc8 Qxc8 18.Nxe7+ Kh8 19.Nxc8"
+    },
+    "549": {
+        "fen": "7k/6p1/5p2/2B4p/5P2/Q4K1P/6P1/4q1b1 b",
+        "solution": "36...Qf1+ 37.Kg3 h4+ 38.Kg4 38...Qxg2+ 39.Kxh4 39...g5+ 40.Kh5 gxf4"
+    },
+    "550": {
+        "fen": "r4r1k/1p5p/1bp2N2/2n1p1B1/p3P3/2P5/PPB2PP1/3R2K1 b",
+        "solution": "27...h6 28.Bh4 Bd8"
+    },
+    "551": {
+        "fen": "r2q2k1/p2rppbp/1pp3p1/4B3/NPPP2b1/P3Q3/5PPP/R4RK1 w",
+        "solution": "18.Bxg7 18...Kxg7 19.d5 19...Kg8 20.dxc6"
+    },
+    "552": {
+        "fen": "2r4k/1p3pbp/p1b2N2/4r1q1/2pN1R2/7P/PPP2QP1/3R2K1 b",
+        "solution": "26...Bxf6 27.Rxf6 Bxg2 28.h4 28...Qg4"
+    },
+    "553": {
+        "fen": "2rqr1k1/1b1n1ppp/p1n1pbP1/3p3P/3N1PQ1/2PN4/1P3BB1/R2R2K1 w",
+        "solution": "24.gxf7+ Kxf7 25.Nxe6 Rxe6 26.Bxd5"
+    },
+    "554": {
+        "fen": "5rk1/3qbp1p/p1r5/1p2Np2/8/1P2Q1P1/P3PP1P/R5K1 b",
+        "solution": "22...f4 23.Qxf4 23...Qc7 24.Nxc6 Qxc6"
+    },
+    "555": {
+        "fen": "r7/1p2q1k1/5pp1/nPr4p/3RP3/3B3P/5QP1/5RK1 w",
+        "solution": "35.Qxf6+ Qxf6 36.Rd7+ Kh6 37.Rxf6"
+    },
+    "556": {
+        "fen": "q4rbk/p1r4p/6B1/4b3/Ppp2N2/1n2B1PQ/1P5P/4RRK1 w",
+        "solution": "32.Bxh7 Rxh7 33.Ng6+ 33...Kg7 34.Qd7+ 34...Rf7 35.Rxf7+ Bxf7 36.Nxe5"
+    },
+    "557": {
+        "fen": "R4bk1/5pp1/5n1p/4Q3/3B4/1qprPBP1/5P1P/6K1 w",
+        "solution": "30.Rxf8+ Kxf8 31.Qc5+ 31...Kg8 32.Qc8+ Kh7 33.Qf5+ Kg8 34.Qxd3"
+    },
+    "558": {
+        "fen": "r1bqr1k1/1p3ppp/2pp1n2/p1b1n3/2PNP3/2NBB2P/PPQ2PP1/4RRK1 b",
+        "solution": "14...Bxh3"
+    },
+    "559": {
+        "fen": "1k1r4/pp2n1pp/3r1pb1/2Np4/8/1P4PP/P1R1PPB1/2R1K3 w",
+        "solution": "23.Nxb7 Bxc2 24.Nxd6 24...Bxb3 25.Nf7 Rf8 26.axb3 Rxf7 27.Rc5"
+    },
+    "560": {
+        "fen": "2r1r1k1/q2bb2p/p2p1pp1/1p1P4/8/1P5P/PQ3PP1/BB1RR1K1 w",
+        "solution": "28.Rxe7 Rxe7 29.Qxf6 29...Re5 30.Qxd6"
+    },
+    "561": {
+        "fen": "r2q1rk1/4npbp/b1p1pnp1/p3N3/2BP2P1/B4N2/PP3P1P/2RQR1K1 w",
+        "solution": "22.Nxf7 Rxf7 23.Bxe6"
+    },
+    "562": {
+        "fen": "r2r2k1/p3pp1p/2p2npQ/6N1/2b3P1/2P2R1P/Pq3P2/5RK1 w",
+        "solution": "24.Rxf6 exf6 25.Qxh7+ Kf8 26.Re1 Be6 27.Rxe6"
+    },
+    "563": {
+        "fen": "4r3/pp1nr3/2p4p/4pkb1/4RP2/1PBN2P1/P1P1K3/3R4 w",
+        "solution": "29.g4+ Kxe4 30.Nf2+ Kxf4 31.Rg1 31...e4 32.Nh3#"
+    },
+    "564": {
+        "fen": "6k1/6p1/4p2p/4N3/3P2Pq/4PP2/n6P/2R3K1 w",
+        "solution": "40.Rc8+ Kh7 41.Rh8+ Kxh8 42.Ng6+ Kh7 43.Nxh4"
+    },
+    "565": {
+        "fen": "r3qrk1/2p2pb1/p6p/1p2pb2/5p2/1BP2N2/PP3PPP/R2QR1K1 w",
+        "solution": "21.Nxe5 Bxe5 22.Qh5"
+    },
+    "566": {
+        "fen": "r5k1/p5p1/7p/Q2N1b2/8/1P3q1P/2P1rP2/2KR2R1 w",
+        "solution": "29.Nf6+ 29...Kf7 30.Qc7+ Re7 31.Rxg7+ Kxg7 32.Qxe7+ 32...Kh8 33.Rg1"
+    },
+    "567": {
+        "fen": "r3bqk1/1p2rppn/p3p2p/3pP2Q/3P1RN1/2PB3P/PP4P1/R5K1 w",
+        "solution": "22.Nf6+ 22...Nxf6 23.exf6 Nxf6 24.Rxf6 Qg7 25.Rxh6 f5 26.Qh4"
+    },
+    "568": {
+        "fen": "rnb3k1/pp4pp/3p3r/2p1p1qn/P1PPPpP1/2PB1P2/3QNB1P/R5RK b",
+        "solution": "17...Ng3+ 18.Kg2 18...Qh4 19.Bxg3 fxg3 20.hxg3 20...Qh2+ 21.Kf1 Rf6"
+    },
+    "569": {
+        "fen": "r3r1k1/p1qn1pbp/2p2np1/1p6/2BPp3/BPN1P2P/P3QPP1/2RR2K1 w",
+        "solution": "16.Nxb5 Qa5 17.Nd6 17...Qxa3 18.Bxf7+ Kh8 19.Nxe8 Nxe8 20.Bxe8 Rxe8 21.Rxc6"
+    },
+    "570": {
+        "fen": "r2qr1k1/ppp2ppp/3p1b2/1B1P1b2/5P2/2P1B1P1/PP1Q3P/R3K2R b",
+        "solution": "15...c6 16.dxc6 Qb6"
+    },
+    "571": {
+        "fen": "5r1k/6pp/p7/1pnP3q/2p1P3/2P4b/PPB4Q/4R1NK b",
+        "solution": "31...Bg2+ 32.Kxg2 Rf2+ 33.Kxf2 Qxh2+ 34.Kf3 Qxc2"
+    },
+    "572": {
+        "fen": "4r1k1/4qRpp/p2p4/1p2r3/8/2Pn1Q2/PP4PP/5R1K b",
+        "solution": "32...Re1 33.Qd5 33...Qxf7 34.Qxf7+ Kh8 35.Kg1 Rxf1+ 36.Qxf1 36...Re1"
+    },
+    "573": {
+        "fen": "r1bqr1k1/p1n2pbp/1p1p2p1/2pP4/P3P1n1/2N4P/1PQNBPP1/R1B1R1K1 b",
+        "solution": "14...Nxf2 15.Kxf2 15...Qh4+ 16.Kf1 Bd4 17.Nd1 17...Qxh3 18.Bf3 Qh2"
+    },
+    "574": {
+        "fen": "1r1r2k1/1p3p2/p1p2bp1/7p/2Pn3P/2B1q1P1/PP1RPQB1/2R3K1 b",
+        "solution": "27...Nxe2+ 28.Rxe2 Qxc1+ 29.Re1 Bxc3 30.Rxc1 Bd4"
+    },
+    "575": {
+        "fen": "1r1nkn1r/4bp1p/p1p4B/1pqpPQ2/8/1B5P/PP1N2P1/R4R1K w",
+        "solution": "23.Ne4 23...dxe4 24.Rad1"
+    },
+    "576": {
+        "fen": "r2qr1k1/pp2bppp/2b1p3/3nN1B1/3P4/1BPR4/P3QPPP/4R1K1 w",
+        "solution": "18.Nxf7 Kxf7 19.Qxe6+ Kf8 20.Bc1"
+    },
+    "577": {
+        "fen": "r7/2k1Pp1p/p1n2p2/P1b1r3/2p5/2P3P1/5P1P/1R1Q2K1 w",
+        "solution": "29.Rb7+ Kxb7 30.Qd7+ Kb8 31.e8=Q+ Rxe8 32.Qxe8+ Kb7 33.Qd7+ Kb8 34.Qxc6"
+    },
+    "578": {
+        "fen": "r4rk1/1q1nbppp/p1b5/4pP2/NpP1Nn2/1B3Q2/PP3BPP/R3R1K1 b",
+        "solution": "20...g6 21.fxg6 21...f5"
+    },
+    "579": {
+        "fen": "3rr1k1/3nbppp/p1R2n2/q2Bp3/1p2P3/5N1P/PP1B1PP1/2RQ2K1 w",
+        "solution": "24.Bxf7+ Kxf7 25.Qb3+ 25...Kf8 26.Ng5"
+    },
+    "580": {
+        "fen": "r4k1r/1q2bp1p/p3pp2/3p3Q/1p1N1P2/4R3/PPP3PP/1K1R4 w",
+        "solution": "21.Rxe6 fxe6 22.Nxe6+ Kg8 23.Rd3"
+    },
+    "581": {
+        "fen": "6k1/6pp/p4p2/2pN3b/2P1r3/1P6/P5PP/5RK1 w",
+        "solution": "34.Rxf6 gxf6 35.Nxf6+ Kf7 36.Nxe4"
+    },
+    "582": {
+        "fen": "r1b1r1k1/2q1bppp/p2p1n2/1p2p3/3PP3/1B1n1N1P/PB1N1PP1/R2QR1K1 w",
+        "solution": "17.Bxf7+ Kf8 18.Bxe8 Nxb2 19.Qb1 19...Na4 20.Rc1"
+    },
+    "583": {
+        "fen": "r1bq1rk1/5ppp/p1Np1b2/1p6/4P3/P4Q1P/1PBB1nP1/R3R1K1 b",
+        "solution": "20...Nxh3+ 21.Kh2 21...Be5+ 22.Nxe5 dxe5"
+    },
+    "584": {
+        "fen": "2r3k1/1nqbrp2/p5pp/1p1Pp1N1/8/1P5P/P1B2PP1/2RQR1K1 w",
+        "solution": "24.Nxf7 Rxf7 25.Bxg6 Qd6 26.Bxf7+ Kxf7 27.Rxc8 Bxc8 28.Qc2"
+    },
+    "585": {
+        "fen": "1r1qrbk1/1p3p1p/p2p2p1/P2NpBn1/4P3/2P3P1/1P3P1P/R2Q1RK1 w",
+        "solution": "21.Bd7 21...Re6 22.Bxe6"
+    },
+    "586": {
+        "fen": "5rk1/7p/pqb1Ppp1/1p3p2/7R/2N5/PPPQ2PP/7K w",
+        "solution": "29.e7 29...Re8 30.Nd5 30...Bxd5 31.Qxd5+ Kg7 32.Rxh7+ 32...Kxh7 33.Qf7+ Kh6 34.Qxe8 34...Qf2 35.Qh8+ Kg5 36.h4+ Kg4 37.e8=Q"
+    },
+    "587": {
+        "fen": "2r1rbk1/2q3pp/p1b2p2/1p1pnN2/4P1Q1/1P5P/PB3PP1/1B1RR1K1 w",
+        "solution": "27.Bxe5 27...Rxe5 28.Nh6+ Kh8 29.Nf7+ Qxf7 30.Qxc8"
+    },
+    "588": {
+        "fen": "8/3nbp1k/ppR4p/5P1N/P3P2P/1r3B2/6K1/8 b",
+        "solution": "37...Rxf3 38.Rc7 38...Rd3"
+    },
+    "589": {
+        "fen": "r1b1k1nr/1p1n1pbp/p1pQ2p1/4p3/2B1PB2/2q2N2/P1P2PPP/1R1R2K1 w",
+        "solution": "15.Bxf7+ 15...Kxf7 16.Ng5+ Ke8 17.Qe6+"
+    },
+    "590": {
+        "fen": "2rrb1k1/p4ppp/4pn2/1p2N3/3P4/qBPQ3R/P4PPP/4R1K1 w",
+        "solution": "20.Ng4 Nxg4 21.Qxh7+ Kf8 22.Qh8+ Ke7 23.Qxg7"
+    },
+    "591": {
+        "fen": "r1b4r/1p2kp2/pqp1pp2/7p/4P3/3R4/P1PQBPPP/3R2K1 w",
+        "solution": "17.e5"
+    },
+    "592": {
+        "fen": "3r1k2/5p2/r1p2p1p/1p6/n1bP1NP1/R1P2P2/2BK3P/R7 w",
+        "solution": "28.Bxa4 Rda8 29.Bxb5 29...Bxb5 30.Rxa6 Rxa6 31.Rxa6 Bxa6"
+    },
+    "593": {
+        "fen": "3qr1k1/1b1n1p1p/p2Pp1p1/2p1PP2/r1Bp4/6QP/4NRP1/2R3K1 b",
+        "solution": "25...Rxc4 26.Rxc4 exf5"
+    },
+    "594": {
+        "fen": "r4bk1/2pQ2p1/p6B/2n1qp2/p7/2P3RP/5PP1/1R4K1 w",
+        "solution": "27.Bxg7 Bxg7 28.Rxg7+ Qxg7 29.Qd5+ 29...Kh7 30.Qxa8"
+    },
+    "595": {
+        "fen": "r2q1rk1/1p3pbp/p2p2p1/nPpPp2n/4P3/3Q2P1/PPNB1PBP/R4RK1 w",
+        "solution": "16.b6"
+    },
+    "596": {
+        "fen": "3r1k2/p5pp/2P5/1R4p1/2n5/1Bb4P/P4PP1/5K2 w",
+        "solution": "34.c7 34...Re8 35.Rb8 Nb6 36.Ba4 Rc8 37.Bd7"
+    },
+    "597": {
+        "fen": "3r2k1/2q1bppp/2n1b3/1ppPp3/8/2P2N1P/1PB2PP1/2BQR1K1 w",
+        "solution": "22.Bxh7+ Kxh7 23.Qc2+ Kg8 24.dxe6 fxe6"
+    },
+    "598": {
+        "fen": "N5k1/pp2r1bp/3p4/3P4/7q/4Q2b/PP3N1P/2R1K1R1 w",
+        "solution": "31.Rxg7+ Kxg7 32.Rc7 Bd7 33.Rxd7 33...Rxd7"
+    },
+    "599": {
+        "fen": "1r4k1/3b1q1p/pr1p1np1/2pP4/2Bb2P1/1PN2P2/Q2B2KP/1RR5 b",
+        "solution": "27...Nxg4 28.fxg4 28...Qf2+ 29.Kh3 29...Qf3+ 30.Kh4 Qxg4#"
+    },
+    "600": {
+        "fen": "r3k2r/2q1np1p/p2pP1p1/1p2n2Q/8/2PBB3/P1PR2PP/5RK1 w",
+        "solution": "20.Qxe5 dxe5 21.exf7+ Kd7 22.Bf5+ 22...Kc6 23.Be4+ Nd5 24.Rxd5"
+    },
+    "601": {
+        "fen": "2b2r1k/r5pp/p1B2p2/2q5/Pp6/1Pp5/2P1QPPP/3RR1K1 w",
+        "solution": "23.Qe8 23...Raf7 24.Rd8"
+    },
+    "602": {
+        "fen": "r1bq1rk1/ppp1npbp/3p2p1/4p3/3nP3/3PBNP1/PPPQNPBP/R3K2R b",
+        "solution": "9...Bh3 10.Nfxd4 10...Bxg2 11.Rg1 exd4"
+    },
+    "603": {
+        "fen": "r1bk1bQ1/1p1pRr2/p2n1P2/5P2/3p1N2/8/qPP3PP/4R2K w",
+        "solution": "27.Ne6+ 27...dxe6 28.Rxf7 Nxf7 29.Qxf8+ Kc7 30.Qxf7+"
+    },
+    "604": {
+        "fen": "r1r3k1/5p1p/3b2p1/3Pp3/4B1P1/1PR5/qPK1Q2P/2BR4 b",
+        "solution": "30...Rxc3+ 31.Kxc3 Bb4+ 32.Kxb4 32...Qa5+ 33.Kc4 Qa6+"
+    },
+    "605": {
+        "fen": "r1b2r1k/1pq2p1p/p3pp2/4b3/6Q1/1N1B4/PPP3PP/1K1R1R2 w",
+        "solution": "20.Bxh7 Kxh7 21.Rf3"
+    },
+    "606": {
+        "fen": "3qnrk1/r3bppp/p2p3B/2p1pN2/P3P2N/1b1P1Q2/1P3PPP/R4RK1 w",
+        "solution": "20.Nxg7 Nxg7 21.Qg3 21...Bg5 22.Bxg5 f6 23.Bh6"
+    },
+    "607": {
+        "fen": "2q2rk1/3rbpn1/pB2p1pQ/1p2P2p/4B3/8/PPP3PP/4RR1K w",
+        "solution": "24.Rxf7 Rxf7 25.Bxg6 Nf5 26.Bxf7+ Kxf7 27.Qh7+"
+    },
+    "608": {
+        "fen": "1r3rk1/2Q2p1p/4q1p1/1b6/8/p1BnP1P1/PP4BP/R4RK1 w",
+        "solution": "28.Rxf7 Rxf7 29.Qxb8+ Be8 30.Bd4 30...axb2"
+    },
+    "609": {
+        "fen": "2r1r1k1/1ppb1pp1/p1np2np/3Np3/3PP3/2P2qP1/PP1Q1P1P/R2BR1K1 b",
+        "solution": "17...Nh4 18.gxh4 18...Qh3 19.Nf6+ 19...gxf6 20.Qxh6 exd4 21.Kh1 21...Ne5 22.Rg1+ Bg4 23.Rg3 23...Qf1+ 24.Rg1 Qh3="
+    },
+    "610": {
+        "fen": "2rq1bk1/pp1b1pp1/5n1p/n2BrN2/8/2N1B1PP/PPQ1PP2/3R1RK1 w",
+        "solution": "18.Nxh6+ gxh6 19.Qg6+ Kh8 20.Bxf7 20...Rh5"
+    },
+    "611": {
+        "fen": "6r1/pp2Q1pk/7p/2p2N2/1qP1P3/1P3rP1/P4P1P/5RK1 w",
+        "solution": "29.Nxh6 29...Kxh6 30.Qh4+ 30...Kg6 31.Qg4+ Kh6 32.Qxf3"
+    },
+    "612": {
+        "fen": "6R1/1p4p1/1N6/p3r2p/Pb4kP/5rP1/1PRn1PK1/8 b",
+        "solution": "39...Rxg3+ 40.fxg3 Re2+ 41.Kh1"
+    },
+    "613": {
+        "fen": "4qr2/1b1n2k1/r2P1p2/1p2pR1p/2p5/2P4P/1PBQ2P1/5R1K w",
+        "solution": "38.Rg5+ Kf7 39.Bg6+"
+    },
+    "614": {
+        "fen": "4r1k1/4b1n1/1q3rP1/p2p1p2/1p3B2/5NN1/PPPQ1P2/1K5R w",
+        "solution": "28.Bc7 28...Qxc7 29.Rh8+ 29...Kxh8 30.Qh6+ Kg8 31.Qh7+ Kf8 32.Qh8#"
+    },
+    "615": {
+        "fen": "4rbk1/1q3ppp/3pp3/2n5/3NP3/BP2Q3/5PPP/4R1K1 b",
+        "solution": "36...Nxe4 37.Qxe4 37...d5"
+    },
+    "616": {
+        "fen": "2b2k2/2p2r1p/p2pR3/1p3PQ1/3q3N/1P6/2P3PP/5K2 w",
+        "solution": "30.Ng6+ 30...hxg6 31.Qd8+ Kg7 32.Rxg6+ Kh7 33.Qg8"
+    },
+    "617": {
+        "fen": "r2q1rk1/ppp3p1/2npbn1p/3N4/2PP4/3Q2P1/PP4BP/R1B2RK1 w",
+        "solution": "14.Bxh6 Bxd5 15.cxd5 Nb4 16.Qg6"
+    },
+    "618": {
+        "fen": "3rn1k1/1pr1bpp1/pn2p1p1/q3P3/3N2P1/P3B2P/1P1R1PB1/R2Q2K1 w",
+        "solution": "26.Nxe6 fxe6 27.Rxd8 Bxd8 28.Qxd8"
+    },
+    "619": {
+        "fen": "5rk1/7p/1npq2pQ/pp2pp2/4P2P/1PPr1BP1/P2N2K1/2BR4 b",
+        "solution": "26...Rxf3 27.Nxf3 27...Qxd1"
+    },
+    "620": {
+        "fen": "r1bk1b1r/pp1np1p1/1q3nBp/4p3/2PN4/8/PP1B1PPP/R2Q1RK1 w",
+        "solution": "14.c5 14...Nxc5 15.Ba5 15...exd4"
+    },
+    "621": {
+        "fen": "r2q1rk1/1b2bppp/p2ppn2/8/1BR1P3/1PN3P1/P2Q1PBP/R5K1 w",
+        "solution": "18.e5 Nd5 19.Nxd5 19...exd5 20.Bxd5"
+    },
+    "622": {
+        "fen": "1r3rk1/p3pp1p/1q1p1npQ/3P1nN1/1pp5/2N4P/PPP1B1P1/R4R1K w",
+        "solution": "21.Rxf5 gxf5 22.Nce4 22...fxe4 23.Rf1"
+    },
+    "623": {
+        "fen": "rR6/2nb2kp/2Np2p1/3Pp2n/1P2Pp2/3q1N1P/1Q3PP1/6K1 w",
+        "solution": "39.Ncxe5 39...Qd1+ 40.Kh2 Ra1 41.Ng4+ Kf7 42.Nh6+ Ke7 43.Ng8+ 43...Kf7 44.Ng5#"
+    },
+    "624": {
+        "fen": "r1b1k2r/pp1nbppp/1q2pn2/6N1/2Bp4/5N2/PPP2PPP/R1BQR1K1 w",
+        "solution": "11.Nxf7 11...Kxf7 12.Rxe6 12...Qb4 13.Rxf6+ Kxf6 14.Qxd4+"
+    },
+    "625": {
+        "fen": "1r2r1k1/3b1n1p/1q2pbp1/1p1p4/1N3N2/1P4PP/P2Q1PB1/R2R2K1 w",
+        "solution": "24.Nbxd5 24...exd5 25.Nxd5 Qd6 26.Nxf6+ Qxf6 27.Qxd7"
+    },
+    "626": {
+        "fen": "2r4k/5p1p/2bQP3/5pr1/1PpR1P2/2q5/P4K1P/4R3 w",
+        "solution": "32.Qe5+ 32...Rg7 33.Rd8+ Rxd8 34.Qxc3"
+    },
+    "627": {
+        "fen": "r4rk1/pp2ppbp/3p2p1/5P2/3BP1n1/2N5/PqP1Q2P/3R1RK1 w",
+        "solution": "17.f6 Bxf6 18.Rxf6 Nxf6 19.Nd5"
+    },
+    "628": {
+        "fen": "3r2k1/pp2ppbp/6p1/n2p4/3P2b1/PP2PNP1/R4PKP/B1rB1R2 b",
+        "solution": "26...Nxb3 27.Bb2 27...Rb1 28.Bxb3 Bxf3+ 29.Kg1 Rxf1+ 30.Kxf1"
+    },
+    "629": {
+        "fen": "4N1r1/p3n1pQ/1p2p2P/1P2kp2/r5P1/8/5P1K/8 w",
+        "solution": "39.Qxg8"
+    },
+    "630": {
+        "fen": "r4rk1/p4ppp/1pn1pn2/3q4/3P4/2PBBP2/P1Q2P1P/2KR3R b",
+        "solution": "14...Nb4 15.Qb3 15...Nxd3+"
+    },
+    "631": {
+        "fen": "r3r1k1/3q1ppp/5n2/2Rp4/p4P2/P2QPNPP/P3K3/7R b",
+        "solution": "23...Ne4 24.Rxd5 24...Qxd5"
+    },
+    "632": {
+        "fen": "6k1/p4ppp/4p3/1r2P3/3p1q1P/1r1P4/QP2KNP1/1R5R b",
+        "solution": "25...Rxe5+ 26.Kf1 26...Rf5"
+    },
+    "633": {
+        "fen": "2r2bk1/8/4p1p1/4PpP1/1pqBpP2/r1P1R3/PQR3K1/8 b",
+        "solution": "37...Rxa2 38.Qxa2 b3 39.Qb2 bxc2 40.Qxc2 40...Qxd4"
+    },
+    "634": {
+        "fen": "2rq1r1k/3b1pp1/p3pb1p/1p6/1PN1B3/4PN2/2Q2PPP/3R1RK1 w",
+        "solution": "19.Rxd7 19...Qxd7 20.Nb6 20...Rxc2 21.Nxd7 Rc4 22.Nd2"
+    },
+    "635": {
+        "fen": "2kr3r/pp3pp1/2pPp1p1/4P3/3Q1P2/P1n4P/2qB2PK/RR6 b",
+        "solution": "28...Rxh3+ 29.gxh3 29...Nxb1 30.Rxb1 30...Qxb1 31.Qxa7 Qb5 32.Ba5 Re8"
+    },
+    "636": {
+        "fen": "r6r/1q5k/p5pn/3pQ1P1/1P4P1/2P4R/2P4P/6K1 b",
+        "solution": "32...Qg7 33.Rxh6+ Kg8 34.Qe6+"
+    },
+    "637": {
+        "fen": "rnbqk2r/pp2bppp/2p5/3p2B1/3Pn3/2N1P3/PPQ2PPP/R3KBNR w",
+        "solution": "8.Bxe7 Qxe7 9.Nxd5 9...cxd5 10.Qxc8+"
+    },
+    "638": {
+        "fen": "rb1qrnk1/p4ppp/1ppP1p2/2P5/8/1B1bB2P/PP1N1PP1/R2Q1RK1 w",
+        "solution": "17.Bxf7+ Kxf7 18.Qb3+ Re6 19.Qxd3"
+    },
+    "639": {
+        "fen": "3r1rk1/1p4bp/1qp3p1/p1n5/2PR2P1/1PB4P/PQ3PB1/5RK1 b",
+        "solution": "30...Na4 31.bxa4 Qxb2 32.Bxb2 Bxd4"
+    },
+    "640": {
+        "fen": "5rk1/R4pp1/7p/p2r4/4Q3/3n3P/1q2BPP1/3R2K1 b",
+        "solution": "34...Nxf2 35.Rb7 35...Rxd1+ 36.Bxd1 Qd2"
+    },
+    "641": {
+        "fen": "2r2k2/8/p1pP1r2/2P2p2/B4ppp/7P/PP3PP1/4R1K1 w",
+        "solution": "36.Bxc6 36...Kg7 37.Re7+ 37...Kf8 38.Re5 Rxc6 39.d7 Rfd6 40.Rxf5+ Kg7 41.Rg5+ Kh6 42.cxd6 g3 43.Kf1 Rxd6 44.Rg4"
+    },
+    "642": {
+        "fen": "rn4k1/ppb2qp1/2p3r1/4PN2/5PQ1/5R2/PP4PP/3R2K1 w",
+        "solution": "24.Qxg6 24...Qxg6 25.Ne7+ Kf7 26.Nxg6 Kxg6"
+    },
+    "643": {
+        "fen": "r3r1k1/p4p1p/q2p2p1/3P4/Pp1QnP2/6P1/1P5P/RN2R1K1 b",
+        "solution": "24...Nxg3 25.Rxe8+ 25...Rxe8 26.hxg3 Re1+ 27.Kh2 Qe2+ 28.Kh3 Rh1#"
+    },
+    "644": {
+        "fen": "2r1n1k1/2q1bpp1/p1r4p/8/N1NRP3/8/P3QPPP/2R3K1 b",
+        "solution": "28...Bf6 29.e5 29...Bxe5 30.Re4 Nf6 31.Rxe5 Rxc4 32.Rxc4 Qxc4 33.Qxc4 Rxc4"
+    },
+    "645": {
+        "fen": "r4rk1/1ppb1pb1/3p1qp1/2nPp2p/p1P1P2P/P1N3PB/1P3P1K/1R1QNR2 b",
+        "solution": "17...Bxh3 18.Kxh3 Nxe4 19.Nxe4 Qf5+ 20.Kh2 Qxe4"
+    },
+    "646": {
+        "fen": "r1n1q1k1/5rpp/4b3/p2pPp2/2pP1P1Q/B1P2R2/2B3PP/R5K1 w",
+        "solution": "24.Ba4 24...Bd7 25.e6 25...Qxe6 26.Qd8+ 26...Qe8 27.Qxe8+ Bxe8 28.Bxe8"
+    },
+    "647": {
+        "fen": "1n3rk1/7q/p1P2p2/1n1P1Rpp/1Q6/3N4/4r1PP/5RK1 w",
+        "solution": "33.Rxg5+ 33...Kf7 34.Rxf6+ 34...Kxf6 35.Qxf8+ Kxg5 36.h4+"
+    },
+    "648": {
+        "fen": "2k4r/p3qp2/bp1r1npp/n1pPp3/2P1P2B/P1PB1N2/6PP/R2Q1RK1 w",
+        "solution": "18.Nxe5 18...Qxe5 19.Bg3 Qe7 20.e5 Rd7 21.Rxf6"
+    },
+    "649": {
+        "fen": "5rk1/p1r2qpp/8/2p1Rp2/1n2n2P/1P2P1P1/PB3PB1/2RQ2K1 w",
+        "solution": "29.Bf1 29...Kh8 30.Bc4 30...Qf6 31.Re8 Rxe8 32.Bxf6"
+    },
+    "650": {
+        "fen": "rn2brk1/5ppp/1q2p3/p2p4/3P4/P1NBQ3/1P3PPP/2R1R1K1 w",
+        "solution": "23.Nxd5 exd5 24.Qxe8"
+    },
+    "651": {
+        "fen": "3qk3/pr3ppr/4p1n1/1p1pP3/b1pP2B1/2P3P1/2P2RP1/2BQ1RK1 w",
+        "solution": "26.Bxe6 26...fxe6 27.Qg4"
+    },
+    "652": {
+        "fen": "r4rk1/p1n1B1pp/bp1p4/2p1pP2/2PnP1PQ/Pq1B3N/1P5P/3R1RK1 b",
+        "solution": "22...Qxd1 23.Rxd1 Nf3+ 24.Kg2 Nxh4+ 25.Bxh4"
+    },
+    "653": {
+        "fen": "3rr3/5pkp/p1b3p1/4p3/p2nPn2/N6P/2P2PP1/R1N1RBK1 b",
+        "solution": "31...Nxh3+ 32.gxh3 32...Nf3+ 33.Kh1 Nxe1"
+    },
+    "654": {
+        "fen": "2rr1nk1/pp3ppp/4qn2/3p1N2/6P1/2BQP2P/PP3P2/1K1R3R w",
+        "solution": "22.Nxg7 Kxg7 23.g5 23...N8d7 24.Qxd5"
+    },
+    "655": {
+        "fen": "r4rk1/1ppb4/n2p1npb/3Ppp1q/1PP1P3/2N2NP1/2Q1BB2/1R1R2K1 w",
+        "solution": "25.Nxe5 25...Qh3 26.Bf1 26...Qh5 27.Be2 27...Qh3 28.Bf1 Qh5"
+    },
+    "656": {
+        "fen": "2r5/p4pk1/1p4pp/4P2n/6R1/5Q2/PPBr3q/1K1R4 w",
+        "solution": "28.Rxg6+ 28...fxg6 29.Qb7+ Kh8 30.Qxc8+"
+    },
+    "657": {
+        "fen": "2r5/7p/3q2k1/p2Np1p1/Pp1bPpP1/1P3P2/4Q2P/3R3K w",
+        "solution": "38.Ne7+ 38...Qxe7 39.Qa6+ Kg7 40.Qxc8"
+    },
+    "658": {
+        "fen": "4r1k1/pp3pp1/5q1p/P1Rp4/3P1nP1/1P3PN1/3Q1K1P/1b3B2 b",
+        "solution": "38...Bd3 39.Nf5 39...Qg5 40.Ne3 Qh4+ 41.Kg1 Bxf1"
+    },
+    "659": {
+        "fen": "r4r2/1p2pkbQ/5qp1/8/p3P3/4B2R/P4PP1/2R2K2 w",
+        "solution": "29.e5 29...Qxe5 30.Bh6"
+    },
+    "660": {
+        "fen": "2r1r1k1/p1qn1p1p/1p3n2/2p2P2/2PpP2P/1P2b1P1/PB1NQ1NK/R4R2 b",
+        "solution": "23...Bxd2 24.Qxd2 Qxg3+ 25.Kxg3 Nxe4+ 26.Kf4 Nxd2 27.Rfe1 27...Nf6"
+    },
+    "661": {
+        "fen": "5k2/1brnrpb1/p1pR1np1/Pp2p1N1/4P3/1BN1B2P/1PP2P2/3R2K1 w",
+        "solution": "22.Bxf7 22...Rxf7 23.Ne6+ Kg8 24.Nxc7 24...Bf8 25.Ne8 Kh7 26.Rxd7"
+    },
+    "662": {
+        "fen": "3r2k1/pb2bpp1/1pn1p2p/8/1P2q3/PQ2PN1P/1B2BPP1/3R2K1 w",
+        "solution": "21.Bd3 Qd5 22.Bh7+ Kxh7 23.Rxd5"
+    },
+    "663": {
+        "fen": "2r2k2/5p2/2pp1q1p/2n1bPp1/2P5/B3Q1PP/5PB1/3R3K w",
+        "solution": "38.f4 38...gxf4 39.gxf4 Bb2 40.Rxd6 40...Re8 41.Rxf6"
+    },
+    "664": {
+        "fen": "3r4/p5k1/1pp2bn1/4p3/2P1N1q1/1PB1Q1P1/P5K1/7R w",
+        "solution": "36.Rh7+ 36...Kxh7 37.Nxf6+ Kg7 38.Nxg4"
+    },
+    "665": {
+        "fen": "r2q1rk1/pp2n1b1/3p2pp/1b1Pp1B1/1P2N3/1Q4PP/P4PB1/R1R3K1 w",
+        "solution": "19.Nxd6 19...hxg5 20.Nxb5"
+    },
+    "666": {
+        "fen": "2r3k1/pq2n1b1/4prN1/1pPbN1p1/3P2P1/8/P6Q/1B2RRK1 b",
+        "solution": "37...Rxg6 38.Qh5 38...Rh6 39.Qf7+ Kh8"
+    },
+    "667": {
+        "fen": "5r1k/p5p1/1p3n1p/1Pp5/2RPp3/P3P2P/2Q3PK/2N1q3 b",
+        "solution": "32...Ng4+ 33.hxg4 Rf1"
+    },
+    "668": {
+        "fen": "2brrbk1/3n3p/pp1Pp1p1/5p2/PqP2P2/2N2B2/1B2Q1PP/3R1R1K w",
+        "solution": "24.Nd5 exd5 25.Bxd5+"
+    },
+    "669": {
+        "fen": "1r5k/6p1/p1pQ1p1p/1q6/1n2N3/1P6/1KP2PPP/3R4 w",
+        "solution": "29.Nxf6 29...gxf6 30.Qxf6+ Kg8 31.Rd7"
+    },
+    "670": {
+        "fen": "4r1k1/pQ4pp/2r5/1bq2p1n/2p1P3/P1P2P2/3BB1PP/R3R2K w",
+        "solution": "24.Be3Qe5 25.f4"
+    },
+    "671": {
+        "fen": "r3kb1r/1bp1n2p/p3qp2/1p2p1p1/4P2N/1PN1BQ2/1PP2PPP/R2R2K1 w",
+        "solution": "15.Nxb5 axb5 16.Qh5+ 16...Qf7 17.Rxa8+ Bxa8 18.Rd8+ Kxd8 19.Qxf7 gxh4"
+    },
+    "672": {
+        "fen": "4N2k/4B3/6pp/pp3p2/2bb1PP1/P1n2K2/2B4P/8 b",
+        "solution": "39...Bd5+ 40.Kg3 Ne2+ 41.Kh3 Nxf4+ 42.Kg3 Ne2+ 43.Kh3 Ng1+ 44.Kg3 f4+ 45.Kxf4 Ne2#"
+    },
+    "673": {
+        "fen": "r4r1k/pb2Nppp/1p3n2/q3n3/N3p2R/1B2P3/PP3PPP/R3Q1K1 b",
+        "solution": "20...Nf3+ 21.gxf3 Qg5+ 22.Kh1 22...Qxh4"
+    },
+    "674": {
+        "fen": "4rr1k/5p2/p2p3q/1p1n1PRP/2p1pQ2/2P5/PPB2PR1/7K w",
+        "solution": "34.Rg8+ Kh7 35.R2g7+ 35...Qxg7 36.Rxg7+ Kxg7 37.f6+ 37...Nxf6 38.Qg5+ Kh7 39.Qxf6 39...Re5 40.Bxe4+"
+    },
+    "675": {
+        "fen": "1n3r2/r4p1k/p2R2p1/2p5/1p2q3/1QB1P3/PP3P2/2K3R1 w",
+        "solution": "23.Qc4 23...Qxc4 24.Rh1+ Kg8 25.Rh8#"
+    },
+    "676": {
+        "fen": "1k1r4/2q2p2/Q3pPP1/8/Pb1pP3/1p1P4/8/1KBR4 w",
+        "solution": "35.Bf4 Qxf4 36.Qb6+ 36...Kc8 37.Qxb4"
+    },
+    "677": {
+        "fen": "1n3N1k/r4p2/2pR2pp/1pq1p3/6QP/8/PPp2PP1/3R2K1 w",
+        "solution": "25.Nxg6+ 25...fxg6 26.Rd8+ 26...Kg7 27.Rg8+ 27...Kxg8 28.Qxg6+ Rg7 29.Rd8+ 29...Qf8 30.Rxf8+ Kxf8 31.Qxc2 Kg8 32.Qc5"
+    },
+    "678": {
+        "fen": "r1b1r1k1/pp3ppp/3b1q2/3Q2N1/2B5/6K1/PPP3PP/R1B2R2 w",
+        "solution": "17.Rf4 17...Be6 18.Nxe6 Rxe6 19.Qxd6 Qg6+ 20.Rg4 20...Re3+ 21.Bxe3 Qxd6+"
+    },
+    "679": {
+        "fen": "4r1k1/pb1q1r1p/2np2p1/2pN1pB1/2P1nP2/P1P2B2/6PP/1R1QR1K1 w",
+        "solution": "26.Rxe4 Rxe4 27.Bxe4 fxe4 28.Nf6+ Rxf6 29.Bxf6"
+    },
+    "680": {
+        "fen": "rn3rk1/pb3ppp/1p2qb2/3p4/3p4/2NN2P1/PP2PPBP/2RQ1RK1 w",
+        "solution": "14.Nxd5 14...Bxd5 15.Nf4 Qd6"
+    },
+    "681": {
+        "fen": "2kr1bnr/pppq1ppp/2n5/4P3/2Pp4/1Q3NPb/PP2PPBP/RNB2RK1 w",
+        "solution": "9.e6 Bxe6 10.Ne5 Qd6 11.Nxc6 11...bxc6"
+    },
+    "682": {
+        "fen": "r1r2bk1/p4ppp/1pq5/3R1N2/n1P5/4R3/PB2QPPP/6K1 w",
+        "solution": "25.Bxg7 Qxd5 26.Nh6+ 26...Kxg7 27.Qg4+ 27...Kf6 28.Ng8#"
+    },
+    "683": {
+        "fen": "3rr1k1/p4pb1/1p4p1/3p1nq1/3P1NPp/1QR1P2P/PP1B1K2/6R1 b",
+        "solution": "28...Nxe3 29.Bxe3 29...Rxe3 30.Rxe3 30...Qxf4+ 31.Ke2 31...Qh2+ 32.Kf1 Bxd4"
+    },
+    "684": {
+        "fen": "5rk1/1prnqpp1/p3p2p/P2nN3/3P4/1B5P/1P2QPP1/R2R2K1 w",
+        "solution": "21.Ng6 fxg6 22.Bxd5 Rf6 23.Rac1"
+    },
+    "685": {
+        "fen": "6k1/p3r1p1/5p2/3P2p1/1P6/8/p4PPP/2R2K2 b",
+        "solution": "31...Rc7 32.Rd1 32...Rc2 33.d6 Rd2 34.Rc1 Kf7"
+    },
+    "686": {
+        "fen": "3r1rk1/1R3pp1/4q2p/8/8/2pBPRP1/1bQ1P2P/6K1 b",
+        "solution": "31...Rxd3 32.exd3 32...Qd5 33.Rxb2 cxb2 34.Rf1 Qe5 35.e4 Ra8 36.Qb3 Ra1 37.Kg2 Rc1 38.Qxf7+ Kh7 39.Rf5 Qd6 40.e5"
+    },
+    "687": {
+        "fen": "5nr1/pp3k2/4ppq1/2B1b3/P5Pp/1B6/1P4P1/2RQ2K1 w",
+        "solution": "33.Bxe6+ Kxe6 34.Qb3+ 34...Kd7 35.Qxb7+ 35...Ke6 36.Rd1 Qxg4 37.Qd5+"
+    },
+    "688": {
+        "fen": "r6r/1p1qkp2/p2p1pb1/b1pP3p/4N3/P3P1N1/1P3PPP/R2Q1RK1 w",
+        "solution": "17.b4 17...h4 18.bxa5 hxg3 19.Nxg3"
+    },
+    "689": {
+        "fen": "7k/1b4q1/pp4r1/2p1p3/P1Q1N3/6R1/1P4PP/6K1 w",
+        "solution": "40.Ng5 Bc8 41.Qe4"
+    },
+    "690": {
+        "fen": "5k2/pp4p1/4pp2/1P6/7p/P3P1P1/4KP1b/2B5 w",
+        "solution": "32.Kf3 32...Ke7 33.Kg2 hxg3 34.fxg3 Bxg3 35.Kxg3 Kd6 36.a4 Kd5 37.Ba3 Ke4"
+    },
+    "691": {
+        "fen": "5k2/3b2p1/1p4qp/p1pPp1p1/P1P1Pn2/2P5/2Q3PP/3BB1K1 b",
+        "solution": "27...Bxa4"
+    },
+    "692": {
+        "fen": "1r2k2r/2pq2p1/b2p4/pNpQP1Pp/3p1P2/6P1/PPP5/2KR3R w",
+        "solution": "23.Rxh5 Rf8 24.a4"
+    },
+    "693": {
+        "fen": "r4k2/ppr2p1p/4PQ2/2bp4/7P/8/qPP3P1/2KR1R2 w",
+        "solution": "23.e7+ 23...Kg8 24.Qxf7+ Kh8 25.e8=Q+ Rxe8 26.Qxe8+ Kg7 27.Qe5+ Kg8 28.Qg5+"
+    },
+    "694": {
+        "fen": "br1qr1k1/3n1p1p/3p2p1/1pnPp1b1/4P3/R1P1B2P/2BNQPP1/R4NK1 w",
+        "solution": "27.Rxa8 27...Rxa8 28.Rxa8 Qxa8 29.Bxg5"
+    },
+    "695": {
+        "fen": "1rbq1rk1/p3ppbp/1p1p1np1/8/2PQP3/2N3P1/PP3PBP/1RB2RK1 b",
+        "solution": "12...Nxe4 13.Qxe4 Bxc3 14.Bg5 14...Be5"
+    },
+    "696": {
+        "fen": "2r3k1/4bppp/1r2p3/qb6/5B2/2N3R1/PP4PP/2R1Q2K w",
+        "solution": "26.Bc7 Rxc7 27.Qe5 27...Kf8 28.Qxc7"
+    },
+    "697": {
+        "fen": "4k3/1p3p2/p2pbp2/4p1b1/1P2Pr2/8/1PP2PB1/3RKR2 b",
+        "solution": "23...Bh3 24.Bh1"
+    },
+    "698": {
+        "fen": "r5k1/1Q3p2/r2p4/P1pP1qpp/2N2b2/2PP4/5R1P/6RK w",
+        "solution": "34.Nxd6 34...Rxd6 35.Qxa8+"
+    },
+    "699": {
+        "fen": "3q2kr/n1pbR1b1/p6p/P2P4/2P2p2/2NB1N2/2K2P2/Q7 w",
+        "solution": "40.Rxg7+ Kxg7 41.Ne4+"
+    },
+    "700": {
+        "fen": "3r4/2qrbbk1/5p1p/pp1P1Pp1/6P1/P1BR3P/1P2R1B1/3Q3K w",
+        "solution": "39.Rxe7 39...Rxe7 40.d6 Qc4 41.b3"
+    },
+    "701": {
+        "fen": "r4bk1/2Rnrppp/2p5/2qpP3/5B2/2N1P2P/2Q2PP1/3R2K1 w",
+        "solution": "22.Rxd5 cxd5 23.Rxc5 Nxc5 24.Nxd5 24...Rea7 25.Bg5 Ra1+ 26.Kh2 R8a2 27.Qf5 Ne6 28.Bh4 Rf1 29.f4 Rc1 30.Qg4 Rc4 31.Nf6+ Kh8 32.Qh5"
+    },
+    "702": {
+        "fen": "3r1bk1/1pq2p1p/6p1/3nN3/1P6/2P2QPP/5PB1/1R4K1 w",
+        "solution": "28.Nxf7 28...Qxf7 29.Rd1"
+    },
+    "703": {
+        "fen": "3qr2k/1b4pp/p3Qp2/1p4b1/2pPn3/P5B1/NP3PPP/3R1RK1 w",
+        "solution": "23.Bc7 Qa8 24.Qh3 24...Re7"
+    },
+    "704": {
+        "fen": "4r1kb/1b1p1p1p/3Pr1pB/ppqnP2P/2p5/P4N2/1P3PP1/1BQRR1K1 w",
+        "solution": "25.Bf5 25...gxf5 26.Qg5+ Rg6 27.hxg6"
+    },
+    "705": {
+        "fen": "3r1bk1/1b2qp2/4n1p1/2r1P2p/N2p4/Q4NP1/1R3PBP/3R2K1 b",
+        "solution": "33...Rc1 34.Qd3 34...Qa3 35.Qf1 Rxd1 36.Qxd1 Bc6"
+    },
+    "706": {
+        "fen": "2rq1r2/3n1pk1/p2Pp2p/1p4p1/2p3P1/2N1PP2/PPQ2P2/2KR3R w",
+        "solution": "25.Rxh6 25...Kxh6 26.Rh1+ Kg7 27.Qh7+ 27...Kf6 28.f4"
+    },
+    "707": {
+        "fen": "2r3k1/p4pp1/bp5p/3p4/3N4/4PPPq/PP1Q3P/4K1R1 b",
+        "solution": "22...Rc1+ 23.Qxc1 Qxh2 24.Rf1 24...Qxg3+ 25.Rf2 25...Qg1+"
+    },
+    "708": {
+        "fen": "r1b1r1k1/1p3pp1/2p4p/3p4/1R5Q/4B1P1/PPq2PP1/R5K1 b",
+        "solution": "22...Rxa2 23.Rxa2 Qb1+ 24.Kh2 Qxa2 25.Bxh6 25...Qb1"
+    },
+    "709": {
+        "fen": "2r4k/p2b1R1p/1p2p3/2qpP3/3N4/P5Q1/6rP/K4R2 w",
+        "solution": "35.Rxh7+ 35...Kxh7 36.Rf7+ 36...Kh6 37.Rf6+ 37...Kh7 38.Qh3+ Kg7 39.Qxg2+ Kh7 40.Qg6+"
+    },
+    "710": {
+        "fen": "r5k1/2p3bp/4n1p1/1Ppq1p2/4p3/1N2P2P/2Q2PPB/3R2K1 b",
+        "solution": "29...Ra2 30.Rxd5 Rxc2"
+    },
+    "711": {
+        "fen": "r2n1rk1/pq2n1pp/1p2p3/3pPpN1/1B1P4/P5Q1/2P2PPP/R4RK1 w",
+        "solution": "18.Nxh7 Kxh7 19.Qh4+ Kg8 20.Bxe7"
+    },
+    "712": {
+        "fen": "r7/p3N1pk/7p/1p1pN2P/1P2r3/P2K3b/6R1/5R2 w",
+        "solution": "39.Rxg7+ Kxg7 40.Rf7+ Kh8 41.N5g6"
+    },
+    "713": {
+        "fen": "2r3k1/1b1r4/p4p1p/1p2q1p1/1B1nP3/R2PN2P/1RP2QP1/7K b",
+        "solution": "37...Nf3 38.Qxf3 Qxb2"
+    },
+    "714": {
+        "fen": "r5k1/1bp1q1pp/p2p4/1p2n3/5B2/1P3P2/1PP2P1P/R2QR1K1 b",
+        "solution": "18...Nxf3+ 19.Qxf3 Qxe1+ 20.Rxe1 Bxf3"
+    },
+    "715": {
+        "fen": "3qQ3/p5pk/b4rNp/2p5/5P1P/P5R1/3r2P1/4R1K1 w",
+        "solution": "34.Nf8+ 34...Kg8 35.Nd7+ 35...Qxe8 36.Nxf6+"
+    },
+    "716": {
+        "fen": "1rr2b1k/1q1b1pp1/4p2p/3pP3/p2N1B2/1PP3R1/4QPPP/R5K1 w",
+        "solution": "28.Bxh6 gxh6 29.Qg4"
+    },
+    "717": {
+        "fen": "3b2nr/6pp/ppk1bp2/2p1P3/4N3/1N2BP2/1PP3PP/R5K1 w",
+        "solution": "19.Nbxc5 19...bxc5 20.Rxa6+ Kd7 21.Nxc5+"
+    },
+    "718": {
+        "fen": "6n1/p1q2k2/1r1p2p1/2pPbp1p/Q1P2B1P/3P2PK/P3R1B1/8 w",
+        "solution": "30.Rxe5 30...dxe5 31.Bxe5 Qe7 32.d6 32...Rxd6 33.Bxd6 Qxd6 34.Qxa7+"
+    },
+    "719": {
+        "fen": "6k1/5p2/2qP3p/4n1pN/2pb4/1p3P2/1P2Q1PP/2R4K w",
+        "solution": "37.d7 37...Qd6 38.Rxc4 38...Nxd7 39.Qd1"
+    },
+    "720": {
+        "fen": "5rk1/1pp3bp/3p2p1/3Pp3/1PP1N1q1/6Pn/2QN1PKP/R7 b",
+        "solution": "25...Nxf2 26.Rf1 26...Qh3+ 27.Kg1 Ng4"
+    },
+    "721": {
+        "fen": "r1bB2r1/pp3pnp/2p5/4k3/4P3/2N2P2/PPP1B2P/2KR4 w",
+        "solution": "18.f4+ 18...Kxf4 19.Bc7+ 19...Kg5 20.Rg1+ Kf6 21.e5+ 21...Ke7 22.Bd6+ Kd8 23.Ne4"
+    },
+    "722": {
+        "fen": "r1b2r2/p3q1p1/1pn1ppk1/2npP1N1/5PQ1/2N5/PPP3PP/R4RK1 w",
+        "solution": "15.Nxd5 15...exd5 16.f5+ Bxf5 17.Qxf5+ Kh5 18.Qh7+ 18...Kg4 19.h3+ Kxg5 20.Rf5#"
+    },
+    "723": {
+        "fen": "4r1kb/q1r1pp1p/p2p2p1/1p1n2B1/1P6/2P2RPP/1P2QPB1/4R1K1 w",
+        "solution": "27.Rxf7 Nxc3 28.Qe6"
+    },
+    "724": {
+        "fen": "2r1r1k1/pp2p3/3p2p1/5P2/1q2P1p1/2N5/1PPQ4/1K5R b",
+        "solution": "25...Rxc3 26.fxg6 26...Rh3 27.Qxb4 Rxh1+="
+    },
+    "725": {
+        "fen": "3q2k1/1r1P1pp1/8/1p2B1p1/2pQ2P1/3nR2P/1P3PK1/8 w",
+        "solution": "40.Bc7 40...Nf4+ 41.Kf1"
+    },
+    "726": {
+        "fen": "2rq1rk1/p2bppbp/2n3p1/1nB5/3P4/2P3P1/PQ1N2BP/R3NRK1 b",
+        "solution": "19...Nxc3 20.Qxc3 Nxd4 21.Qb4 Ne2+ 22.Kh1 Rxc5 23.Qxc5 Bxa1"
+    },
+    "727": {
+        "fen": "5rk1/5ppp/3p4/3B2q1/R3P1n1/2r5/P3Q1PP/5R1K w",
+        "solution": "30.Rxf7 30...Rc1+ 31.Qf1 31...h5 32.Qxc1 Qxc1+ 33.Rf1+ Kh7 34.Rxc1"
+    },
+    "728": {
+        "fen": "r1bq1rk1/pp1pppbp/5np1/n7/3NP3/1BN1B3/PPP2PPP/R2QK2R w",
+        "solution": "9.e5 Ne8 10.Bxf7+ 10...Kxf7 11.Ne6 dxe6 12.Qxd8"
+    },
+    "729": {
+        "fen": "2r2n2/1RP3kp/p5p1/4pp2/B7/5P2/P5PP/6K1 w",
+        "solution": "33.Bb3 33...a5 34.a4 h6 35.h3 g5 36.g4 fxg4 37.hxg4"
+    },
+    "730": {
+        "fen": "2r3k1/q4pp1/3p3p/1p1QpPb1/r3P3/1NP3PP/1P4K1/R3R3 b",
+        "solution": "25...Ra2 26.Kf1 26...Rxc3 27.Rxa2 27...Rf3+ 28.Ke2 Rf2+ 29.Kd3 Qxa2"
+    },
+    "731": {
+        "fen": "r1r3k1/2pbbpp1/p2p1qnp/np1Pp3/4P2P/2P2NP1/PP2QP2/RNBBK2R w",
+        "solution": "15.Bg5 15...hxg5 16.hxg5 Qxg5 17.Nxg5"
+    },
+    "732": {
+        "fen": "1r2k2r/p5bp/4p1p1/q2pn3/1p2N1P1/6QP/PPP5/1KBR3R w",
+        "solution": "21.Bh6 21...Qc7 22.Nd6+ 22...Kd8 23.Bxg7 23...Qxd6 24.Qxe5"
+    },
+    "733": {
+        "fen": "r2b1nk1/p4p2/2pN2p1/1p1pPP2/1P4P1/2P3B1/P5K1/7R w",
+        "solution": "29.e6 29...f6 30.Nf7"
+    },
+    "734": {
+        "fen": "r3qr1k/pp3pbp/2pn4/7Q/3pP3/2NB3P/PPP3P1/R4RK1 w",
+        "solution": "19.Rf6 19...Kg8 20.e5 h6 21.Ne2"
+    },
+    "735": {
+        "fen": "4rk2/3Rb1p1/1B2Qp1p/pp2p3/4q3/7P/5PPK/8 w",
+        "solution": "36.Bc5 36...Qf4+ 37.g3"
+    },
+    "736": {
+        "fen": "r1b2b1k/1p1n1Qpp/p1n1B3/q3P1B1/8/1RN5/P1P3PP/6K1 b",
+        "solution": "19...Qc5+ 20.Kh1 Nf6 21.Bxf6 21...Bxe6"
+    },
+    "737": {
+        "fen": "8/p4k1P/1p2rp2/3Qp2r/P7/1P3P2/1KP2P2/8 w",
+        "solution": "35.f4 35...f5 36.fxe5 Rxh7 37.Qd7+ Re7 38.Qxf5+ Ke8 39.f4 Kd8 40.e6"
+    },
+    "738": {
+        "fen": "3r3r/kpp3pp/p1pqbpn1/2N5/Q2PP3/5NPP/PP4P1/2R2RK1 w",
+        "solution": "18.Nxa6 Bxh3 19.e5 19...Nxe5 20.dxe5 20...fxe5 21.Nc5+ Kb8 22.gxh3 e4 23.Nxe4 Qe7 24.Rc3 b5 25.Qc2"
+    },
+    "739": {
+        "fen": "2nrkb2/5p2/1pr1p1pp/p1p1P3/P1N1NPP1/1RP4R/1P2K2P/8 w",
+        "solution": "33.Nxa5 33...Rc7 34.Nc4 34...Rc6 35.a5 bxa5 36.Nf6+"
+    },
+    "740": {
+        "fen": "2rq1rk1/pb2npp1/1p1p1b1p/2p1pP1Q/2B1P2P/P1NP4/1PP3P1/R1B1K2R w",
+        "solution": "14.Bg5 14...d5 15.Bxf6 dxc4 16.Qg4"
+    },
+    "741": {
+        "fen": "2r1q1k1/r4p1p/b3pBp1/n3P1QP/p2p3R/P5P1/2p2PB1/R5K1 w",
+        "solution": "30.Qh6 30...Qf8 31.Qxh7+"
+    },
+    "742": {
+        "fen": "2n2nk1/4qp1p/4p1pQ/pb1pP1NP/1p1PB1P1/1P4N1/P4P2/6K1 w",
+        "solution": "29.Nxh7 29...Nxh7 30.hxg6 fxg6 31.Bxg6 31...Ng5 32.Nh5 32...Nf3+ 33.Kg2 33...Nh4+ 34.Kg3 Nxg6 35.Nf6+ Kf7 36.Qh7+"
+    },
+    "743": {
+        "fen": "8/8/5K2/4n3/4k1B1/7P/8/8 w",
+        "solution": "82.Bc8 82...Kf4 83.h4 Nf3 84.h5 Ng5 85.Bf5 85...Nf3 86.h6 Ng5 87.Kg6 87...Nf3 88.h7 Ne5+ 89.Kf6"
+    },
+    "744": {
+        "fen": "4r1k1/pp2pp1p/2bp1npQ/q2N4/4PN2/5P2/PPP5/2K4R w",
+        "solution": "24.e5 24...Bxd5 25.exf6 exf6 26.Qxh7+ Kf8 27.Qh8+"
+    },
+    "745": {
+        "fen": "1r1q1rk1/pb1pbp1p/1pn3p1/2pB2N1/2P5/6P1/PP1QPP1P/R1B1K2R w",
+        "solution": "13.Nxh7 Re8 14.Qh6 14...Ne5 15.Ng5"
+    },
+    "746": {
+        "fen": "2Q5/p3q1k1/Pp1p2P1/2pPr2p/2Pnpr2/2N1R3/1P3PP1/5RK1 b",
+        "solution": "38...Nf3+ 39.Rxf3 39...exf3"
+    },
+    "747": {
+        "fen": "2rnr1k1/1q2p1bp/3p1pp1/1p1N1P2/p1n1P1NB/P1P5/1P2Q1PP/3R1R1K w",
+        "solution": "27.Bxf6 27...exf6 28.Ngxf6+ Bxf6 29.Nxf6+ Kf8 30.fxg6 30...hxg6 31.Qg4 31...Nf7 32.Qxg6 Nce5 33.Nh7+"
+    },
+    "748": {
+        "fen": "4rkr1/2p2p1p/pq2b3/1p3N2/8/2PR1Q2/PP4PP/5R1K w",
+        "solution": "25.Nh6 25...Rg7 26.Rd7 26...Rb8 27.Nxf7 Bxd7 28.Nd8+"
+    },
+    "749": {
+        "fen": "1r5r/4Pkb1/q2pR3/6Pp/1p5P/4Q3/PPP5/1NK5 w",
+        "solution": "29.e8=Q+ 29...Rbxe8 30.g6+ Kg8 31.Rxe8+"
+    },
+    "750": {
+        "fen": "2r4r/4qkbR/bp2p1p1/3pP3/p2P1PB1/P5Q1/1n2NBK1/7R w",
+        "solution": "32.f5 32...Rxh7 33.fxg6+ 33...Kg8 34.gxh7+ Kh8 35.Nf4"
+    },
+    "751": {
+        "fen": "1q4r1/1p1k1p2/2p1p3/2P4p/1R1P1p2/3Q1P2/PPK1R1P1/6r1 w",
+        "solution": "34.d5 34...cxd5 35.c6+ Kxc6 36.Qb5+"
+    },
+    "752": {
+        "fen": "1r3rk1/p1pqn1bp/2npb1p1/3N1p2/1PP1pP2/4P1PP/P2QN1BK/1RB2R2 b",
+        "solution": "16...Na5 17.Nd4 17...Nxc4"
+    },
+    "753": {
+        "fen": "1r6/5pk1/2q3pp/2B1R3/3P3P/4QP2/b5PK/8 w",
+        "solution": "32.d5 Bxd5 33.Qd4"
+    },
+    "754": {
+        "fen": "3q2k1/1R3p2/1p2p1pp/3nP3/4Q3/P2B1PP1/1P3PK1/r7 w",
+        "solution": "31.Rxf7 31...Kxf7 32.Qxg6+ Kf8 33.Qxh6+"
+    },
+    "755": {
+        "fen": "1r4k1/3rQ1bp/6p1/1p3bN1/2pP4/2P2B2/5PPP/6K1 w",
+        "solution": "36.Bd5+ 36...Rxd5 37.Qf7+ Kh8 38.Qxd5 38...Re8 39.Nf7+"
+    },
+    "756": {
+        "fen": "r1b2r1k/1pq3pp/p1n1p3/3p4/3PnN2/3B1NP1/PP3P1P/R2QR1K1 b",
+        "solution": "19...Rxf4 20.gxf4 Qxf4 21.Bxe4 dxe4 22.Ne5 22...Nxe5 23.dxe5 Bd7 24.Qxd7 Rf8 25.Qd1 25...Qg5+ 26.Kh1 Rxf2 27.Rg1"
+    },
+    "757": {
+        "fen": "1br3k1/p4p2/2p1r3/3p1b2/3Bn1p1/1P2P1Pq/P3Q1BP/2R1NRK1 b",
+        "solution": "28...Qxh2+ 29.Kxh2 Nxg3 30.Qb5 30...Ne2+"
+    },
+    "758": {
+        "fen": "3r2k1/pb1r1pp1/1pn2q1p/3B4/6Q1/P4NP1/1P3PP1/3RR1K1 w",
+        "solution": "23.Qxd7 Rxd7 24.Re8+ Kh7 25.Be4+"
+    },
+    "759": {
+        "fen": "5k2/3nqp2/b5pN/3P4/5Q2/1r1p2RP/5PPK/8 w",
+        "solution": "35.Rxg6 35...Qe5 36.Rg8+ 36...Ke7 37.d6+ 37...Ke6 38.Re8+ Kd5 39.Rxe5+ Nxe5 40.d7 Rb8 41.Nxf7"
+    },
+    "760": {
+        "fen": "3rnk2/1R3p1p/2P3p1/r1b2N2/1p6/6PB/5P1P/2R3K1 w",
+        "solution": "37.Nh6 37...Nd6 38.Nxf7 Nxf7 39.c7 Re8 40.Bd7 40...Nd6 41.Rb8"
+    },
+    "761": {
+        "fen": "r2q2k1/1b3ppp/pp2pn2/4N3/4PQ2/1P4P1/P4PBP/2R3K1 w",
+        "solution": "20.Nxf7 20...Qd4 21.Qd6 21...Qb2 22.Rf1 22...Re8 23.Qc7 Ba8 24.Ng5 h6 25.Qf7+ Kh8 26.e5"
+    },
+    "762": {
+        "fen": "3r2k1/p4pp1/Qp3q2/3b3p/3N4/P3PPP1/1P3K2/2R5 b",
+        "solution": "30...Bxf3 31.Nxf3 31...Qxb2+"
+    },
+    "763": {
+        "fen": "r2k3r/pppb1p2/3p4/3P2q1/3P4/1B1Q2Pp/PP6/4RRK1 b",
+        "solution": "21...Bb5 22.Qf3 22...Bxf1"
+    },
+    "764": {
+        "fen": "2r3k1/p2q1pbp/1p2p1p1/7P/2nPBB2/2PR2Q1/r4PP1/5RK1 b",
+        "solution": "24...f5 25.Bf3 e5 26.dxe5 26...Qxd3"
+    },
+    "765": {
+        "fen": "4r1k1/p6p/1pbp2p1/2p2pbq/1PP2P2/PBP3P1/2QRrRNP/6K1 b",
+        "solution": "35...Re1+ 36.Nxe1 36...Rxe1+ 37.Rf1 Qf3 38.Rxe1 Qh1+ 39.Kf2 Qg2+ 40.Ke3 Qf3#"
+    },
+    "766": {
+        "fen": "r4r2/p1p3qk/1pPpR1pp/3P1n2/7P/2PQ2P1/P5B1/R5K1 w",
+        "solution": "27.h5 27...Ne7 28.Rae1 28...Rf7 29.hxg6+ Nxg6 30.Rxg6 Qxg6 31.Be4"
+    },
+    "767": {
+        "fen": "1b2r1k1/4rpp1/p2q1n2/2Rp1BB1/Np1P4/nP4P1/5PK1/3Q3R w",
+        "solution": "32.Rh8+ 32...Kxh8 33.Qh1+ Kg8 34.Bxf6 Qxg3+ 35.fxg3 Re2+ 36.Kh3 36...gxf6 37.Kg4"
+    },
+    "768": {
+        "fen": "bq3rk1/3n1rb1/1p1P2p1/2p3N1/P7/1Q4P1/4RP1P/4R1K1 w",
+        "solution": "32.Re8 32...Qxd6 33.Qxf7+ Kh8 34.Ne6"
+    },
+    "769": {
+        "fen": "r2q1rk1/1b2bppp/p3pn2/1p4B1/1n1P4/1BN2N2/PP2QPPP/3RR1K1 w",
+        "solution": "14.d5 14...Nfxd5 15.Nxd5 15...Bxg5 16.Nxb4 16...Qe7 17.Nd5 Bxd5 18.Bxd5"
+    },
+    "770": {
+        "fen": "3rrbk1/3Rn3/p1p1R1p1/6Np/1Pp5/2B4P/1PK2P2/8 w",
+        "solution": "39.Rdxe7 39...Rxe7 40.Rxg6+ Bg7 41.Bxg7 Rxg7 42.Rxg7+ Kxg7 43.Ne6+"
+    },
+    "771": {
+        "fen": "2r2b1k/5Q1p/p3R1p1/1pP5/8/Pq2P3/3n2PP/R5K1 b",
+        "solution": "31...Ne4 32.h4 32...Qxe3+ 33.Kh1 Qd4"
+    },
+    "772": {
+        "fen": "5r1k/1pp1p2p/pn2P1qb/6N1/3Pb3/Q7/PP1KB3/6RR w",
+        "solution": "28.Rxh6 28...Qxh6 29.Qe3"
+    },
+    "773": {
+        "fen": "6k1/1bp1r1pp/1p1p2q1/pN3p1n/1nPP4/P4PPP/1P3QBK/2BR4 b",
+        "solution": "26...Nd3 27.Rxd3 f4 28.g4 Qxd3 29.gxh5 29...Re230.Qh4 Rxg2+31.Kxg2 Qxf3+ 32.Kh2 Qg2#"
+    },
+    "774": {
+        "fen": "4k2r/1r3ppp/Qnq1p3/4p3/1P6/R5P1/3N1P1P/R5K1 w",
+        "solution": "27.Nc4 27...Rb8 28.Nxb6 00 29.Nc4"
+    },
+    "775": {
+        "fen": "3r1k1r/1b2qppp/p3p3/3nB3/B1nN4/2P5/P4PPP/R2QR1K1 w",
+        "solution": "20.Bxg7+ 20...Kxg7 21.Nf5+ exf5 22.Rxe7 Nxe7 23.Qe2"
+    },
+    "776": {
+        "fen": "8/2R3p1/1Q2ppkr/3pP2p/3P3n/5P1P/5P1K/2Bq4 w",
+        "solution": "36.Qb1+ 36...Nf5 37.Rxg7+"
+    },
+    "777": {
+        "fen": "4rrk1/p1pb1ppp/1p6/n1qPB3/8/2PBR3/5PPP/3QR1K1 w",
+        "solution": "25.Bxh7+ 25...Kxh7 26.Qh5+"
+    },
+    "778": {
+        "fen": "5bk1/ppp3pR/7R/3prq2/4r3/2P1B3/1PP2PQ1/1K6 w",
+        "solution": "31.Bc5 31...Re7 32.Bxe7"
+    },
+    "779": {
+        "fen": "4r1k1/B4pp1/5n1p/bNpp4/4n3/1P2RNPP/P4P2/5K2 b",
+        "solution": "28...Nxg3+ 29.Kg2 29...Nge4"
+    },
+    "780": {
+        "fen": "1r1qr1k1/6bp/3p2p1/1N1P1p1n/1p6/3Q2PP/3BPPB1/1R4K1 b",
+        "solution": "24...Nxg3 25.fxg3 25...Qb6+ 26.Kf1 Qxb5"
+    },
+    "781": {
+        "fen": "r2q1rk1/1pp3bp/n2p4/p2P1b2/1PPN4/P1NpB2P/5P2/R2QK1R1 w",
+        "solution": "17.Nxf5 17...Rxf5 18.Rxg7+ Kxg7 19.Qg4+ 19...Kf6 20.Ne4+ 20...Ke5 21.Ng3"
+    },
+    "782": {
+        "fen": "1r1q2k1/R4p2/3Pb2p/4Q1p1/1p2B3/2p3PP/1P3P2/6K1 w",
+        "solution": "38.Bh7+ Kxh7 39.Qxe6"
+    },
+    "783": {
+        "fen": "3r2k1/p4p2/3qbPp1/3pR2p/1r1P4/2N1Q3/1P5P/5R1K w",
+        "solution": "29.Rxe6 29...fxe6 30.Qh6"
+    },
+    "784": {
+        "fen": "4rrk1/pb3ppp/1p6/n2p1N2/6Q1/P2B4/3B1PPP/b5K1 w",
+        "solution": "24.Nxg7 24...Bxg7 25.Bh6"
+    },
+    "785": {
+        "fen": "7r/ppR2nbp/4k1p1/3Nn3/3P1B2/3q1P2/PP2Q2P/7K w",
+        "solution": "27.Bxe5 27...Qxe2 28.Nf4+ Kf5 29.Rxf7+ Kg5 30.Nxe2"
+    },
+    "786": {
+        "fen": "rb3rk1/1b1q1ppp/1pn1p3/p1p1P2Q/2PpNP2/3P2PP/PP4B1/R1B1R1K1 w",
+        "solution": "17.Nf6+ gxf6 18.exf6 Kh8 19.Be4"
+    },
+    "787": {
+        "fen": "2br2k1/1r3pPp/p3p3/q1bp2P1/3R3P/2N1Q3/PPP1B3/2KR4 b",
+        "solution": "24...Qb4 25.b3 25...e5 26.Qxe5 Qxc3"
+    },
+    "788": {
+        "fen": "3r2k1/5p1p/p3b1p1/6P1/2p4P/PpP5/1P1qB3/K3RQ2 b",
+        "solution": "38...Bh3 39.Qg1 39...Re8"
+    },
+    "789": {
+        "fen": "8/p4k2/1p2p1q1/1b1pPr2/6pp/PN2Q3/1P3PPP/4R1K1 b",
+        "solution": "36...Rf3 37.Qc1 37...Rxb3"
+    },
+    "790": {
+        "fen": "6rk/6b1/p7/3P1Nq1/P3P2p/4Qp2/1P1r1RP1/R5K1 b",
+        "solution": "35...Bd4 36.Qxg5 36...Bxf2+"
+    },
+    "791": {
+        "fen": "1rr4k/4bppp/p7/3PpP2/1q6/2NR1Q2/P5PP/4R2K b",
+        "solution": "36...e4 37.Qxe4 37...Rxc3 38.Qxb4 38...Bxb4"
+    },
+    "792": {
+        "fen": "2rq1rk1/pp1b1pp1/2n1p2p/3pPPb1/3P2P1/2N1B3/PP1QB2P/R4R1K w",
+        "solution": "17.f6 gxf6 18.Bxg5 18...fxg5 19.Rf6 19...Kg7 20.Raf1 20...Ne7 21.h4"
+    },
+    "793": {
+        "fen": "kb5r/1b1r1p2/1Q5q/PNpp4/2p5/6P1/1P3PB1/R3R1K1 w",
+        "solution": "30.Re8 30...Qh2+ 31.Kf1 Rxe8 32.a6"
+    },
+    "794": {
+        "fen": "2r5/4ppk1/1N1pb1p1/1p5p/1Pr1P2P/5P2/1KPR2P1/4R3 b",
+        "solution": "30...Rxb4+ 31.Ka3 31...Rxc2"
+    },
+    "795": {
+        "fen": "r3kn2/5q2/r3p2p/4Pp2/1Q3N1B/5P1P/1P6/6RK w",
+        "solution": "31.Nh5 31...Qc7 32.Rg7 32...Ra1+ 33.Kg2 Qc2+ 34.Bf2"
+    },
+    "796": {
+        "fen": "2b1rnkb/1q3p1p/pBrp1PpQ/1p1Np1P1/1P2P3/P2PR3/4N2P/5RK1 w",
+        "solution": "32.Bd8 32...Ne6 33.Ne7+ Rxe7 34.fxe7 Qd7 35.Rh3"
+    },
+    "797": {
+        "fen": "1rb1k3/5p1p/3qpP2/p2p1Pr1/1p1Q2p1/8/PPP3BP/1K1R3R w",
+        "solution": "22.Bxd5 Bd7 23.Rhe1"
+    },
+    "798": {
+        "fen": "r5k1/p2n1p1p/1p2pp2/3b3N/8/P1P5/5PPP/3RK2R w",
+        "solution": "20.c4 Bc6 21.Rxd7 Bxd7 22.Nxf6+ Kg7 23.Nxd7"
+    },
+    "799": {
+        "fen": "3r1n2/8/pNpNb3/P1P1Rpk1/3P4/8/5K2/8 w",
+        "solution": "39.d5 39...cxd5 40.Nb7 Re8 41.c6 41...Kf6 42.Re1 Re7 43.Nc5"
+    },
+    "800": {
+        "fen": "1r4r1/1p6/p2kb1Nn/5pR1/3P4/P2B2P1/1P1K4/4R3 w",
+        "solution": "33.Nf4 Bd7 34.Rh5 Ng4 35.Bxf5 Nf6 36.Rh6"
+    },
+    "801": {
+        "fen": "8/p1Q2pk1/4p3/P2rP1p1/3b1PP1/5K2/8/8 w",
+        "solution": "38.f5 38...Bxe5 39.Qb7 39...Rd6 40.fxe6 Rxe6 41.Qxa7"
+    },
+    "802": {
+        "fen": "4kr2/2qr1p2/p3p1p1/3b3p/5Q1P/1P3P2/1KP1N1P1/3RR3 w",
+        "solution": "35.Rxd5 exd5 36.Nd4+ 36...Kd8 37.Ne6+ fxe6 38.Qxf8#"
+    },
+    "803": {
+        "fen": "8/5p1p/2R5/1P1r1kp1/2K5/3p4/P4PPP/8 w",
+        "solution": "35.Kxd5 35...d2 36.g4+"
+    },
+    "804": {
+        "fen": "5rk1/pp1R1pp1/7p/4r3/6P1/P3PQ2/1P2KPq1/2R5 b",
+        "solution": "23...Rxe3+ 24.Qxe3 24...Qxg4+ 25.Kf1 Qxd7"
+    },
+    "805": {
+        "fen": "7r/2r1k2p/3Rbq1Q/2p2p1B/4p3/2P5/1P3P1P/3R2K1 w",
+        "solution": "38.Rxe6+"
+    },
+    "806": {
+        "fen": "r1bq1rk1/2b2ppp/p4n2/3p1N2/1Pp5/2Q1PN2/P3BPPP/R2R2K1 w",
+        "solution": "21.Rxd5 Qe8 22.Bxc4"
+    },
+    "807": {
+        "fen": "2B4k/6pp/pnq3b1/3p2P1/1p1r4/6Q1/PPP4P/2KRR3 w",
+        "solution": "30.Bf5 30...Bxf5 31.Qc7 31...Rxd1+ 32.Kxd1"
+    },
+    "808": {
+        "fen": "4n3/1b2nk2/1p1p1p1p/pP1p1PpN/P2PN1P1/1B2P2P/5K2/8 w",
+        "solution": "39.Nhxf6 39...Nxf6 40.Nxd6+ Kf8 41.Nxb7"
+    },
+    "809": {
+        "fen": "5k2/3b2pp/1p1r1p2/1Rbp4/P7/6PP/1P3PB1/3R2K1 w",
+        "solution": "33.b4 33...Bxb5 34.bxc5 Bxa4 35.Ra1 35...bxc5 36.Rxa4"
+    },
+    "810": {
+        "fen": "5rrk/1bq1n2p/p2pPpp1/1p2pN1N/2p1P1Q1/2P4R/PP3PPP/R5K1 w",
+        "solution": "26.Nxf6 26...Nxf5 27.Rxh7+ 27...Qxh7 28.Nxh7 Kxh7 29.exf5"
+    },
+    "811": {
+        "fen": "3r1r1k/p3bp1p/1pp2p2/5P1Q/3q1P2/1PN2RRP/1P4P1/7K w",
+        "solution": "28.Rg4 28...Bc5 29.Qxh7+"
+    },
+    "812": {
+        "fen": "r1b2rk1/p2n1qpp/p2Pp3/2p2pP1/N1p2N2/8/PP3PP1/R2Q1RK1 w",
+        "solution": "17.Nxe6 17...Qxe6 18.Re1 Qxe1+ 19.Qxe1"
+    },
+    "813": {
+        "fen": "r5rk/1p2q2p/p1ppnp1B/P1b1p2B/4P3/2P2QP1/1P3P1P/3R1R1K w",
+        "solution": "23.b4 Ba7 24.Rxd6 Qxd6 25.Qxf6+ Rg7 26.Bxg7+ Nxg7 27.Qxd6"
+    },
+    "814": {
+        "fen": "2r3k1/5pp1/p1p3p1/P3Pq2/2Q3P1/3nB2P/1r3P2/2R1R1K1 b",
+        "solution": "31...Qf3 32.Qxd3 Rxf2 33.Bxf2 Qxd3"
+    },
+    "815": {
+        "fen": "3r4/R2n3p/3Pnbk1/4pN2/2p5/2N1B3/6PP/6K1 w",
+        "solution": "29.Ne7+ 29...Kf7 30.Nc6 30...Rc8 31.Rxd7+ Ke8 32.Nxe5 32...Bxe5 33.Re7+ Kd8 34.Bb6+"
+    },
+    "816": {
+        "fen": "4r1kb/p4p2/1p3Pb1/4B3/2p4R/2Pr1BR1/6PP/6K1 w",
+        "solution": "32.Rxg6+ 32...fxg6 33.Rxh8+ 33...Kf7 34.Rh7+"
+    },
+    "817": {
+        "fen": "r3rbk1/pp3ppp/5p2/q1pP1N1Q/2P2P2/1P6/PB4PP/5RK1 w",
+        "solution": "22.Nh6+ gxh6 23.Qg4+"
+    },
+    "818": {
+        "fen": "4r1k1/p2qBp1p/3P2p1/2n5/1p1N3Q/2bb2NP/P4PP1/3R2K1 w",
+        "solution": "25.Nh5 25...Bxd4 26.Qxd4 gxh5 27.Qxc5"
+    },
+    "819": {
+        "fen": "r1b1r1k1/1p3ppp/p1p4q/3p4/N2P3n/3BP2P/PP2QPP1/2R2RK1 b",
+        "solution": "19...Nxg2 20.Kxg2 Bxh3+ 21.Kg3 21...Re6 22.f4 g5"
+    },
+    "820": {
+        "fen": "br4k1/p1q2p2/4nnp1/2P1N3/P2R3p/4N1P1/QB2PP1P/6K1 b",
+        "solution": "26...Qb7 27.c6 27...Qxb2 28.Qxb2 28...Rxb2 29.Rd8+ 29...Nxd8 30.c7 30...Rb1+ 31.Nf1 Rd1 32.c8=Q Bb7 33.Qc2 Rd5 34.Nxg6"
+    },
+    "821": {
+        "fen": "2rn2k1/3b1p1N/3p1Qp1/3Pp3/1q2P3/2p1R1NP/5PP1/6K1 w",
+        "solution": "37.Nh5 37...gxh5 38.Qh6 38...f6 39.Qg6+ Kh8 40.Nxf6"
+    },
+    "822": {
+        "fen": "1k1rq3/pppb4/7r/1BRPnp1p/Q1N3pP/4P1P1/PR4PK/8 w",
+        "solution": "27.Bxd7 27...Nxd7 28.Rxb7+ 28...Kxb7 29.Rxc7+ Kxc7 30.Qxa7+ Kc8 31.d6"
+    },
+    "823": {
+        "fen": "r1b1r1k1/1p2qppp/p1p5/3p4/PP1P3n/3BP3/3QNPPP/1R3RK1 b",
+        "solution": "17...Bh3 18.Qc2 18...Bxg2"
+    },
+    "824": {
+        "fen": "8/5Rp1/p1r4k/1p5n/4p1KP/4N3/PP2PP2/8 w",
+        "solution": "39.Nf5+ Kg6 40.Rxg7+"
+    },
+    "825": {
+        "fen": "r6r/pp3kpp/n1p1bqn1/4pp2/2P5/B4PP1/PP1QBN1P/2KR1R2 w",
+        "solution": "18.Ne4 18...fxe4 19.fxe4 Nf4 20.gxf4 20...Rhd8 21.Bd6"
+    },
+    "826": {
+        "fen": "rn3rk1/1q2ppbp/p3b1p1/1pPN4/4P3/4PN2/PPQ1B1PP/R4RK1 w",
+        "solution": "16.c6 16...Qa7 17.c7 Bxd5 18.c8=Q"
+    },
+    "827": {
+        "fen": "r1r2bk1/1p1q3p/1P2p1p1/2P1p3/pB1p4/Qn1P2PP/2R2PB1/3R2K1 w",
+        "solution": "36.c6 bxc6 37.Bxf8 Rxf8 38.Bxc6 Qd8 39.Bxa8"
+    },
+    "828": {
+        "fen": "5r1k/1p6/3Nb2b/1P5p/7q/4P2P/1R2QP2/rB2K2R b",
+        "solution": "31...Ba232.00 32...Bd5 33.Bg6 Qg5+"
+    },
+    "829": {
+        "fen": "r3n1k1/pR4p1/3p4/1NpPp1Qp/2P1q2P/P7/6PK/8 w",
+        "solution": "36.Nxd6 Qf4+ 37.Qxf4 exf4"
+    },
+    "830": {
+        "fen": "rn3Bk1/pp5p/2p3p1/8/6NP/2P5/P2br1P1/3R1R1K w",
+        "solution": "23.Rxd2 Rxd2 24.Nh6+"
+    },
+    "831": {
+        "fen": "r4r1k/pR3pp1/3p3p/8/3bQR2/6P1/P2BqP1P/6K1 b",
+        "solution": "30...Bxf2+ 31.Kg2 31...Be3+"
+    },
+    "832": {
+        "fen": "1r2r3/3b3k/2p1ppnp/p2p3B/3P1P1P/P3RN2/1P3P2/1K2R3 w",
+        "solution": "30.f5 30...exf5 31.Rg1 Nf4 32.Bxe8"
+    },
+    "833": {
+        "fen": "4k3/p4p2/1P2p2p/8/2pq3P/2Nr2r1/1P1nQPP1/R2R2K1 b",
+        "solution": "30...Rxg2+ 31.Kxg2 Qg7+ 32.Kh2 32...Nf3+ 33.Qxf3 33...Rxf3"
+    },
+    "834": {
+        "fen": "3rr3/5pk1/p2q2p1/PbnNp3/8/1B3Q1P/5PP1/2R1R1K1 w",
+        "solution": "40.Rxc5 40...Qxc5 41.Qf6+ Kg8 42.Ne3"
+    },
+    "835": {
+        "fen": "6k1/3b1q2/1pNpNnnb/3Pp3/4P3/r4BB1/P1R3K1/7Q b",
+        "solution": "33...Nxd5 34.Rf2 34...Bxc6 35.Qxh6 35...Qxe6 36.exd5 Bxd5 37.Bxd5 Qxd5+ 38.Kh2"
+    },
+    "836": {
+        "fen": "r3r1k1/pp1q1pp1/5n1p/b2pn3/3Nb3/PP2B1PP/2P1NPBK/R2Q1R2 b",
+        "solution": "19...Neg4+ 20.hxg4 20...Nxg4+ 21.Kg1 Bxg2 22.Kxg2 Rxe3 23.Nf4 Rd8 24.Rh1 Re4 25.Rc1 Nxf2"
+    },
+    "837": {
+        "fen": "3q1rk1/4pp2/p2bb1p1/1pBN1n1p/1P6/4P1PP/P3QPB1/3R2K1 w",
+        "solution": "24.e4 24...Ng7 25.Nxe7+ Bxe7 26.Rxd8"
+    },
+    "838": {
+        "fen": "2k1r3/pp3pp1/2p3b1/6P1/P1QRPq2/2N2p2/1P6/3K1RBr b",
+        "solution": "29...f2 30.Bxf2 Qxf2 31.Rxh1 Qf3+ 32.Kc2 Qxh1"
+    },
+    "839": {
+        "fen": "r1q2rk1/1p2n1pb/1ppp3p/2n5/P1PNp1Q1/1P2P1PP/1B3PB1/R3R1K1 w",
+        "solution": "20.Nxc6 20...Qxg4 21.Nxe7+ Kf7 22.hxg4 Kxe7 23.Bxg7"
+    },
+    "840": {
+        "fen": "2r1k3/5pbp/p3P1p1/1pB5/1K6/1N1B2n1/PqP5/R3Q3 b",
+        "solution": "38...Bc3+ 39.Qxc3 a5+ 40.Kxb5 Qxc3"
+    },
+    "841": {
+        "fen": "4q2k/5p1p/p4p2/1p2bN2/2p1P3/P5P1/1P1Q1P1P/6K1 w",
+        "solution": "29.Qh6 Qg8 30.f4 Bxb2 31.e5 31...Qg6 32.Qf8+ Qg8 33.Qe7 33...Qg6 34.Qd8+"
+    },
+    "842": {
+        "fen": "r7/4B1bk/2qP1np1/5b1p/2p2P2/2P1R2P/P2Q2P1/4R2K w",
+        "solution": "30.Bxf6 Bxf6 31.Re7+ 31...Kh6 32.Rf7 32...Bh4 33.Qd4 Rg8 34.Qa7 34...Rh8 35.Ree7 35...g5 36.Rf6+ Bg6 37.Rxg6+ Kxg6 38.Re6+ Kf5 39.Qf7#"
+    },
+    "843": {
+        "fen": "3rr3/pkp3pp/1pb2P2/3N4/2P1N3/bP6/P2R1PPP/4R1K1 b",
+        "solution": "22...Bb4 23.f7 23...Rxe4 24.Rxe4 Bxd2 25.Re7 25...Bxd5 26.Re8 Bxf7 27.Rxd8"
+    },
+    "844": {
+        "fen": "r4rk1/1pq2ppp/p1n5/3RbbNQ/P1B1p3/1P2P3/1B3PP1/R6K w",
+        "solution": "19.Nxf7 19...Rxf7 20.Qxf5 Rxf5 21.Rd8#"
+    },
+    "845": {
+        "fen": "3r2k1/p1r1np2/1qp1p1p1/p1R1P1Pp/3PP2P/P3B3/1PQ5/1K1R4 w",
+        "solution": "38.d5 38...exd5 39.Rcxd5 Qxe3 40.Rxd8+ Kg7 41.Qd3"
+    },
+    "846": {
+        "fen": "r1b1r1k1/1pBn1pp1/2p3np/2q5/p2NP3/2P5/B2Q1PPP/3RR1K1 w",
+        "solution": "26.Bxf7+ Kxf7 27.Qa2+ Kf8 28.Ne6+ 28...Rxe6 29.Qxe6 Ne7 30.Re3 30...Ke8 31.Rf3 Qh5 32.Bd6"
+    },
+    "847": {
+        "fen": "3rk3/p5p1/2pqP3/1pbr1pB1/6pP/n1PB2R1/P3Q1K1/3R4 w",
+        "solution": "38.Bxf5 38...Rxd1 39.Bg6+ Kf8 40.e7+ Qxe7 41.Bxe7+ Bxe7 42.Bd3"
+    },
+    "848": {
+        "fen": "2r1k1r1/pq3pP1/3Rp3/1Pn4Q/2p5/2P3P1/5P1P/R5K1 w",
+        "solution": "22.Rc6 22...Rxc6 23.bxc6 Qxc6 24.Qh8 24...Rxh8 25.gxh8=Q+"
+    },
+    "849": {
+        "fen": "2r1q1k1/5pp1/1bN1p2p/1p3n2/2n5/5QP1/P4PBP/B2R2K1 b",
+        "solution": "32...Nce3 33.fxe3 Nxe3 34.Bd4 34...Bxd4 35.Rxd4 Nxg2 36.Nb4="
+    },
+    "850": {
+        "fen": "r5k1/pp4pp/6q1/2pp4/2bbNPn1/5BP1/PPQB2KP/4R3 b",
+        "solution": "24...Nf2 25.Be3 25...Nd3 26.Re2 Nb4"
+    },
+    "851": {
+        "fen": "8/1b1nkp1p/4pq2/1B6/PP1p1pQ1/2r2N2/5PPP/4R1K1 w",
+        "solution": "29.Nxd4 29...Qxd4 30.Rd1 Nf6 31.Rxd4 Nxg4 32.Rd7+ Kf6 33.Rxb7 Rc1+ 34.Bf1 34...Ne3 35.fxe3 fxe3"
+    },
+    "852": {
+        "fen": "4r1k1/pp1q1pp1/2p2n1p/2P4r/1PB1pB2/7b/P1Q1N1P1/R3R1K1 b",
+        "solution": "22...Bxg2 23.Ng3 23...Bf3 24.Qb3 24...Rh4 25.Bd6 Qh3 26.Bxf7+ Kh7 27.Qb2 Ng4"
+    },
+    "853": {
+        "fen": "r3r1k1/1Q4p1/p2B3p/3pP3/2q2pPP/P2n1N2/1P3PK1/7R b",
+        "solution": "30...Nxf2 31.Kxf2 Qc2+ 32.Kg1 32...Qd1+ 33.Kf2 33...Qxh1"
+    },
+    "854": {
+        "fen": "rq2r1k1/2p2ppp/b1R5/P2Qp3/4P3/3pB2P/1P1NnPP1/R6K w",
+        "solution": "22.Rxa6 Rxa6 23.Qxd3 23...Qxb2 24.Rb1 Rd6 25.Qxe2 25...Qa2 26.Qb5 c6 27.Qb2"
+    },
+    "855": {
+        "fen": "r2rkq2/3n1p2/pp1npp1p/2p4N/2P2QPP/P1NPP3/1B6/5RK1 w",
+        "solution": "29.Nd5 29...exd5 30.Bxf6"
+    },
+    "856": {
+        "fen": "6k1/1R3b2/2q1pp2/3n3p/7p/8/3B1PP1/1Q4K1 w",
+        "solution": "37.Bh6 37...Nc7 38.Qb4 38...Kh7 39.Qf8"
+    },
+    "857": {
+        "fen": "4rb2/5p1k/7B/1p1b1P2/6Q1/1P6/2r1p1PP/3R1R1K w",
+        "solution": "35.Rg1 35...Bxh6 36.Rde1"
+    },
+    "858": {
+        "fen": "1r1r2k1/pp2ppb1/1n4pp/3bP3/2qNR2N/B5P1/P4QBP/5RK1 w",
+        "solution": "26.Ne6 26...Bxe6 27.Rxc4"
+    },
+    "859": {
+        "fen": "r4r1k/ppb1q1pp/4b3/2p1p3/4Qn2/2P1NN1P/PP3PPK/3RRB2 b",
+        "solution": "22...Nxh3 23.gxh3 Rxf3 24.Qxf3 e4"
+    },
+    "860": {
+        "fen": "4r1k1/1p1nppbR/3p2p1/3P4/2P3P1/1P2BB1R/q3QPK1/r7 w",
+        "solution": "31.Rxg7+ Kxg7 32.Bd4+ f6 33.Qe3 33...Nf8 34.Be4 Kf7 35.Rh8"
+    },
+    "861": {
+        "fen": "r2q1rk1/2p2ppp/8/1pn1P3/8/5Q2/1P3PPP/R1B2RK1 w",
+        "solution": "18.Bg5 Rxa1 19.Bxd8 Rxf1+ 20.Kxf1"
+    },
+    "862": {
+        "fen": "2Q5/5pbk/3p1qp1/3P4/4PP1p/3nB1PP/3N2K1/8 w",
+        "solution": "38.e5 38...dxe5 39.Ne4 Qf5 40.Ng5+ Kh6 41.Qg8 41...Nxf4+ 42.gxf4 Qc2+ 43.Bf2"
+    },
+    "863": {
+        "fen": "qr4k1/2p2pp1/3p2p1/2n1p1P1/1nB1P3/2QPP2P/1P6/2B1R1K1 b",
+        "solution": "29...Nbxd3 30.Bxd3 30...Rb3 31.Qc2 Rxd3 32.b4 Qa4"
+    },
+    "864": {
+        "fen": "2rr2k1/5pp1/p2p3p/qp1Pp1bP/8/5P2/PPP3P1/1K1QRB1R b",
+        "solution": "22...Rxc2 23.Kxc2 Qxa2 24.f4 Rc8+ 25.Kd2 Bxf4+ 26.Ke2 Qxb2+ 27.Kf3 Rc1"
+    },
+    "865": {
+        "fen": "4r1k1/p2qbp1p/1p2p1pB/4r3/4N3/P4Q1P/1P3PP1/4R1K1 w",
+        "solution": "25.Nf6+ 25...Bxf6 26.Qxf6 Rxe1+ 27.Kh2 Qd6+ 28.f4 Qf8 29.Bxf8 Rxf8"
+    },
+    "866": {
+        "fen": "1r4k1/p1R3pp/4pn2/8/3pP3/5P2/2R3PP/r1B3K1 b",
+        "solution": "22...d3 23.Rc8+ 23...Kf7 24.R2c7+ Kg6 25.Kf2 25...Rxc1"
+    },
+    "867": {
+        "fen": "1rr4k/2qb1pp1/2nppb2/7P/4PP2/PpNBB3/1P4Q1/1K4RR w",
+        "solution": "27.e5 dxe5 28.Qe4 28...Kg8 29.Bc5"
+    },
+    "868": {
+        "fen": "1r3nk1/3b1p2/1rpq1n2/R2p2p1/P2Pp2p/1P2P3/2QNNPPP/2R2BK1 b",
+        "solution": "28...Ng4 29.g3 29...Qf6"
+    },
+    "869": {
+        "fen": "2b2b1k/2r2ppp/n2p1N2/3Pr1P1/3NPQ2/2p3RP/1q3PK1/1B1R4 w",
+        "solution": "38.g6 38...fxg6 39.Nd7 39...Be7 40.Nxe5 dxe5 41.Qf7 h6 42.Qe8+"
+    },
+    "870": {
+        "fen": "8/pp3rk1/1q1PQnp1/2p5/2P4r/3R1R2/PP3PP1/6K1 w",
+        "solution": "31.Rxf6 Rxf6 32.Qe7+ Rf7 33.Qxh4"
+    },
+    "871": {
+        "fen": "2rr3k/pp3pp1/4p2p/2P1Bq1n/8/2P2PQ1/PP4P1/K2R3R w",
+        "solution": "26.Rxd8+ 26...Rxd8 27.Bxg7+ Kh7 28.Qc7 28...Rg8 29.Bd4 Rxg2 30.Qxb7"
+    },
+    "872": {
+        "fen": "2r1r1k1/1p2ppbp/p1np1np1/P2N4/R3PPq1/1N1QB3/1PP3PP/5RK1 b",
+        "solution": "16...Nxd5 17.exd5 17...Ne5"
+    },
+    "873": {
+        "fen": "r1r3k1/2qn1ppp/p3p3/2bb4/1p1N2PP/4BP2/PPPRBQ2/1K5R b",
+        "solution": "20...Bxd4 21.Bxd4 Bxa2+ 22.Kxa2 22...Qa5+ 23.Kb1 23...b3 24.cxb3 Qxd2"
+    },
+    "874": {
+        "fen": "4rnk1/pb3ppp/1p6/3r2q1/1Bp5/P4B2/1PQ2PP1/1K1R3R w",
+        "solution": "22.Rxd5 22...Bxd5 23.Rh5 23...Qxh5"
+    },
+    "875": {
+        "fen": "3r1rk1/p5pp/2b5/4qp1n/1pP1P3/1P2QRPP/P2NR1B1/6K1 b",
+        "solution": "27...Nxg3 28.Ref2 28...Nxe4 29.Nxe4 Bxe4 30.Rf4 g5 31.Qg3 Qg7"
+    },
+    "876": {
+        "fen": "5rk1/7p/p2R2p1/P1pPp3/q1N1Qr1b/2P4P/5PPK/4R3 w",
+        "solution": "34.Rxg6+ 34...hxg6 35.Qxg6+ Kh8 36.Rxe5 36...R4f5 37.Qh6+ Kg8 38.Qxh4 Rxe5 39.Qg3+"
+    },
+    "877": {
+        "fen": "r1b1kb1r/1p1n1pp1/p1n1p2p/4P3/q2NN2B/8/P1PQB1PP/1R2K2R w",
+        "solution": "15.Nxe6 g5 16.Nf6+"
+    },
+    "878": {
+        "fen": "r3r1k1/pp3pp1/8/2P1n1qp/1P6/P1Q2P2/5PBP/R3R1K1 w",
+        "solution": "22.f4 22...Qxf4 23.Re4 23...Qf6 24.Rae1"
+    },
+    "879": {
+        "fen": "3B2k1/6p1/3b4/1p1p3q/3P1p2/2PQ1NPb/1P2rP1P/R5K1 b",
+        "solution": "30...Re3 31.fxe3 Qxf3 32.Qc2 fxg3 33.hxg3 Qxg3+ 34.Kh1 Bf5"
+    },
+    "880": {
+        "fen": "5rk1/1p3ppp/1b1p1q2/r2P4/4B1b1/P3P1P1/4NP1P/R2Q1RK1 w",
+        "solution": "19.Bxh7+ 19...Kxh7 20.Qb1+ g6 21.Qxb6"
+    },
+    "881": {
+        "fen": "5r2/1p1r2p1/p1p2bk1/8/1PPPR1P1/3KB3/1P6/5R2 w",
+        "solution": "36.g5 Bxd4 37.Re6+"
+    },
+    "882": {
+        "fen": "3q2k1/R4p2/2pr2pp/1pQ4n/1P1pP3/3P3P/2N2PP1/6K1 w",
+        "solution": "32.e5 32...Rd5 33.Qxc6"
+    },
+    "883": {
+        "fen": "5rk1/1b3r1p/4p1pb/pp1q4/2pP4/2P2PB1/P1N1Q1PP/3R1R1K b",
+        "solution": "27...Rxf3 28.gxf3 Rxf3 29.Kg1 29...Rxc3"
+    },
+    "884": {
+        "fen": "r1b3k1/p1q2pp1/2p4p/4b3/4r3/1P5P/PNP1BPP1/1R1Q1R1K b",
+        "solution": "21...Bxb2 22.Rxb2 Bxh3 23.gxh3 Qe5 24.c3"
+    },
+    "885": {
+        "fen": "r2r1nk1/ppq1bppp/2p1pn2/5N2/2PP4/3B1Q2/PP3PPP/2BRR1K1 w",
+        "solution": "16.Qg3 16...Qxg3 17.Nxe7+ Kh8 18.hxg3 Re8 19.Nxc6"
+    },
+    "886": {
+        "fen": "r1b1k2r/pp3ppp/2nBpn2/2P4Q/4P3/P2Bq3/2P1N1PP/R3KR2 w",
+        "solution": "20.Rxf6 20...g6"
+    },
+    "887": {
+        "fen": "3r1r1k/1q3p1p/pp6/1p2ppQ1/4Nn2/2PP4/PP3PPP/R3R1K1 b",
+        "solution": "23...Nh3+ 24.gxh3 Rg8"
+    },
+    "888": {
+        "fen": "5r1k/p4Bb1/2p3Qp/1pB1p1p1/1P2P1n1/6P1/P1nq1N1P/1R4K1 b",
+        "solution": "35...Nce3 36.Bxe3 Nxe3 37.h4 Qe2 38.Qh5 g4"
+    },
+    "889": {
+        "fen": "3r4/2r2pkp/p3p1p1/1pNbR3/5P1q/P3Q2P/1P4PK/3R4 w",
+        "solution": "30.Rexd5 Rxd5 31.Rxd5 exd5 32.Qe5+"
+    },
+    "890": {
+        "fen": "k4b1r/5p1p/2bPpqp1/p1Bp4/2pP4/2P3Q1/P4PPP/1R4K1 w",
+        "solution": "27.d7 27...Bxc5 28.Qc7 28...e5 29.dxc5"
+    },
+    "891": {
+        "fen": "r1bq1rk1/p2n1pp1/1p5p/b1pp4/3P4/P2BPNB1/1P2KPPP/R2Q3R w",
+        "solution": "14.b4 14...cxb4 15.Qb3 15...Nc5 16.dxc5"
+    },
+    "892": {
+        "fen": "1r4k1/3R1ppp/1qb1p3/1Pb1Q3/2P2P2/4p3/2N1B2P/2K5 w",
+        "solution": "30.Rc7 30...Bf3 31.Bxf3 31...Bd6 32.Rc6"
+    },
+    "893": {
+        "fen": "6rk/2p4p/p4p1B/2b4Q/Ppq5/1n3N1P/1P4P1/4R2K w",
+        "solution": "29.Ne5"
+    },
+    "894": {
+        "fen": "1rr3k1/1b2qpp1/pp1bpn1p/4n3/P1BNP3/2N1BP1P/QP4P1/R2R2K1 w",
+        "solution": "19.Bxe6 Rd8 20.Nf5"
+    },
+    "895": {
+        "fen": "4r2r/5p2/1kp4p/p3RQp1/3R4/P5P1/qP3PP1/2K5 w",
+        "solution": "28.Rb5+ 28...Ka6 29.Rxa5+ 29...Kb6 30.Qc5+"
+    },
+    "896": {
+        "fen": "r1b1r1k1/ppb2pp1/2nq3p/3p4/3P4/3BBN1P/PP3PP1/R2QR1K1 w",
+        "solution": "17.Bf4"
+    },
+    "897": {
+        "fen": "2r2qk1/6r1/2Ppp1pQ/p1n2pP1/1p1B4/1P5P/P1P3B1/4R1K1 w",
+        "solution": "28.Rxe6 28...Nxe6 29.Bd5 Re8 30.c7 Kf7 31.Bxg7 Qg8 32.Bf6"
+    },
+    "898": {
+        "fen": "5k2/p4p1p/Pr2p3/1nRr1p2/1R6/3N1PP1/4P1KP/8 w",
+        "solution": "35.Rxd5 exd5 36.Nf4 36...Nc7 37.Rxb6 axb6 38.a7"
+    },
+    "899": {
+        "fen": "5k1r/p1nbq2r/1p1p1pp1/1PpPp1b1/2P1P1P1/P2Q1P1n/2KNN2R/3BB2R b",
+        "solution": "30...Nf2 31.Bxf2 31...Rxh2 32.Rxh2 Rxh2"
+    },
+    "900": {
+        "fen": "5rk1/6pp/2N5/Q2p4/4q1n1/6P1/5P1P/3R2K1 b",
+        "solution": "32...Ne3 33.fxe3 Qxe3+ 34.Kg2 Rf2+ 35.Kh3 Qh6+ 36.Kg4 Qg6+"
+    },
+    "901": {
+        "fen": "5r2/1p3pk1/p1rpbn1p/b1q1p3/P3P3/1PNR1Q2/2P2PPP/R1B3K1 w",
+        "solution": "21.Bxh6+ Kg6 22.Nd5 22...Nh7 23.Qg3+ Kh5 24.Nf6+ Nxf6 25.Qg5#"
+    },
+    "902": {
+        "fen": "4r1k1/pR3b2/5Ppp/6P1/4B1n1/7r/P3R1N1/6K1 w",
+        "solution": "34.Bd5 34...Rxe2 35.Bxf7+ Kf8 36.Bxg6 36...Re8 37.Rf7+ Kg8 38.Rg7+ Kh8 39.Rh7+"
+    },
+    "903": {
+        "fen": "2rqr1k1/R3bp1p/1n4p1/3P1b1N/3P1B2/6QP/6B1/5RK1 w",
+        "solution": "33.Rxe7 33...Qxe7 34.Bg5 34...Qe2 35.Nf6+ Kg7 36.Nxe8+ Rxe8 37.Rxf5"
+    },
+    "904": {
+        "fen": "1B6/p4k1p/1p3pp1/2pN4/2P1K1PP/PP1R4/3r1r2/8 b",
+        "solution": "42...f5+ 43.gxf5 gxf5+ 44.Ke5 44...Rxd3"
+    },
+    "905": {
+        "fen": "3q4/k1p2br1/1pQ5/p2pR3/P2P4/1P1B4/K1P5/8 w",
+        "solution": "39.Re7 39...Qxe7 40.Ba6 40...Kxa6 41.Qa8#"
+    },
+    "906": {
+        "fen": "1n1r1k2/p1rbbppp/1p1Npn2/2P5/8/BN4P1/P3PPBP/R2R2K1 w",
+        "solution": "19.Nb5 19...Rcc8 20.Nxa7 Rc7 21.cxb6"
+    },
+    "907": {
+        "fen": "2r1r1kb/1b2qp1p/1np2npB/1p2p3/4P3/1PP2NNP/5PP1/2QRRBK1 w",
+        "solution": "26.Nf5 26...Qe6 27.Nd6"
+    },
+    "908": {
+        "fen": "3r2k1/1b3pb1/1n3npp/pBp1p1B1/P3P3/2P2NNP/5PP1/1R4K1 w",
+        "solution": "24.Bxf6 Bxf6 25.Ba6 25...Nxa4 26.Rxb7"
+    },
+    "909": {
+        "fen": "8/p4kpp/b7/1p1qP3/2r5/1Q4P1/PPRbPP1P/5RK1 w",
+        "solution": "24.e4 24...Qd4 25.Rd1"
+    },
+    "910": {
+        "fen": "5r2/pR2Npbk/3p2pp/2pP4/P4QP1/2q1P3/5PK1/8 w",
+        "solution": "34.Nxg6 Qd3 35.Nxf8+"
+    },
+    "911": {
+        "fen": "b1r2k2/R1Nr1p2/7p/N6n/2B1PnR1/5P2/6PK/8 w",
+        "solution": "40.Ne6+ 40...Ke7 41.Rxd7+ Kxd7 42.Nxf4"
+    },
+    "912": {
+        "fen": "k7/p1r1qpnp/B2rb1p1/2ppN3/Q5P1/1R2P2P/PP3P2/1KR5 w",
+        "solution": "24.Rxc5 24...Rxc5 25.Bb7+ Qxb7 26.Rxb7 Kxb7 27.Qb4+"
+    },
+    "913": {
+        "fen": "5r1k/pp4bp/1q1p2p1/3Ppb2/1P2Nr2/1Q1B1P2/P5KP/R1BR4 b",
+        "solution": "24...Rxf3 25.Kxf3 25...Bxe4+ 26.Kg3 26...Qf2+"
+    },
+    "914": {
+        "fen": "r4rk1/1b3pp1/p2p4/1p4qp/1P1p1n2/P2P1PN1/B1P2RPP/R2Q2K1 b",
+        "solution": "21...h4 22.Ne4 Bxe4 23.dxe4 Nh3+ 24.Kf1 Nxf2"
+    },
+    "915": {
+        "fen": "4Q3/p5pk/p1pP3p/3bN3/3Pqp2/P6P/5PP1/6K1 w",
+        "solution": "34.Qg6+ 34...Qxg6 35.Nxg6"
+    },
+    "916": {
+        "fen": "r3b2R/7R/r1pkn1p1/4Np2/1PPp1P2/3P1BP1/p1K5/8 w",
+        "solution": "39.Rxe8 39...R8a7 40.c5+"
+    },
+    "917": {
+        "fen": "2r4k/qp5p/3p2p1/3Ppb2/NPB2p1b/1R3Pn1/5RPP/2BQ2K1 w",
+        "solution": "29.Nc5"
+    },
+    "918": {
+        "fen": "2r3k1/ppP4p/6p1/5bN1/3qp3/1P2n1P1/P4QBP/2R3K1 w",
+        "solution": "24.g4 Nc2 25.gxf5"
+    },
+    "919": {
+        "fen": "1r1Nbk2/2n4p/5P1p/1p6/p7/8/P2R1KPP/2rBR3 w",
+        "solution": "38.f7 Bxf7 39.Nxf7 Kxf7 40.Bh5+"
+    },
+    "920": {
+        "fen": "4rrk1/1bpn2pp/p2bp3/1p1p1n1q/3P2N1/2P2N1P/PPB2PP1/R1BQR1K1 w",
+        "solution": "18.Nfe5 18...Bxe5 19.Nh6+"
+    },
+    "921": {
+        "fen": "r4k2/2p1n1bQ/bp2B1p1/p1q5/P2p1P1P/2p1B3/1P4P1/R3R1K1 w",
+        "solution": "28.f5 28...dxe3 29.f6"
+    },
+    "922": {
+        "fen": "2r4r/1b1nqkpp/p3pb2/4p2P/2pN1PQ1/P1N1B2R/1PP5/2KR4 w",
+        "solution": "20.Nxe6 20...Bc6 21.f5 e4 22.Bd4 Rhg8 23.Nxe4 Bxe4 24.Qxe4 c3 25.b4"
+    },
+    "923": {
+        "fen": "5kr1/1p3p1p/2pqB3/4R1rn/p2P4/2P2Q2/PP3P2/3R3K b",
+        "solution": "28...Nf4 29.Qxf4 Rh5+ 30.Rxh5 Qxf4"
+    },
+    "924": {
+        "fen": "r3rbk1/1p1q2pp/5p2/pNpnP3/P2p1PP1/1P3Q1P/1P1B4/R3R2K w",
+        "solution": "22.Nd6 22...Nb4 23.Nxe8"
+    },
+    "925": {
+        "fen": "2k1r2r/pp6/2p2np1/4p3/2P3P1/1P1R1P1p/PB2N2b/1K2R3 b",
+        "solution": "25...e4 26.Re3 26...exf3 27.Rxf3 Ne4 28.Kc2 Ng5 29.Rf2 Be5 30.Bxe5 Rxe5 31.Rh1 Re4 32.Rg1 Nf3 33.Rh1 Ne5 34.Kd2"
+    },
+    "926": {
+        "fen": "6k1/1q3p1p/p2p2p1/4r1PP/4nQ2/2P2N2/P6P/4R1K1 b",
+        "solution": "34...Nxg5"
+    },
+    "927": {
+        "fen": "5rk1/p2bppb1/3p2p1/1pq2PBn/4P1Q1/1B6/P1P5/1K1R3R w",
+        "solution": "24.Bh6 24...Qc3 25.Bxg7 25...Qxg7 26.Rdg1"
+    },
+    "928": {
+        "fen": "5r1B/p3kB1R/1b4p1/4pbN1/5n2/1P3K2/P7/8 b",
+        "solution": "35...Rxh8 36.Rxh8 Kf6"
+    },
+    "929": {
+        "fen": "2r1k1r1/q4p2/pR2p3/Pb2P2p/3Pp3/7Q/2N3PP/4R1K1 w",
+        "solution": "33.Rxe6+ 33...Kf8 34.Qa3+ 34...Kg7 35.Re7 Rc7 36.Rxc7 Qxc7 37.Ne3"
+    },
+    "930": {
+        "fen": "2r4k/N6p/3p2p1/1Q1Pb3/Pq2Pr1P/R1p2P2/1P6/1KR5 b",
+        "solution": "33...c2+ 34.Ka2 34...Qd2 35.Qf1 Qd4"
+    },
+    "931": {
+        "fen": "R6r/1p1rn1kp/2pN1pp1/2P1p3/4P3/2K4P/5PP1/1R6 w",
+        "solution": "26.Ne8+ 26...Kf7 27.Nxf6"
+    },
+    "932": {
+        "fen": "r1q3k1/2n1pp1p/3p2p1/2pP4/1r1bPPn1/1PN2QPP/PB4N1/1R3R1K b",
+        "solution": "22...Ne5"
+    },
+    "933": {
+        "fen": "3r2k1/p4p1n/1pqB1bp1/2pR3p/2P4P/1P4Q1/P2N1PPK/8 b",
+        "solution": "31...Bxh4 32.Qd3 32...Nf6 33.Be7 Qc7+"
+    },
+    "934": {
+        "fen": "r2q1r1k/1b1PNpbp/p2Q4/2p3N1/1pP1p2P/5P1R/PP2nP2/1K1R4 w",
+        "solution": "24.Qxc5 24...Nf4 25.Qf5 Ng6 26.h5 Qxe7 27.hxg6"
+    },
+    "935": {
+        "fen": "r3r1k1/pp3p2/3p1b1R/2pPnBpQ/4P3/5q2/PP2N3/1K4R1 w",
+        "solution": "28.Rxg5+ 28...Kf8 29.Rxf6 29...Qd3+ 30.Kc1 Qe3+ 31.Kd1 Qd3+ 32.Ke1 Qb1+ 33.Kf2"
+    },
+    "936": {
+        "fen": "1r4k1/8/b2pRqp1/p1pP1p2/P1P2P2/2p2Q2/5PB1/6K1 b",
+        "solution": "30...Qxe6 31.dxe6 c2 32.Qe3 Rb1+ 33.Kh2 c1=Q"
+    },
+    "937": {
+        "fen": "1r4k1/RB2rpp1/8/1R4p1/8/1PPn3P/5P2/7K w",
+        "solution": "33.Be4 33...Nxf2+ 34.Kg2 Ree8 35.Rxb8 Rxb8 36.Kxf2"
+    },
+    "938": {
+        "fen": "3r2k1/pp1nb1pq/2p1p1Rp/5r1P/3PN3/2PQ4/PP3P2/1KBR4 b",
+        "solution": "22...Ne5 23.Qg3 23...Rxh5"
+    },
+    "939": {
+        "fen": "5n2/5kpp/3P1p2/4pN2/2b3P1/6PP/3B1K2/8 w",
+        "solution": "40.d7 40...Nxd7 41.Nd6+ Kg6 42.Nxc4"
+    },
+    "940": {
+        "fen": "r6r/k4pp1/pq2p2p/1p1n4/3N3P/1R6/PPP1QPP1/2KR4 w",
+        "solution": "23.Nxb5+ 23...axb5 24.Rxb5 24...Qc6 25.Rdxd5 25...exd5 26.Qe7+ Ka6 27.Rb3"
+    },
+    "941": {
+        "fen": "2r1k3/3n1p2/p5B1/3PpQ2/P4P2/6Pp/2pq1B1P/2b1R1K1 b",
+        "solution": "34...Qxe1+ 35.Bxe1 Be3+ 36.Kf1 c1=Q 37.Qxf7+ Kd8"
+    },
+    "942": {
+        "fen": "3r2k1/2r2pp1/3q3p/p6P/1n1pR3/1P1N1QP1/P1R2PK1/8 w",
+        "solution": "36.Nxb4 36...axb4 37.Rxd4 Qf8 38.Rxd8 Qxd8 39.Rxc7 Qxc7 40.Qa8+ Kh7 41.Qe4+ Kg8 42.Qxb4"
+    },
+    "943": {
+        "fen": "3q4/2RnN1bk/4p1pp/1p2P3/4NP2/8/1P2QKP1/r7 w",
+        "solution": "33.Qd3 33...Qxe7 34.Rxd7 34...Qh4+ 35.Kf3 Qh5+ 36.Kg3"
+    },
+    "944": {
+        "fen": "r5k1/1R1Q3p/3pNb2/p1pP2pq/2P1P3/6P1/6KP/8 w",
+        "solution": "37.Nf4 37...Qh6 38.Qe6+ Kh8 39.Nh5 Rf8 40.Qxd6"
+    },
+    "945": {
+        "fen": "3rr1k1/p7/nq1p2pp/2p1bb2/2P1Np2/1N3B1P/PP1RQPP1/3R2K1 w",
+        "solution": "24.Nxd6 24...Bxd6 25.Rxd6 Rxe2 26.Rxd8+ Kf7 27.Bxe2"
+    },
+    "946": {
+        "fen": "3r4/2qr1pk1/1p4p1/p1pnR3/3P3p/P4QNP/1P3PP1/4R1K1 w",
+        "solution": "40.Nh5+ gxh5 41.Rg5+ 41...Kf8 42.Qxh5"
+    },
+    "947": {
+        "fen": "r1b1r1k1/1p1n1pbp/1qpR2p1/p1n3B1/P1P1P3/1PN3PP/2Q1NPB1/3R2K1 w",
+        "solution": "21.Nd5 Qxb3 22.Qxb3 Nxb3 23.Nc7 23...Re5 24.Nxa8 Rxg5 25.Rxd7 Bxd7 26.Rxd7"
+    },
+    "948": {
+        "fen": "5rk1/pp1b1p2/2q2Qp1/4P2P/6p1/4NP2/P7/5R1K w",
+        "solution": "34.Nd5 Kh7 35.hxg6+ fxg6 36.Qe7+"
+    },
+    "949": {
+        "fen": "1kb1r3/1pp2pp1/p1n5/2bNP1Bp/5P2/2P4P/PK2B1P1/4R3 b",
+        "solution": "33...Nxe5 34.fxe5 34...Rxe5 35.Bf4 35...Rxd5"
+    },
+    "950": {
+        "fen": "r2qr1k1/pb1p1pp1/1pnR1n1p/4pQN1/2P4P/1P2P3/PB3PP1/2K2B1R w",
+        "solution": "17.Rxf6 17...Qxf6 18.Qh7+ Kf8 19.Ne4 19...Qe6 20.Ba3+"
+    },
+    "951": {
+        "fen": "7r/r3kp2/2bp1p2/p1q1pP1N/1pB1P2P/4b3/PPP1Q1P1/1K1R1R2 w",
+        "solution": "22.Nxf6 22...Kxf6 23.Rxd6+ Ke7 24.Rxc6 Qxc6 25.Qxe3"
+    },
+    "952": {
+        "fen": "2b3k1/5ppp/4rn2/2p5/2P5/4N1P1/5PBP/3R2K1 w",
+        "solution": "29.Bc6"
+    },
+    "953": {
+        "fen": "4r2r/ppq2kpp/1b2bp2/nP1p4/R7/B2B1N2/2P2PPP/3QR1K1 w",
+        "solution": "20.Ng5+ fxg5 21.Qf3+ Kg8 22.Rxe6"
+    },
+    "954": {
+        "fen": "6rk/4bppp/bqn1p2B/p2nP3/Pp1N2Q1/1N6/1P3PPP/1B2R1K1 w",
+        "solution": "24.Bxh7 Kxh7 25.Be3 25...Rh8 26.Nxe6"
+    },
+    "955": {
+        "fen": "3r4/1b4b1/1k1pR3/1P1P2pp/2P5/6P1/5P2/4R1K1 w",
+        "solution": "37.c5+ Kxc5 38.Re7 Bd4 39.Rxb7"
+    },
+    "956": {
+        "fen": "3b1r1k/5q2/3p2p1/p2Np3/2P5/1P3rP1/1RQ1RPK1/8 b",
+        "solution": "35...Rxg3+ 36.Kxg3 36...Qf3+ 37.Kh2 Kg7"
+    },
+    "957": {
+        "fen": "2r2rk1/pb4pp/4pb2/1p6/2pPqP2/P1B5/1PN2QPP/4RRK1 b",
+        "solution": "23...Bh4 24.Rxe4 24...Bxf2+ 25.Rxf2 Bxe4"
+    },
+    "958": {
+        "fen": "q1r2rk1/5pp1/6p1/4Rn2/3pN3/5QP1/2P1RPKP/8 b",
+        "solution": "34...d3 35.Re1 35...dxc2"
+    },
+    "959": {
+        "fen": "2r1r1k1/pp3p1p/5Rp1/3N2n1/4P3/1B4Bq/PPP2Q2/6K1 w",
+        "solution": "24.Rxf7 Nxf7 25.Nf6+ Kf8 26.Nxe8"
+    },
+    "960": {
+        "fen": "7k/6r1/2pN2pp/3n4/5Q2/7P/3R1PPK/4q3 w",
+        "solution": "40.Rxd5 cxd5 41.Qf8+ Kh7 42.Ne8"
+    },
+    "961": {
+        "fen": "6rk/3Q3p/5pq1/8/1p1P4/6Pn/5PKN/4R3 b",
+        "solution": "39...Nxf2 40.Kxf2 40...Qxg3+ 41.Ke2 Qxh2+"
+    },
+    "962": {
+        "fen": "5k2/4rp1p/p7/1p2nPp1/2b2N2/2PB4/PKP2PPP/4R3 w",
+        "solution": "23.Ne6+ 23...Bxe6 24.Rxe5"
+    },
+    "963": {
+        "fen": "r2qkbnr/2pb1p1p/p1n3p1/1p2p3/4P3/1BP2N2/PP3PPP/RNBQK2R w",
+        "solution": "9.Qd5 Qf6 10.Nxe5 10...Nxe5 11.Qxa8+"
+    },
+    "964": {
+        "fen": "r3r3/pp2nkp1/2p1bp2/2Pp3p/2PB4/1B2RPPq/PP2Q2P/5RK1 w",
+        "solution": "28.Re1 28...Nf5 29.cxd5 29...Nxd4 30.dxe6+"
+    },
+    "965": {
+        "fen": "6k1/p1qb1pb1/1pn1pB1p/1B2P1pP/3P4/8/P3NPP1/2Q3K1 w",
+        "solution": "25.d5 25...exd5 26.Nd4"
+    },
+    "966": {
+        "fen": "5b1r/1pk2ppp/pNp1p3/4Pb2/4q3/4P3/PP2K2P/R1B1QB1R b",
+        "solution": "16...Qg4+ 17.Kf2 17...Qh4+ 18.Ke2 Bg4+ 19.Kd2 Bb4+"
+    },
+    "967": {
+        "fen": "4k3/1R1p2pp/3P1p2/2P1p3/2b5/Br3P2/1P4PP/6K1 w",
+        "solution": "32.c6 dxc6 33.Bb4"
+    },
+    "968": {
+        "fen": "3r2k1/p2r1pp1/b4q2/P1pB4/2P1P1p1/5p1P/Q4P1K/1R4R1 b",
+        "solution": "32...Bxc4 33.Qxc4 33...Qf4+ 34.Rg3 34...Rxd5 35.Qxd5 35...Rxd5 36.exd5 c4"
+    },
+    "969": {
+        "fen": "r2q1rk1/pb3ppp/1pn1p3/4P3/1b6/2BB1N2/PP2QPPP/R4RK1 w",
+        "solution": "15.Bxh7+ 15...Kxh7 16.Qe4+ Kg8 17.Bxb4 Nxb4 18.Qxb7"
+    },
+    "970": {
+        "fen": "7r/p4p2/PpB1pk1p/1Pn2p2/7R/2P1KPP1/4P2P/8 w",
+        "solution": "37.Rc4 37...Rb8 38.Rxc5 bxc5 39.Bb7"
+    },
+    "971": {
+        "fen": "3r1r1k/6bp/6p1/1R2p3/q4p2/2Bb1N1P/1Q3PP1/5RK1 w",
+        "solution": "33.Rb7 33...Qc2 34.Qb4 34...Rfe8 35.Re1 Be2 36.Nxe5 Bxe5 37.Bxe5+ Rxe5 38.Qxf4 Qf5 39.Qh6"
+    },
+    "972": {
+        "fen": "8/1pp3kp/p2b2B1/3P3r/5q2/5P2/PPQ3RP/7K b",
+        "solution": "34...Rxh2+ 35.Rxh2 Qxf3+ 36.Kg1 36...Bxh2+ 37.Kxh2 Qf4+ 38.Kg2 hxg6"
+    },
+    "973": {
+        "fen": "2bqr1k1/1p3pbp/1n4p1/3P2N1/4p3/2P3P1/3Q1PBP/2BR2K1 b",
+        "solution": "20...e3 21.Qb2 21...Qxg5 22.Qxb6 22...e2 23.Re1 Qxc1 24.Rxc1 e1=Q+ 25.Rxe1 Rxe1+ 26.Bf1 Bh3"
+    },
+    "974": {
+        "fen": "5rk1/p7/2p3pP/3nqpN1/Q5P1/8/PP2r3/1KB2R1R b",
+        "solution": "32...Nc3+ 33.bxc3 Rb8+ 34.Qb4 Rxb4+ 35.cxb4 Qd5 36.h7+ Kh8 37.Bb2+ Rxb2+ 38.Kxb2 Qd2+"
+    },
+    "975": {
+        "fen": "r4rk1/5ppp/1qp1pP2/1bRpP3/4P3/1p6/P2Q1PBP/2R3K1 b",
+        "solution": "22...Qxc5 23.a4 23...Qxc1+ 24.Qxc1 b2"
+    },
+    "976": {
+        "fen": "2rr2k1/q4pbn/2p3p1/N2nP2p/1p1P1N2/1P4PP/P2B2Q1/3R1RK1 w",
+        "solution": "30.Nxc6 Rxc6 31.Nxd5 Qxd4+ 32.Be3 Qxe5 33.Ne7+ 33...Qxe7 34.Rxd8+ Qxd8 35.Qxc6"
+    },
+    "977": {
+        "fen": "r1bqk3/p2pppbn/1pn3p1/3N2B1/2P5/1N4P1/PP2PP2/R2QK2B w",
+        "solution": "13.Bxe7 13...Nxe7 14.Nxe7 Bxb2 15.Rb1 15...Bc3+ 16.Kf1"
+    },
+    "978": {
+        "fen": "6rk/2p1qr1p/3b1p1B/2p1p1p1/P1Q1P1P1/1P5P/2P1R1P1/5R1K w",
+        "solution": "30.h4 30...gxh4 31.g5 31...Rg6 32.Ref2"
+    },
+    "979": {
+        "fen": "r2r3k/1p4b1/3p1n1p/3PpPp1/1Q2Pn1q/1P2BP2/P2N4/1KR2BR1 b",
+        "solution": "30...N4xd5 31.Bxg5 31...Qxg5 32.Rxg5 Nxb4"
+    },
+    "980": {
+        "fen": "4r1k1/p1p2rb1/1pbp3p/4nqp1/2P5/1P3PB1/P1NQP2P/2RR1BK1 b",
+        "solution": "26...Qxf3 27.exf3 Nxf3+ 28.Kh1 Nxd2+"
+    },
+    "981": {
+        "fen": "r1r3k1/pq1n1ppp/1p2p3/1Nb5/2Q2B2/4P3/PP3PPP/2RR2K1 w",
+        "solution": "17.Nc7 17...Rxc7 18.Bxc7 Qxc7 19.b4"
+    },
+    "982": {
+        "fen": "6k1/1b1r2p1/p4n1p/Ppq1pP2/2p1P2N/2P3PP/2Q3BK/3R4 b",
+        "solution": "27...Bxe4"
+    },
+    "983": {
+        "fen": "3r1r2/p3npk1/1q1p2p1/1b4P1/1p1PPN2/5R1B/PP3Q2/4R1K1 w",
+        "solution": "31.Be6 31...Be8 32.Nd5 32...Nxd5 33.Bxd5"
+    },
+    "984": {
+        "fen": "5rk1/1b5p/1q2p1p1/1p2P3/3RPn2/5N1P/1P3QP1/5BK1 b",
+        "solution": "31...Nxh3+ 32.gxh3 Rxf3 33.Qxf3 Qxd4+"
+    }
+}
