@@ -85,7 +85,7 @@
     },
     "22": {
         "fen": "rnbqkb1r/pp1p2pp/2p2p2/4p3/2B5/2P2N2/PPP2PPP/R1BQ1RK1 w",
-        "solution": "7.Nxe5 7...d5 8.Qh5+ 8...g6 9.Nxg6 hxg6 10.Qxh8 10...dxc4 11.Re1Kf7 12.Bh6"
+        "solution": "7.Nxe5 7...d5 8.Qh5+ 8...g6 9.Nxg6 hxg6 10.Qxh8 10...dxc4 11.Re1+ Kf7 12.Bh6"
     },
     "23": {
         "fen": "2r3k1/p3qppp/2pr4/Q2b4/1P2p3/4P3/P3BPPP/2RR2K1 w",
