@@ -41,7 +41,7 @@
     },
     "11": {
         "fen": "rn1qk1nr/ppp2ppp/8/2b1p3/2B1P1b1/5N2/PPPP2PP/RNBQK2R w",
-        "solution": "34.Be4 34...Qxe4 35.Bf6+ Bxf6 36.Qxf6+"
+        "solution": "7.Bxf7+ Kxf7 8.Nxe5+"
     },
     "12": {
         "fen": "r1n5/pp2q1kp/2ppr1p1/4p1Q1/8/2N4R/PPP3PP/5RK1 w",
