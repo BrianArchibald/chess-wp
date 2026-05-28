@@ -241,7 +241,7 @@
     },
     "61": {
         "fen": "3r2k1/q1p1nppp/p3n3/1pb1p3/4P2N/1PP3PP/PBB1QPK1/7R b",
-        "solution": "25...Bxf226.Qxf2 Qxf2+ 27.Kxf2 Rd2+ 28.Ke3 Rxc2"
+        "solution": "25...Bxf2 26.Qxf2 Qxf2+ 27.Kxf2 Rd2+ 28.Ke3 Rxc2"
     },
     "62": {
         "fen": "1Q6/p4pkp/3p2p1/3P4/q7/P3rBbP/6P1/5R1K b",
